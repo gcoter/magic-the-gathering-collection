@@ -1,1 +1,1 @@
-DEFAULT_FOLDER_PATH = "mtgc_data"
+DEFAULT_FOLDER_PATH = "data/collection"
