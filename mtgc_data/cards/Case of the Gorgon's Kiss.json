@@ -1,0 +1,122 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "0d7ead0e-477b-4b3d-b6bf-b2598ddc6f04",
+        "oracle_id": "a89f9072-cf06-429f-a9b8-c11b5731ddd3",
+        "multiverse_ids": [],
+        "tcgplayer_id": 537179,
+        "name": "Case of the Gorgon's Kiss",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/0d7ead0e-477b-4b3d-b6bf-b2598ddc6f04",
+        "scryfall_uri": "https://scryfall.com/card/mkm/79%E2%80%A0/case-of-the-gorgons-kiss?utm_source=api",
+        "layout": "case",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/0/d/0d7ead0e-477b-4b3d-b6bf-b2598ddc6f04.jpg?1707941483",
+            "normal": "https://cards.scryfall.io/normal/front/0/d/0d7ead0e-477b-4b3d-b6bf-b2598ddc6f04.jpg?1707941483",
+            "large": "https://cards.scryfall.io/large/front/0/d/0d7ead0e-477b-4b3d-b6bf-b2598ddc6f04.jpg?1707941483",
+            "png": "https://cards.scryfall.io/png/front/0/d/0d7ead0e-477b-4b3d-b6bf-b2598ddc6f04.png?1707941483",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/0/d/0d7ead0e-477b-4b3d-b6bf-b2598ddc6f04.jpg?1707941483",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/0/d/0d7ead0e-477b-4b3d-b6bf-b2598ddc6f04.jpg?1707941483"
+        },
+        "mana_cost": "{B}",
+        "cmc": 1.0,
+        "type_line": "Enchantment \u2014 Case",
+        "oracle_text": "When this Case enters the battlefield, destroy up to one target creature that was dealt damage this turn.\nTo solve \u2014 Three or more creature cards were put into graveyards from anywhere this turn. (If unsolved, solve at the beginning of your end step.)\nSolved \u2014 This Case is a 4/4 Gorgon creature with deathtouch and lifelink in addition to its other types.",
+        "colors": [
+            "B"
+        ],
+        "color_identity": [
+            "B"
+        ],
+        "keywords": [],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "arena",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": true,
+        "variation_of": "45e4c07a-3205-4193-8163-b0e63e6242a4",
+        "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set": "mkm",
+        "set_name": "Murders at Karlov Manor",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/0d7ead0e-477b-4b3d-b6bf-b2598ddc6f04/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa89f9072-cf06-429f-a9b8-c11b5731ddd3&unique=prints",
+        "collector_number": "79\u2020",
+        "digital": false,
+        "rarity": "uncommon",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Peter Polach",
+        "artist_ids": [
+            "3cb68fd9-a9e9-425d-85a3-c116318a880f"
+        ],
+        "illustration_id": "97b05194-6e90-4e7d-a16c-4bae7e22e10d",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": false,
+        "story_spotlight": false,
+        "edhrec_rank": 23655,
+        "penny_rank": 5788,
+        "prices": {
+            "usd": "0.05",
+            "usd_foil": "0.18",
+            "usd_etched": null,
+            "eur": null,
+            "eur_foil": null,
+            "tix": null
+        },
+        "related_uris": {
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DCase%2Bof%2Bthe%2BGorgon%2527s%2BKiss",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DCase%2Bof%2Bthe%2BGorgon%2527s%2BKiss",
+            "edhrec": "https://edhrec.com/route/?cc=Case+of+the+Gorgon%27s+Kiss"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F537179%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Case+of+the+Gorgon%27s+Kiss&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Case+of+the+Gorgon%27s+Kiss&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 2
+}

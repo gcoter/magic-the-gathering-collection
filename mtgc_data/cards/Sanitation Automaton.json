@@ -1,0 +1,127 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "52608ba4-c47d-44e4-b624-dee2a3a42ae2",
+        "oracle_id": "be2ab552-df82-49a0-8f0b-ee66de34e1a7",
+        "multiverse_ids": [
+            646810
+        ],
+        "mtgo_id": 122004,
+        "arena_id": 89178,
+        "tcgplayer_id": 532903,
+        "cardmarket_id": 750910,
+        "name": "Sanitation Automaton",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/52608ba4-c47d-44e4-b624-dee2a3a42ae2",
+        "scryfall_uri": "https://scryfall.com/card/mkm/256/sanitation-automaton?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/5/2/52608ba4-c47d-44e4-b624-dee2a3a42ae2.jpg?1706716416",
+            "normal": "https://cards.scryfall.io/normal/front/5/2/52608ba4-c47d-44e4-b624-dee2a3a42ae2.jpg?1706716416",
+            "large": "https://cards.scryfall.io/large/front/5/2/52608ba4-c47d-44e4-b624-dee2a3a42ae2.jpg?1706716416",
+            "png": "https://cards.scryfall.io/png/front/5/2/52608ba4-c47d-44e4-b624-dee2a3a42ae2.png?1706716416",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/5/2/52608ba4-c47d-44e4-b624-dee2a3a42ae2.jpg?1706716416",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/5/2/52608ba4-c47d-44e4-b624-dee2a3a42ae2.jpg?1706716416"
+        },
+        "mana_cost": "{2}",
+        "cmc": 2.0,
+        "type_line": "Artifact Creature \u2014 Construct",
+        "oracle_text": "When Sanitation Automaton enters the battlefield, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+        "power": "2",
+        "toughness": "1",
+        "colors": [],
+        "color_identity": [],
+        "keywords": [
+            "Surveil"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "arena",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set": "mkm",
+        "set_name": "Murders at Karlov Manor",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/52608ba4-c47d-44e4-b624-dee2a3a42ae2/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abe2ab552-df82-49a0-8f0b-ee66de34e1a7&unique=prints",
+        "collector_number": "256",
+        "digital": false,
+        "rarity": "common",
+        "flavor_text": "\"I am once again bursting with discarded theories. Disposal imminent.\"",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Mike Burns",
+        "artist_ids": [
+            "184b88b1-b679-4907-91b0-b2f2a458ae20"
+        ],
+        "illustration_id": "f7b43d55-6251-4661-b17c-0a727d017186",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 23379,
+        "prices": {
+            "usd": "0.03",
+            "usd_foil": "0.01",
+            "usd_etched": null,
+            "eur": "0.03",
+            "eur_foil": "0.07",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646810&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DSanitation%2BAutomaton",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DSanitation%2BAutomaton",
+            "edhrec": "https://edhrec.com/route/?cc=Sanitation+Automaton"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F532903%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Murders-at-Karlov-Manor/Sanitation-Automaton?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/122004?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1
+}
