@@ -1,0 +1,132 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "73475d29-2673-4614-86d3-404232426aa8",
+        "oracle_id": "8226f31d-6f51-49c3-87f7-0c68f7f4f9ce",
+        "multiverse_ids": [
+            646585
+        ],
+        "mtgo_id": 121532,
+        "arena_id": 88942,
+        "tcgplayer_id": 535519,
+        "cardmarket_id": 753005,
+        "name": "Make Your Move",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/73475d29-2673-4614-86d3-404232426aa8",
+        "scryfall_uri": "https://scryfall.com/card/mkm/22/make-your-move?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/7/3/73475d29-2673-4614-86d3-404232426aa8.jpg?1706241505",
+            "normal": "https://cards.scryfall.io/normal/front/7/3/73475d29-2673-4614-86d3-404232426aa8.jpg?1706241505",
+            "large": "https://cards.scryfall.io/large/front/7/3/73475d29-2673-4614-86d3-404232426aa8.jpg?1706241505",
+            "png": "https://cards.scryfall.io/png/front/7/3/73475d29-2673-4614-86d3-404232426aa8.png?1706241505",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/7/3/73475d29-2673-4614-86d3-404232426aa8.jpg?1706241505",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/7/3/73475d29-2673-4614-86d3-404232426aa8.jpg?1706241505"
+        },
+        "mana_cost": "{2}{W}",
+        "cmc": 3.0,
+        "type_line": "Instant",
+        "oracle_text": "Destroy target artifact, enchantment, or creature with power 4 or greater.",
+        "colors": [
+            "W"
+        ],
+        "color_identity": [
+            "W"
+        ],
+        "keywords": [],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set": "mkm",
+        "set_name": "Murders at Karlov Manor",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/73475d29-2673-4614-86d3-404232426aa8/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8226f31d-6f51-49c3-87f7-0c68f7f4f9ce&unique=prints",
+        "collector_number": "22",
+        "digital": false,
+        "rarity": "common",
+        "flavor_text": "\"If you're thinking only one step ahead, you're already falling behind.\"\n\u2014Teysa",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Xabi Gaztelua",
+        "artist_ids": [
+            "35b87e24-bfe0-43f4-83c3-2fa9574d6026"
+        ],
+        "illustration_id": "dff48ed4-972a-4b7e-bad5-4ed38e0a3eb7",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 18106,
+        "preview": {
+            "source": "Wizards of the Coast",
+            "source_uri": "https://magic.wizards.com/en/products/murders-at-karlov-manor/card-image-gallery",
+            "previewed_at": "2024-01-24"
+        },
+        "prices": {
+            "usd": "0.03",
+            "usd_foil": "0.03",
+            "usd_etched": null,
+            "eur": "0.07",
+            "eur_foil": "0.11",
+            "tix": "0.02"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646585&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DMake%2BYour%2BMove",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DMake%2BYour%2BMove",
+            "edhrec": "https://edhrec.com/route/?cc=Make+Your+Move"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F535519%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Murders-at-Karlov-Manor/Make-Your-Move?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/121532?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1
+}
