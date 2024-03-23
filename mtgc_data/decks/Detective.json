@@ -1,0 +1,84 @@
+{
+    "cards": [
+        {
+            "name": "Private Eye",
+            "count": 2
+        },
+        {
+            "name": "Hotshot Investigators",
+            "count": 2
+        },
+        {
+            "name": "Mistway Spy",
+            "count": 1
+        },
+        {
+            "name": "Case of the Pilfered Proof",
+            "count": 1
+        },
+        {
+            "name": "Griffnaut Tracker",
+            "count": 1
+        },
+        {
+            "name": "Cold Case Cracker",
+            "count": 2
+        },
+        {
+            "name": "Make Your Move",
+            "count": 1
+        },
+        {
+            "name": "Undercover Crocodelf",
+            "count": 1
+        },
+        {
+            "name": "Inside Source",
+            "count": 1
+        },
+        {
+            "name": "Haazda Vigilante",
+            "count": 1
+        },
+        {
+            "name": "Thinking Cap",
+            "count": 2
+        },
+        {
+            "name": "Makeshift Binding",
+            "count": 1
+        },
+        {
+            "name": "Reasonable Doubt",
+            "count": 1
+        },
+        {
+            "name": "Branch of Vitu-Ghazi",
+            "count": 1
+        },
+        {
+            "name": "Call a Surprise Witness",
+            "count": 1
+        },
+        {
+            "name": "Crimestopper Sprite",
+            "count": 1
+        },
+        {
+            "name": "No Witnesses",
+            "count": 1
+        },
+        {
+            "name": "Burden of Proof",
+            "count": 1
+        },
+        {
+            "name": "Hard Evidence",
+            "count": 1
+        },
+        {
+            "name": "Case File Auditor",
+            "count": 1
+        }
+    ]
+}
