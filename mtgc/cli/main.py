@@ -3,6 +3,7 @@ from fire import Fire
 from pathlib import Path
 
 from mtgc import DEFAULT_FOLDER_PATH
+from mtgc.cli.card import CardCLI
 
 
 def init():
@@ -14,6 +15,7 @@ def init():
 def main():
     Fire({
         "init": init,
+        "card": CardCLI(),
     })
 
 
