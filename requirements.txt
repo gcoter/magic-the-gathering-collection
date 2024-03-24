@@ -4,6 +4,8 @@
 #
 #    pip-compile requirements.in
 #
+beautifulsoup4==4.12.3
+    # via -r requirements.in
 certifi==2024.2.2
     # via requests
 charset-normalizer==3.3.2
@@ -16,6 +18,8 @@ requests==2.31.0
     # via -r requirements.in
 six==1.16.0
     # via fire
+soupsieve==2.5
+    # via beautifulsoup4
 termcolor==2.4.0
     # via fire
 urllib3==2.2.1
