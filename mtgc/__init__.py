@@ -1,1 +1,1 @@
-DEFAULT_FOLDER_PATH = "data/collection"
+DEFAULT_FOLDER_PATH = "data/my_collection"
