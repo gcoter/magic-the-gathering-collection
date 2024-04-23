@@ -1,10 +1,11 @@
 import os
-import re
 import json
 import random
 
 import pandas as pd
 from catboost import CatBoostClassifier
+
+from mtgc.feature_engineering import CardPairFeatureExtractor
 
 
 class AICLI:
@@ -74,57 +75,27 @@ class AICLI:
         print(f"Model saved to '{output_path}'")
 
     def __preprocess(self, df: pd.DataFrame, card_folder_path: str) -> pd.DataFrame:
+        feature_extractor = CardPairFeatureExtractor()
         df = df[df["card_1"] != df["card_2"]].reset_index(drop=True)
         dataset = []
         for n, row in df.iterrows():
             print(f"{n+1}/{len(df)}")
-            card_name_1 = row["card_1"]
-            card_name_2 = row["card_2"]
-            dataset.append(self.__get_card_features(card_name_1, card_name_2, card_folder_path=card_folder_path))
+            card_filename_1 = row["card_1"].replace("/", " - ")
+            card_path_1 = os.path.join(card_folder_path, f"{card_filename_1}.json")
+            card_filename_2 = row["card_2"].replace("/", " - ")
+            card_path_2 = os.path.join(card_folder_path, f"{card_filename_2}.json")
+
+            with open(card_path_1, "r") as f:
+                card_json_dict_1 = json.load(f)
+            with open(card_path_2, "r") as f:
+                card_json_dict_2 = json.load(f)
+
+            features = feature_extractor.extract(card_json_dict_1, card_json_dict_2)
+
+            dataset.append(features)
         dataset = pd.DataFrame(dataset)
         dataset["label"] = df["label"]
         return dataset
-
-    def __get_card_features(self, card_name_1: str, card_name_2: str, card_folder_path: str):
-        card_filename_1 = card_name_1.replace("/", " - ")
-        card_file_1 = os.path.join(card_folder_path, f"{card_filename_1}.json")
-        with open(card_file_1, "r") as f:
-            card_json_dict_1 = json.load(f)
-
-        card_filename_2 = card_name_2.replace("/", " - ")
-        card_file_2 = os.path.join(card_folder_path, f"{card_filename_2}.json")
-        with open(card_file_2, "r") as f:
-            card_json_dict_2 = json.load(f)
-
-        mana_cost_by_color_1 = self.__extract_mana_cost_by_color(card_json_dict_1["scryfall"]["mana_cost"] if "mana_cost" in card_json_dict_1["scryfall"] else "", suffix="1")
-        mana_cost_by_color_2 = self.__extract_mana_cost_by_color(card_json_dict_2["scryfall"]["mana_cost"] if "mana_cost" in card_json_dict_2["scryfall"] else "", suffix="2")
-        n_common_types = len(set(card_json_dict_1["scryfall"]["type_line"].split(" \u2014 ")).intersection(set(card_json_dict_2["scryfall"]["type_line"].split(" \u2014 "))))
-        n_common_keywords = len(set(card_json_dict_1["scryfall"]["keywords"]).intersection(set(card_json_dict_2["scryfall"]["keywords"])))
-
-        return {
-            **mana_cost_by_color_1,
-            **mana_cost_by_color_2,
-            "n_common_types": n_common_types,
-            "n_common_keywords": n_common_keywords
-        }
-
-    def __extract_mana_cost_by_color(self, mana_cost_string, suffix):
-        colorless = re.findall("\d", mana_cost_string)
-        if len(colorless) > 0:
-            # FIXME: Handle cases like 'Bonecrusher Giant' with two costs
-            colorless = int(colorless[0])
-        elif len(colorless) == 0:
-            colorless = 0
-        else:
-            raise ValueError()
-        return {
-            f"mana_cost_C_{suffix}": colorless,
-            f"mana_cost_U_{suffix}": mana_cost_string.count("{U}"),
-            f"mana_cost_G_{suffix}": mana_cost_string.count("{G}"),
-            f"mana_cost_B_{suffix}": mana_cost_string.count("{B}"),
-            f"mana_cost_W_{suffix}": mana_cost_string.count("{W}"),
-            f"mana_cost_R_{suffix}": mana_cost_string.count("{R}"),
-        }
 
     def __split_dataset(self, dataset: pd.DataFrame):
         split_index = int(0.80 * len(dataset))
