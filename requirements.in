@@ -1,3 +1,6 @@
 fire
 requests
 beautifulsoup4
+pandas
+catboost
+sentence-transformers
