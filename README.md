@@ -27,6 +27,11 @@ mtgc deck add --deck mtgc_data/decks/Detective.json --card "mtgc_data/cards/*"
 mtgc mtgdecks scrape --max_n_decks 100 --output_data_folder data/mtgdecks/decks --format "Modern"
 ```
 
+## Scrape stats from 17lands.com
+```
+mtgc 17lands enrich_card --card_json_path "data/my_collection/cards/*.json" --seventeen_lands_folder data/17lands
+```
+
 ## AI (for autodraft)
 ### Create dataset
 ```
