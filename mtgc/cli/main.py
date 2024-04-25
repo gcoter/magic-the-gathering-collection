@@ -7,6 +7,7 @@ from mtgc.cli.card import CardCLI
 from mtgc.cli.deck import DeckCLI
 from mtgc.cli.mtgdecks import MTGDecksCLI
 from mtgc.cli.ai import AICLI
+from mtgc.cli.seventeen_lands import SeventeenLandsCLI
 
 
 def init():
@@ -21,7 +22,8 @@ def main():
         "card": CardCLI(),
         "deck": DeckCLI(),
         "mtgdecks": MTGDecksCLI(),
-        "ai": AICLI()
+        "ai": AICLI(),
+        "17lands": SeventeenLandsCLI()
     })
 
 
