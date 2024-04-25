@@ -159,5 +159,23 @@
             "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Undercover+Crocodelf&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
         }
     },
-    "count": 1
+    "count": 1,
+    "17lands": {
+        "# Seen": 371211,
+        "ALSA": 5.58,
+        "# Picked": 58740,
+        "ATA": 8.15,
+        "# GP": 240145,
+        "% GP": "68.0%",
+        "GP WR": "54.0%",
+        "# OH": 40637,
+        "OH WR": "53.1%",
+        "# GD": 60955,
+        "GD WR": "54.7%",
+        "# GIH": 101592,
+        "GIH WR": "54.1%",
+        "# GNS": 138234,
+        "GNS WR": "54.0%",
+        "IWD": "0.1pp"
+    }
 }

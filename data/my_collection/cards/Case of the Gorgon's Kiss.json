@@ -118,5 +118,23 @@
             "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Case+of+the+Gorgon%27s+Kiss&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
         }
     },
-    "count": 2
+    "count": 2,
+    "17lands": {
+        "# Seen": 149699,
+        "ALSA": 6.27,
+        "# Picked": 15695,
+        "ATA": 9.57,
+        "# GP": 19049,
+        "% GP": "20.4%",
+        "GP WR": "50.2%",
+        "# OH": 2979,
+        "OH WR": "45.9%",
+        "# GD": 4708,
+        "GD WR": "50.6%",
+        "# GIH": 7687,
+        "GIH WR": "48.8%",
+        "# GNS": 11257,
+        "GNS WR": "51.1%",
+        "IWD": "-2.3pp"
+    }
 }

@@ -128,5 +128,23 @@
             "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Case+File+Auditor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
         }
     },
-    "count": 2
+    "count": 2,
+    "17lands": {
+        "# Seen": 140239,
+        "ALSA": 5.44,
+        "# Picked": 20208,
+        "ATA": 7.84,
+        "# GP": 50929,
+        "% GP": "41.6%",
+        "GP WR": "54.5%",
+        "# OH": 8851,
+        "OH WR": "53.1%",
+        "# GD": 12504,
+        "GD WR": "54.7%",
+        "# GIH": 21355,
+        "GIH WR": "54.0%",
+        "# GNS": 29521,
+        "GNS WR": "54.8%",
+        "IWD": "-0.8pp"
+    }
 }
