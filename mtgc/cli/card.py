@@ -29,6 +29,12 @@ class CardCLI:
             response = requests.get(endpoint_url, params=params)
             response.raise_for_status()
             card_scryfall_json_dict = response.json()
+
+            # Handle non-English cards
+            if card_scryfall_json_dict["lang"] != "en":
+                english_card_name = card_scryfall_json_dict["name"]
+                return self.__search_for_card(query=english_card_name)
+
             card_json_dict = self.__format_card_json_dict(card_scryfall_json_dict)
             return card_json_dict
         except requests.exceptions.RequestException as e:
