@@ -1,0 +1,167 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "bbbf8c3a-6c74-42fd-bb8d-61e3f0a77848",
+        "oracle_id": "141a2757-8f20-4e10-9866-bb5d612ed62d",
+        "multiverse_ids": [
+            646725
+        ],
+        "mtgo_id": 121812,
+        "arena_id": 89082,
+        "tcgplayer_id": 532909,
+        "cardmarket_id": 750937,
+        "name": "Loxodon Eavesdropper",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/bbbf8c3a-6c74-42fd-bb8d-61e3f0a77848",
+        "scryfall_uri": "https://scryfall.com/card/mkm/168/loxodon-eavesdropper?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/b/b/bbbf8c3a-6c74-42fd-bb8d-61e3f0a77848.jpg?1706242059",
+            "normal": "https://cards.scryfall.io/normal/front/b/b/bbbf8c3a-6c74-42fd-bb8d-61e3f0a77848.jpg?1706242059",
+            "large": "https://cards.scryfall.io/large/front/b/b/bbbf8c3a-6c74-42fd-bb8d-61e3f0a77848.jpg?1706242059",
+            "png": "https://cards.scryfall.io/png/front/b/b/bbbf8c3a-6c74-42fd-bb8d-61e3f0a77848.png?1706242059",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/b/b/bbbf8c3a-6c74-42fd-bb8d-61e3f0a77848.jpg?1706242059",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/b/b/bbbf8c3a-6c74-42fd-bb8d-61e3f0a77848.jpg?1706242059"
+        },
+        "mana_cost": "{3}{G}",
+        "cmc": 4.0,
+        "type_line": "Creature \u2014 Elephant Detective",
+        "oracle_text": "When Loxodon Eavesdropper enters the battlefield, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this artifact: Draw a card.\")\nWhenever you draw your second card each turn, Loxodon Eavesdropper gets +1/+1 and gains vigilance until end of turn.",
+        "power": "3",
+        "toughness": "3",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "keywords": [
+            "Investigate"
+        ],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "bbbf8c3a-6c74-42fd-bb8d-61e3f0a77848",
+                "component": "combo_piece",
+                "name": "Loxodon Eavesdropper",
+                "type_line": "Creature \u2014 Elephant Detective",
+                "uri": "https://api.scryfall.com/cards/bbbf8c3a-6c74-42fd-bb8d-61e3f0a77848"
+            },
+            {
+                "object": "related_card",
+                "id": "ef607895-d6d2-44ab-a6b4-84af55fce593",
+                "component": "token",
+                "name": "Clue",
+                "type_line": "Token Artifact \u2014 Clue",
+                "uri": "https://api.scryfall.com/cards/ef607895-d6d2-44ab-a6b4-84af55fce593"
+            }
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "arena",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set": "mkm",
+        "set_name": "Murders at Karlov Manor",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/bbbf8c3a-6c74-42fd-bb8d-61e3f0a77848/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A141a2757-8f20-4e10-9866-bb5d612ed62d&unique=prints",
+        "collector_number": "168",
+        "digital": false,
+        "rarity": "common",
+        "flavor_text": "He's all ears.",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Jesper Ejsing",
+        "artist_ids": [
+            "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+        ],
+        "illustration_id": "e0977013-8f99-48a2-b343-0c866d2cbb26",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 23379,
+        "prices": {
+            "usd": "0.03",
+            "usd_foil": "0.03",
+            "usd_etched": null,
+            "eur": "0.03",
+            "eur_foil": "0.05",
+            "tix": "0.02"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646725&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DLoxodon%2BEavesdropper",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DLoxodon%2BEavesdropper",
+            "edhrec": "https://edhrec.com/route/?cc=Loxodon+Eavesdropper"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F532909%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Murders-at-Karlov-Manor/Loxodon-Eavesdropper?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/121812?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 303309,
+        "ALSA": 4.55,
+        "# Picked": 72491,
+        "ATA": 5.81,
+        "# GP": 374011,
+        "% GP": "84.6%",
+        "GP WR": "55.7%",
+        "# OH": 62448,
+        "OH WR": "55.8%",
+        "# GD": 93627,
+        "GD WR": "57.4%",
+        "# GIH": 156075,
+        "GIH WR": "56.7%",
+        "# GNS": 217476,
+        "GNS WR": "54.9%",
+        "IWD": "1.9pp"
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "2dc9f352-5076-4b5f-9815-cf47abb63d5b",
+        "oracle_id": "3a007dbd-18fd-44d1-a305-7cc8dd6231eb",
+        "multiverse_ids": [
+            646748
+        ],
+        "mtgo_id": 121858,
+        "arena_id": 89105,
+        "tcgplayer_id": 535307,
+        "cardmarket_id": 753031,
+        "name": "Coerced to Kill",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/2dc9f352-5076-4b5f-9815-cf47abb63d5b",
+        "scryfall_uri": "https://scryfall.com/card/mkm/192/coerced-to-kill?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/2/d/2dc9f352-5076-4b5f-9815-cf47abb63d5b.jpg?1706242132",
+            "normal": "https://cards.scryfall.io/normal/front/2/d/2dc9f352-5076-4b5f-9815-cf47abb63d5b.jpg?1706242132",
+            "large": "https://cards.scryfall.io/large/front/2/d/2dc9f352-5076-4b5f-9815-cf47abb63d5b.jpg?1706242132",
+            "png": "https://cards.scryfall.io/png/front/2/d/2dc9f352-5076-4b5f-9815-cf47abb63d5b.png?1706242132",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/2/d/2dc9f352-5076-4b5f-9815-cf47abb63d5b.jpg?1706242132",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/2/d/2dc9f352-5076-4b5f-9815-cf47abb63d5b.jpg?1706242132"
+        },
+        "mana_cost": "{3}{U}{B}",
+        "cmc": 5.0,
+        "type_line": "Enchantment \u2014 Aura",
+        "oracle_text": "Enchant creature\nYou control enchanted creature.\nEnchanted creature has base power and toughness 1/1, has deathtouch, and is an Assassin in addition to its other types.",
+        "colors": [
+            "B",
+            "U"
+        ],
+        "color_identity": [
+            "B",
+            "U"
+        ],
+        "keywords": [
+            "Enchant"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set": "mkm",
+        "set_name": "Murders at Karlov Manor",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/2dc9f352-5076-4b5f-9815-cf47abb63d5b/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3a007dbd-18fd-44d1-a305-7cc8dd6231eb&unique=prints",
+        "collector_number": "192",
+        "digital": false,
+        "rarity": "uncommon",
+        "flavor_text": "\"People are being brainwashed into these attacks. We must find the puppet master.\"\n\u2014Alquist Proft",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Justyna Dura",
+        "artist_ids": [
+            "d2340aef-8ca9-4e0d-864c-6a4e8d5e350a"
+        ],
+        "illustration_id": "19a5a5cd-9cab-4799-8bb2-10a78306e94b",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": true,
+        "edhrec_rank": 17479,
+        "prices": {
+            "usd": "0.02",
+            "usd_foil": "0.04",
+            "usd_etched": null,
+            "eur": "0.12",
+            "eur_foil": "0.21",
+            "tix": "0.02"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646748&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DCoerced%2Bto%2BKill",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DCoerced%2Bto%2BKill",
+            "edhrec": "https://edhrec.com/route/?cc=Coerced+to+Kill"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F535307%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Murders-at-Karlov-Manor/Coerced-to-Kill?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/121858?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 102220,
+        "ALSA": 3.95,
+        "# Picked": 27722,
+        "ATA": 4.78,
+        "# GP": 124844,
+        "% GP": "74.0%",
+        "GP WR": "55.3%",
+        "# OH": 20215,
+        "OH WR": "56.3%",
+        "# GD": 35226,
+        "GD WR": "60.2%",
+        "# GIH": 55441,
+        "GIH WR": "58.8%",
+        "# GNS": 68530,
+        "GNS WR": "52.4%",
+        "IWD": "6.4pp"
+    }
+}

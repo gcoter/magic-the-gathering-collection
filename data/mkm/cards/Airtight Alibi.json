@@ -1,0 +1,147 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "bffbbe21-0a1d-48b9-903e-81c109aa11de",
+        "oracle_id": "cb666ea8-55e3-4e27-ae6d-806677dfc17a",
+        "multiverse_ids": [
+            646706
+        ],
+        "mtgo_id": 121774,
+        "arena_id": 89063,
+        "tcgplayer_id": 532904,
+        "cardmarket_id": 750911,
+        "name": "Airtight Alibi",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/bffbbe21-0a1d-48b9-903e-81c109aa11de",
+        "scryfall_uri": "https://scryfall.com/card/mkm/149/airtight-alibi?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/b/f/bffbbe21-0a1d-48b9-903e-81c109aa11de.jpg?1706241938",
+            "normal": "https://cards.scryfall.io/normal/front/b/f/bffbbe21-0a1d-48b9-903e-81c109aa11de.jpg?1706241938",
+            "large": "https://cards.scryfall.io/large/front/b/f/bffbbe21-0a1d-48b9-903e-81c109aa11de.jpg?1706241938",
+            "png": "https://cards.scryfall.io/png/front/b/f/bffbbe21-0a1d-48b9-903e-81c109aa11de.png?1706241938",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/b/f/bffbbe21-0a1d-48b9-903e-81c109aa11de.jpg?1706241938",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/b/f/bffbbe21-0a1d-48b9-903e-81c109aa11de.jpg?1706241938"
+        },
+        "mana_cost": "{2}{G}",
+        "cmc": 3.0,
+        "type_line": "Enchantment \u2014 Aura",
+        "oracle_text": "Flash\nEnchant creature\nWhen Airtight Alibi enters the battlefield, untap enchanted creature. It gains hexproof until end of turn. If it's suspected, it's no longer suspected.\nEnchanted creature gets +2/+2 and can't become suspected.",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "keywords": [
+            "Enchant",
+            "Flash"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "arena",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set": "mkm",
+        "set_name": "Murders at Karlov Manor",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/bffbbe21-0a1d-48b9-903e-81c109aa11de/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acb666ea8-55e3-4e27-ae6d-806677dfc17a&unique=prints",
+        "collector_number": "149",
+        "digital": false,
+        "rarity": "common",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Jeremy Wilson",
+        "artist_ids": [
+            "eb66ec0c-e03d-4a7d-a732-193bfa421f67"
+        ],
+        "illustration_id": "6c8d0dbe-e176-4357-b21f-d42ad281cb33",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 21327,
+        "prices": {
+            "usd": "0.01",
+            "usd_foil": "0.03",
+            "usd_etched": null,
+            "eur": "0.04",
+            "eur_foil": "0.11",
+            "tix": "0.02"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646706&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DAirtight%2BAlibi",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DAirtight%2BAlibi",
+            "edhrec": "https://edhrec.com/route/?cc=Airtight+Alibi"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F532904%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Murders-at-Karlov-Manor/Airtight-Alibi?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/121774?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 411071,
+        "ALSA": 7.12,
+        "# Picked": 53025,
+        "ATA": 10.41,
+        "# GP": 85020,
+        "% GP": "26.6%",
+        "GP WR": "53.6%",
+        "# OH": 13264,
+        "OH WR": "52.5%",
+        "# GD": 20602,
+        "GD WR": "54.4%",
+        "# GIH": 33866,
+        "GIH WR": "53.7%",
+        "# GNS": 50905,
+        "GNS WR": "53.4%",
+        "IWD": "0.3pp"
+    }
+}

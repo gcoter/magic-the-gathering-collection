@@ -1,0 +1,154 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "af5b29b3-974c-4200-8df8-b072c11e1600",
+        "oracle_id": "b749e9e4-0f2a-4157-8cca-facd6b48157f",
+        "multiverse_ids": [
+            646629
+        ],
+        "mtgo_id": 121620,
+        "arena_id": 88986,
+        "tcgplayer_id": 533895,
+        "cardmarket_id": 751852,
+        "name": "Proft's Eidetic Memory",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/af5b29b3-974c-4200-8df8-b072c11e1600",
+        "scryfall_uri": "https://scryfall.com/card/mkm/67/profts-eidetic-memory?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/a/f/af5b29b3-974c-4200-8df8-b072c11e1600.jpg?1706241635",
+            "normal": "https://cards.scryfall.io/normal/front/a/f/af5b29b3-974c-4200-8df8-b072c11e1600.jpg?1706241635",
+            "large": "https://cards.scryfall.io/large/front/a/f/af5b29b3-974c-4200-8df8-b072c11e1600.jpg?1706241635",
+            "png": "https://cards.scryfall.io/png/front/a/f/af5b29b3-974c-4200-8df8-b072c11e1600.png?1706241635",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/a/f/af5b29b3-974c-4200-8df8-b072c11e1600.jpg?1706241635",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/a/f/af5b29b3-974c-4200-8df8-b072c11e1600.jpg?1706241635"
+        },
+        "mana_cost": "{1}{U}",
+        "cmc": 2.0,
+        "type_line": "Legendary Enchantment",
+        "oracle_text": "When Proft's Eidetic Memory enters the battlefield, draw a card.\nYou have no maximum hand size.\nAt the beginning of combat on your turn, if you've drawn more than one card this turn, put X +1/+1 counters on target creature you control, where X is the number of cards you've drawn this turn minus one.",
+        "colors": [
+            "U"
+        ],
+        "color_identity": [
+            "U"
+        ],
+        "keywords": [],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set": "mkm",
+        "set_name": "Murders at Karlov Manor",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/af5b29b3-974c-4200-8df8-b072c11e1600/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab749e9e4-0f2a-4157-8cca-facd6b48157f&unique=prints",
+        "collector_number": "67",
+        "digital": false,
+        "rarity": "rare",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Julie Dillon",
+        "artist_ids": [
+            "ce8605ad-6d5a-45a3-a7b6-84be4f5209cd"
+        ],
+        "illustration_id": "f67373b5-99e5-4bef-9778-82d4b679a66b",
+        "border_color": "black",
+        "frame": "2015",
+        "frame_effects": [
+            "legendary"
+        ],
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 7468,
+        "penny_rank": 2069,
+        "preview": {
+            "source": "Wizards of the Coast",
+            "source_uri": "https://magic.wizards.com/en/products/murders-at-karlov-manor/card-image-gallery",
+            "previewed_at": "2024-01-19"
+        },
+        "prices": {
+            "usd": "1.78",
+            "usd_foil": "1.71",
+            "usd_etched": null,
+            "eur": "0.48",
+            "eur_foil": "0.84",
+            "tix": "0.35"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646629&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DProft%2527s%2BEidetic%2BMemory",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DProft%2527s%2BEidetic%2BMemory",
+            "edhrec": "https://edhrec.com/route/?cc=Proft%27s+Eidetic+Memory"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F533895%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Murders-at-Karlov-Manor/Profts-Eidetic-Memory?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/121620?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 24756,
+        "ALSA": 2.41,
+        "# Picked": 10961,
+        "ATA": 2.47,
+        "# GP": 57268,
+        "% GP": "85.3%",
+        "GP WR": "56.0%",
+        "# OH": 10036,
+        "OH WR": "58.8%",
+        "# GD": 16054,
+        "GD WR": "59.0%",
+        "# GIH": 26090,
+        "GIH WR": "58.9%",
+        "# GNS": 30893,
+        "GNS WR": "53.4%",
+        "IWD": "5.5pp"
+    }
+}

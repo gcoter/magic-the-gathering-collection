@@ -1,0 +1,180 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "2c05bf2d-7d4f-4717-b1ea-ec4284854f4f",
+        "oracle_id": "e4ecfccd-b8b4-4b18-b989-30de79b4971e",
+        "multiverse_ids": [
+            646752
+        ],
+        "mtgo_id": 121866,
+        "arena_id": 89109,
+        "tcgplayer_id": 535538,
+        "cardmarket_id": 753033,
+        "name": "Detective's Satchel",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/2c05bf2d-7d4f-4717-b1ea-ec4284854f4f",
+        "scryfall_uri": "https://scryfall.com/card/mkm/196/detectives-satchel?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/2/c/2c05bf2d-7d4f-4717-b1ea-ec4284854f4f.jpg?1706242142",
+            "normal": "https://cards.scryfall.io/normal/front/2/c/2c05bf2d-7d4f-4717-b1ea-ec4284854f4f.jpg?1706242142",
+            "large": "https://cards.scryfall.io/large/front/2/c/2c05bf2d-7d4f-4717-b1ea-ec4284854f4f.jpg?1706242142",
+            "png": "https://cards.scryfall.io/png/front/2/c/2c05bf2d-7d4f-4717-b1ea-ec4284854f4f.png?1706242142",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/2/c/2c05bf2d-7d4f-4717-b1ea-ec4284854f4f.jpg?1706242142",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/2/c/2c05bf2d-7d4f-4717-b1ea-ec4284854f4f.jpg?1706242142"
+        },
+        "mana_cost": "{2}{U}{R}",
+        "cmc": 4.0,
+        "type_line": "Artifact",
+        "oracle_text": "When Detective's Satchel enters the battlefield, investigate twice. (To investigate, create a Clue token. It's an artifact with \"{2}, Sacrifice this artifact: Draw a card.\")\n{T}: Create a 1/1 colorless Thopter artifact creature token with flying. Activate only if you've sacrificed an artifact this turn.",
+        "colors": [
+            "R",
+            "U"
+        ],
+        "color_identity": [
+            "R",
+            "U"
+        ],
+        "keywords": [
+            "Investigate"
+        ],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "ef607895-d6d2-44ab-a6b4-84af55fce593",
+                "component": "token",
+                "name": "Clue",
+                "type_line": "Token Artifact \u2014 Clue",
+                "uri": "https://api.scryfall.com/cards/ef607895-d6d2-44ab-a6b4-84af55fce593"
+            },
+            {
+                "object": "related_card",
+                "id": "f80c5f0a-5573-4dc2-8791-35e35bdf4c78",
+                "component": "token",
+                "name": "Thopter",
+                "type_line": "Token Artifact Creature \u2014 Thopter",
+                "uri": "https://api.scryfall.com/cards/f80c5f0a-5573-4dc2-8791-35e35bdf4c78"
+            },
+            {
+                "object": "related_card",
+                "id": "2c05bf2d-7d4f-4717-b1ea-ec4284854f4f",
+                "component": "combo_piece",
+                "name": "Detective's Satchel",
+                "type_line": "Artifact",
+                "uri": "https://api.scryfall.com/cards/2c05bf2d-7d4f-4717-b1ea-ec4284854f4f"
+            }
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "arena",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set": "mkm",
+        "set_name": "Murders at Karlov Manor",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/2c05bf2d-7d4f-4717-b1ea-ec4284854f4f/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae4ecfccd-b8b4-4b18-b989-30de79b4971e&unique=prints",
+        "collector_number": "196",
+        "digital": false,
+        "rarity": "uncommon",
+        "flavor_text": "It's a crime lab in a bag.",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Andrew Mar",
+        "artist_ids": [
+            "adad79bf-cd52-456a-b170-740ed8bff0fc"
+        ],
+        "illustration_id": "1e1a5d01-7dbd-4f38-b42a-604080a9d8b1",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 16923,
+        "preview": {
+            "source": "Multiplayer.it",
+            "source_uri": "https://multiplayer.it/notizie/magic-the-gathering-delitti-maniero-karlov-due-nuove-carte-anteprima.html",
+            "previewed_at": "2024-01-23"
+        },
+        "prices": {
+            "usd": "0.02",
+            "usd_foil": "0.05",
+            "usd_etched": null,
+            "eur": "0.07",
+            "eur_foil": "0.18",
+            "tix": "0.02"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646752&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDetective%2527s%2BSatchel",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDetective%2527s%2BSatchel",
+            "edhrec": "https://edhrec.com/route/?cc=Detective%27s+Satchel"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F535538%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Murders-at-Karlov-Manor/Detectives-Satchel?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/121866?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 104548,
+        "ALSA": 4.2,
+        "# Picked": 26359,
+        "ATA": 5.01,
+        "# GP": 112507,
+        "% GP": "70.0%",
+        "GP WR": "55.4%",
+        "# OH": 18592,
+        "OH WR": "56.1%",
+        "# GD": 32263,
+        "GD WR": "59.5%",
+        "# GIH": 50855,
+        "GIH WR": "58.2%",
+        "# GNS": 61556,
+        "GNS WR": "53.0%",
+        "IWD": "5.2pp"
+    }
+}

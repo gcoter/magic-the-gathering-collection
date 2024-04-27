@@ -1,0 +1,154 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "81c7ff67-b9e1-4d2e-b1ae-da9b946da00b",
+        "oracle_id": "1ba59349-a162-4444-b3e0-cddfc01ef03b",
+        "multiverse_ids": [
+            646731
+        ],
+        "mtgo_id": 121824,
+        "arena_id": 89088,
+        "tcgplayer_id": 534172,
+        "cardmarket_id": 752489,
+        "name": "Rubblebelt Maverick",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/81c7ff67-b9e1-4d2e-b1ae-da9b946da00b",
+        "scryfall_uri": "https://scryfall.com/card/mkm/174/rubblebelt-maverick?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/8/1/81c7ff67-b9e1-4d2e-b1ae-da9b946da00b.jpg?1706242077",
+            "normal": "https://cards.scryfall.io/normal/front/8/1/81c7ff67-b9e1-4d2e-b1ae-da9b946da00b.jpg?1706242077",
+            "large": "https://cards.scryfall.io/large/front/8/1/81c7ff67-b9e1-4d2e-b1ae-da9b946da00b.jpg?1706242077",
+            "png": "https://cards.scryfall.io/png/front/8/1/81c7ff67-b9e1-4d2e-b1ae-da9b946da00b.png?1706242077",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/8/1/81c7ff67-b9e1-4d2e-b1ae-da9b946da00b.jpg?1706242077",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/8/1/81c7ff67-b9e1-4d2e-b1ae-da9b946da00b.jpg?1706242077"
+        },
+        "mana_cost": "{G}",
+        "cmc": 1.0,
+        "type_line": "Creature \u2014 Human Detective",
+        "oracle_text": "When Rubblebelt Maverick enters the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)\n{G}, Exile Rubblebelt Maverick from your graveyard: Put a +1/+1 counter on target creature. Activate only as a sorcery.",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "keywords": [
+            "Surveil"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set": "mkm",
+        "set_name": "Murders at Karlov Manor",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/81c7ff67-b9e1-4d2e-b1ae-da9b946da00b/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1ba59349-a162-4444-b3e0-cddfc01ef03b&unique=prints",
+        "collector_number": "174",
+        "digital": false,
+        "rarity": "common",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Carissa Susilo",
+        "artist_ids": [
+            "3b8ade17-3f98-484b-9e49-a694113d86d9"
+        ],
+        "illustration_id": "41274c33-68e6-4dca-bd71-9ce214f7468b",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 20202,
+        "penny_rank": 3847,
+        "preview": {
+            "source": "Wizards of the Coast",
+            "source_uri": "",
+            "previewed_at": "2024-01-22"
+        },
+        "prices": {
+            "usd": "0.03",
+            "usd_foil": "0.07",
+            "usd_etched": null,
+            "eur": "0.16",
+            "eur_foil": "0.14",
+            "tix": "0.02"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646731&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DRubblebelt%2BMaverick",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DRubblebelt%2BMaverick",
+            "edhrec": "https://edhrec.com/route/?cc=Rubblebelt+Maverick"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F534172%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Murders-at-Karlov-Manor/Rubblebelt-Maverick?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/121824?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 355665,
+        "ALSA": 5.55,
+        "# Picked": 61785,
+        "ATA": 7.59,
+        "# GP": 262515,
+        "% GP": "70.4%",
+        "GP WR": "54.6%",
+        "# OH": 46877,
+        "OH WR": "55.8%",
+        "# GD": 62263,
+        "GD WR": "55.4%",
+        "# GIH": 109140,
+        "GIH WR": "55.5%",
+        "# GNS": 153108,
+        "GNS WR": "53.9%",
+        "IWD": "1.6pp"
+    }
+}

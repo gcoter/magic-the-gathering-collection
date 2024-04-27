@@ -1,0 +1,149 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "7ee07266-a95d-4cd8-9863-1664922e9490",
+        "oracle_id": "f3e28778-0149-4dbd-badb-ba5aeacacd76",
+        "multiverse_ids": [
+            194239
+        ],
+        "mtgo_id": 38043,
+        "mtgo_foil_id": 38044,
+        "arena_id": 38043,
+        "tcgplayer_id": 36475,
+        "cardmarket_id": 242793,
+        "name": "Kuldotha Rebirth",
+        "lang": "en",
+        "released_at": "2010-10-01",
+        "uri": "https://api.scryfall.com/cards/7ee07266-a95d-4cd8-9863-1664922e9490",
+        "scryfall_uri": "https://scryfall.com/card/som/96/kuldotha-rebirth?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/7/e/7ee07266-a95d-4cd8-9863-1664922e9490.jpg?1710406507",
+            "normal": "https://cards.scryfall.io/normal/front/7/e/7ee07266-a95d-4cd8-9863-1664922e9490.jpg?1710406507",
+            "large": "https://cards.scryfall.io/large/front/7/e/7ee07266-a95d-4cd8-9863-1664922e9490.jpg?1710406507",
+            "png": "https://cards.scryfall.io/png/front/7/e/7ee07266-a95d-4cd8-9863-1664922e9490.png?1710406507",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/7/e/7ee07266-a95d-4cd8-9863-1664922e9490.jpg?1710406507",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/7/e/7ee07266-a95d-4cd8-9863-1664922e9490.jpg?1710406507"
+        },
+        "mana_cost": "{R}",
+        "cmc": 1.0,
+        "type_line": "Sorcery",
+        "oracle_text": "As an additional cost to cast this spell, sacrifice an artifact.\nCreate three 1/1 red Goblin creature tokens.",
+        "colors": [
+            "R"
+        ],
+        "color_identity": [
+            "R"
+        ],
+        "keywords": [],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "b37f4fdb-1533-4c38-a654-f715fbef6abf",
+                "component": "token",
+                "name": "Goblin",
+                "type_line": "Token Creature \u2014 Goblin",
+                "uri": "https://api.scryfall.com/cards/b37f4fdb-1533-4c38-a654-f715fbef6abf"
+            },
+            {
+                "object": "related_card",
+                "id": "7ee07266-a95d-4cd8-9863-1664922e9490",
+                "component": "combo_piece",
+                "name": "Kuldotha Rebirth",
+                "type_line": "Sorcery",
+                "uri": "https://api.scryfall.com/cards/7ee07266-a95d-4cd8-9863-1664922e9490"
+            }
+        ],
+        "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "not_legal",
+            "explorer": "not_legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "not_legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "8f403072-9b22-4e69-8d59-22dc4c97fd8d",
+        "set": "som",
+        "set_name": "Scars of Mirrodin",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/8f403072-9b22-4e69-8d59-22dc4c97fd8d",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asom&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/som?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/7ee07266-a95d-4cd8-9863-1664922e9490/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af3e28778-0149-4dbd-badb-ba5aeacacd76&unique=prints",
+        "collector_number": "96",
+        "digital": false,
+        "rarity": "common",
+        "watermark": "mirran",
+        "flavor_text": "All goblin rituals serve a dual purpose as fertility rites, even the destructive ones. Especially the destructive ones.",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Goran Josic",
+        "artist_ids": [
+            "522bfda2-454a-4a74-b717-42930040f73a"
+        ],
+        "illustration_id": "0004f285-56a1-4cb6-b909-502a6687171a",
+        "border_color": "black",
+        "frame": "2003",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 9811,
+        "penny_rank": 2779,
+        "prices": {
+            "usd": "1.04",
+            "usd_foil": "10.94",
+            "usd_etched": null,
+            "eur": "2.54",
+            "eur_foil": "13.00",
+            "tix": "0.03"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194239&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DKuldotha%2BRebirth",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DKuldotha%2BRebirth",
+            "edhrec": "https://edhrec.com/route/?cc=Kuldotha+Rebirth"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F36475%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Scars-of-Mirrodin/Kuldotha-Rebirth?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/38043?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {}
+}

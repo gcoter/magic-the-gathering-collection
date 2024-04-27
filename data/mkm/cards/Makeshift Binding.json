@@ -1,0 +1,150 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "e45d2e0c-d70d-40e5-8c3d-db6803393516",
+        "oracle_id": "942f3f06-1df0-40b4-8537-71cbec111852",
+        "multiverse_ids": [
+            646586
+        ],
+        "mtgo_id": 121534,
+        "arena_id": 88943,
+        "tcgplayer_id": 535302,
+        "cardmarket_id": 753006,
+        "name": "Makeshift Binding",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/e45d2e0c-d70d-40e5-8c3d-db6803393516",
+        "scryfall_uri": "https://scryfall.com/card/mkm/23/makeshift-binding?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/e/4/e45d2e0c-d70d-40e5-8c3d-db6803393516.jpg?1706241508",
+            "normal": "https://cards.scryfall.io/normal/front/e/4/e45d2e0c-d70d-40e5-8c3d-db6803393516.jpg?1706241508",
+            "large": "https://cards.scryfall.io/large/front/e/4/e45d2e0c-d70d-40e5-8c3d-db6803393516.jpg?1706241508",
+            "png": "https://cards.scryfall.io/png/front/e/4/e45d2e0c-d70d-40e5-8c3d-db6803393516.png?1706241508",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/e/4/e45d2e0c-d70d-40e5-8c3d-db6803393516.jpg?1706241508",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/e/4/e45d2e0c-d70d-40e5-8c3d-db6803393516.jpg?1706241508"
+        },
+        "mana_cost": "{2}{W}",
+        "cmc": 3.0,
+        "type_line": "Enchantment",
+        "oracle_text": "When Makeshift Binding enters the battlefield, exile target creature an opponent controls until Makeshift Binding leaves the battlefield. You gain 2 life.",
+        "colors": [
+            "W"
+        ],
+        "color_identity": [
+            "W"
+        ],
+        "keywords": [],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set": "mkm",
+        "set_name": "Murders at Karlov Manor",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/e45d2e0c-d70d-40e5-8c3d-db6803393516/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A942f3f06-1df0-40b4-8537-71cbec111852&unique=prints",
+        "collector_number": "23",
+        "digital": false,
+        "rarity": "common",
+        "flavor_text": "Kaya clung to the cords of the barrier ward with all her might, trapping the thrashing dryad like a fly in a spider's web.",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Matt Stewart",
+        "artist_ids": [
+            "20871267-2d8a-41d5-b03a-be3d557c5734"
+        ],
+        "illustration_id": "d637b877-350c-474e-9d47-8cdecce64f4f",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": true,
+        "edhrec_rank": 18553,
+        "preview": {
+            "source": "Wizards of the Coast",
+            "source_uri": "https://magic.wizards.com/en/products/murders-at-karlov-manor/card-image-gallery",
+            "previewed_at": "2024-01-24"
+        },
+        "prices": {
+            "usd": "0.01",
+            "usd_foil": "0.03",
+            "usd_etched": null,
+            "eur": "0.08",
+            "eur_foil": "0.04",
+            "tix": "0.02"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646586&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DMakeshift%2BBinding",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DMakeshift%2BBinding",
+            "edhrec": "https://edhrec.com/route/?cc=Makeshift+Binding"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F535302%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Murders-at-Karlov-Manor/Makeshift-Binding?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/121534?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 174712,
+        "ALSA": 2.67,
+        "# Picked": 67744,
+        "ATA": 3.12,
+        "# GP": 391985,
+        "% GP": "92.9%",
+        "GP WR": "57.2%",
+        "# OH": 66330,
+        "OH WR": "57.3%",
+        "# GD": 95985,
+        "GD WR": "59.2%",
+        "# GIH": 162315,
+        "GIH WR": "58.4%",
+        "# GNS": 226968,
+        "GNS WR": "56.2%",
+        "IWD": "2.2pp"
+    }
+}

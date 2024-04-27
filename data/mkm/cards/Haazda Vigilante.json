@@ -1,0 +1,152 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "5277fe72-dc33-4d19-a439-63b5344c6034",
+        "oracle_id": "4b707ef4-2c17-41e7-8dac-583791a98055",
+        "multiverse_ids": [
+            646581
+        ],
+        "mtgo_id": 121524,
+        "arena_id": 88938,
+        "tcgplayer_id": 535251,
+        "cardmarket_id": 752594,
+        "name": "Haazda Vigilante",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/5277fe72-dc33-4d19-a439-63b5344c6034",
+        "scryfall_uri": "https://scryfall.com/card/mkm/18/haazda-vigilante?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/5/2/5277fe72-dc33-4d19-a439-63b5344c6034.jpg?1706241495",
+            "normal": "https://cards.scryfall.io/normal/front/5/2/5277fe72-dc33-4d19-a439-63b5344c6034.jpg?1706241495",
+            "large": "https://cards.scryfall.io/large/front/5/2/5277fe72-dc33-4d19-a439-63b5344c6034.jpg?1706241495",
+            "png": "https://cards.scryfall.io/png/front/5/2/5277fe72-dc33-4d19-a439-63b5344c6034.png?1706241495",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/5/2/5277fe72-dc33-4d19-a439-63b5344c6034.jpg?1706241495",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/5/2/5277fe72-dc33-4d19-a439-63b5344c6034.jpg?1706241495"
+        },
+        "mana_cost": "{4}{W}",
+        "cmc": 5.0,
+        "type_line": "Creature \u2014 Giant Soldier",
+        "oracle_text": "Whenever Haazda Vigilante enters the battlefield or attacks, put a +1/+1 counter on target creature you control with power 2 or less.",
+        "power": "4",
+        "toughness": "4",
+        "colors": [
+            "W"
+        ],
+        "color_identity": [
+            "W"
+        ],
+        "keywords": [],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set": "mkm",
+        "set_name": "Murders at Karlov Manor",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/5277fe72-dc33-4d19-a439-63b5344c6034/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4b707ef4-2c17-41e7-8dac-583791a98055&unique=prints",
+        "collector_number": "18",
+        "digital": false,
+        "rarity": "common",
+        "flavor_text": "\"Call the Boros if you want. While they figure out if they have enough people to send a patrol, I'll be out clobbering the lowlifes who robbed you.\"",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Tomas Duchek",
+        "artist_ids": [
+            "ceb3ce65-efa6-4bcc-b2a3-33e83a047528"
+        ],
+        "illustration_id": "be89896c-c503-4bdc-b35b-386c270ce4a4",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 25123,
+        "preview": {
+            "source": "Wizards of the Coast",
+            "source_uri": "https://magic.wizards.com/en/products/murders-at-karlov-manor/card-image-gallery",
+            "previewed_at": "2024-01-23"
+        },
+        "prices": {
+            "usd": "0.03",
+            "usd_foil": "0.01",
+            "usd_etched": null,
+            "eur": "0.04",
+            "eur_foil": "0.05",
+            "tix": "0.02"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646581&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DHaazda%2BVigilante",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DHaazda%2BVigilante",
+            "edhrec": "https://edhrec.com/route/?cc=Haazda+Vigilante"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F535251%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Murders-at-Karlov-Manor/Haazda-Vigilante?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/121524?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 371441,
+        "ALSA": 5.67,
+        "# Picked": 55923,
+        "ATA": 8.18,
+        "# GP": 207687,
+        "% GP": "60.5%",
+        "GP WR": "55.8%",
+        "# OH": 31887,
+        "OH WR": "55.1%",
+        "# GD": 49094,
+        "GD WR": "54.6%",
+        "# GIH": 80981,
+        "GIH WR": "54.8%",
+        "# GNS": 126684,
+        "GNS WR": "56.4%",
+        "IWD": "-1.6pp"
+    }
+}

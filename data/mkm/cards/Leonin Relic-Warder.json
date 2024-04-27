@@ -1,0 +1,125 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "c938a21a-ea74-4cc1-a175-08b9b98b2e4e",
+        "oracle_id": "8e720216-a980-4a34-8aef-62ac3ef15a6e",
+        "multiverse_ids": [
+            432997
+        ],
+        "tcgplayer_id": 139974,
+        "cardmarket_id": 300385,
+        "name": "Leonin Relic-Warder",
+        "lang": "en",
+        "released_at": "2017-08-25",
+        "uri": "https://api.scryfall.com/cards/c938a21a-ea74-4cc1-a175-08b9b98b2e4e",
+        "scryfall_uri": "https://scryfall.com/card/c17/65/leonin-relic-warder?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/c/9/c938a21a-ea74-4cc1-a175-08b9b98b2e4e.jpg?1562623339",
+            "normal": "https://cards.scryfall.io/normal/front/c/9/c938a21a-ea74-4cc1-a175-08b9b98b2e4e.jpg?1562623339",
+            "large": "https://cards.scryfall.io/large/front/c/9/c938a21a-ea74-4cc1-a175-08b9b98b2e4e.jpg?1562623339",
+            "png": "https://cards.scryfall.io/png/front/c/9/c938a21a-ea74-4cc1-a175-08b9b98b2e4e.png?1562623339",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/c/9/c938a21a-ea74-4cc1-a175-08b9b98b2e4e.jpg?1562623339",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/c/9/c938a21a-ea74-4cc1-a175-08b9b98b2e4e.jpg?1562623339"
+        },
+        "mana_cost": "{W}{W}",
+        "cmc": 2.0,
+        "type_line": "Creature \u2014 Cat Cleric",
+        "oracle_text": "When Leonin Relic-Warder enters the battlefield, you may exile target artifact or enchantment.\nWhen Leonin Relic-Warder leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+            "W"
+        ],
+        "color_identity": [
+            "W"
+        ],
+        "keywords": [],
+        "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "not_legal",
+            "explorer": "not_legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "not_legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "restricted",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "legal"
+        },
+        "games": [
+            "paper"
+        ],
+        "reserved": false,
+        "foil": false,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": true,
+        "variation": false,
+        "set_id": "5caec427-0c78-4c37-b4ec-30f7e0ba9abf",
+        "set": "c17",
+        "set_name": "Commander 2017",
+        "set_type": "commander",
+        "set_uri": "https://api.scryfall.com/sets/5caec427-0c78-4c37-b4ec-30f7e0ba9abf",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac17&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/c17?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/c938a21a-ea74-4cc1-a175-08b9b98b2e4e/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8e720216-a980-4a34-8aef-62ac3ef15a6e&unique=prints",
+        "collector_number": "65",
+        "digital": false,
+        "rarity": "uncommon",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Greg Staples",
+        "artist_ids": [
+            "93d65564-bf00-447b-8406-e2031f03b6b1"
+        ],
+        "illustration_id": "2bb67235-45bb-423d-9339-764b2592edde",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": false,
+        "story_spotlight": false,
+        "edhrec_rank": 3829,
+        "penny_rank": 1311,
+        "prices": {
+            "usd": "0.41",
+            "usd_foil": null,
+            "usd_etched": null,
+            "eur": "0.21",
+            "eur_foil": null,
+            "tix": null
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=432997&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DLeonin%2BRelic-Warder",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DLeonin%2BRelic-Warder",
+            "edhrec": "https://edhrec.com/route/?cc=Leonin+Relic-Warder"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F139974%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-2017/Leonin-Relic-Warder?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Leonin+Relic-Warder&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {}
+}

@@ -1,0 +1,167 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "ce043cba-aea4-4156-b1d0-545eda06c400",
+        "oracle_id": "07d830a7-f0a2-4d46-9a53-101dca681603",
+        "multiverse_ids": [
+            646654
+        ],
+        "mtgo_id": 121670,
+        "arena_id": 89011,
+        "tcgplayer_id": 532915,
+        "cardmarket_id": 750919,
+        "name": "Nightdrinker Moroii",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/ce043cba-aea4-4156-b1d0-545eda06c400",
+        "scryfall_uri": "https://scryfall.com/card/mkm/96/nightdrinker-moroii?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/c/e/ce043cba-aea4-4156-b1d0-545eda06c400.jpg?1706241726",
+            "normal": "https://cards.scryfall.io/normal/front/c/e/ce043cba-aea4-4156-b1d0-545eda06c400.jpg?1706241726",
+            "large": "https://cards.scryfall.io/large/front/c/e/ce043cba-aea4-4156-b1d0-545eda06c400.jpg?1706241726",
+            "png": "https://cards.scryfall.io/png/front/c/e/ce043cba-aea4-4156-b1d0-545eda06c400.png?1706241726",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/c/e/ce043cba-aea4-4156-b1d0-545eda06c400.jpg?1706241726",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/c/e/ce043cba-aea4-4156-b1d0-545eda06c400.jpg?1706241726"
+        },
+        "mana_cost": "{3}{B}",
+        "cmc": 4.0,
+        "type_line": "Creature \u2014 Vampire",
+        "oracle_text": "Flying\nWhen Nightdrinker Moroii enters the battlefield, you lose 3 life.\nDisguise {B}{B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",
+        "power": "4",
+        "toughness": "2",
+        "colors": [
+            "B"
+        ],
+        "color_identity": [
+            "B"
+        ],
+        "keywords": [
+            "Flying",
+            "Disguise"
+        ],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "ce043cba-aea4-4156-b1d0-545eda06c400",
+                "component": "combo_piece",
+                "name": "Nightdrinker Moroii",
+                "type_line": "Creature \u2014 Vampire",
+                "uri": "https://api.scryfall.com/cards/ce043cba-aea4-4156-b1d0-545eda06c400"
+            },
+            {
+                "object": "related_card",
+                "id": "241b3b6d-a25f-4a43-b5d6-1d1079e7e498",
+                "component": "combo_piece",
+                "name": "A Mysterious Creature",
+                "type_line": "Creature",
+                "uri": "https://api.scryfall.com/cards/241b3b6d-a25f-4a43-b5d6-1d1079e7e498"
+            }
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "restricted",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "arena",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set": "mkm",
+        "set_name": "Murders at Karlov Manor",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/ce043cba-aea4-4156-b1d0-545eda06c400/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A07d830a7-f0a2-4d46-9a53-101dca681603&unique=prints",
+        "collector_number": "96",
+        "digital": false,
+        "rarity": "uncommon",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Brent Hollowell",
+        "artist_ids": [
+            "19d4900c-f5a1-4c08-b5e0-b8d7ba733ec2"
+        ],
+        "illustration_id": "0ddc4668-3710-41b2-8b7d-92841e244949",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 25543,
+        "prices": {
+            "usd": "0.01",
+            "usd_foil": "0.03",
+            "usd_etched": null,
+            "eur": "0.05",
+            "eur_foil": "0.07",
+            "tix": "0.02"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646654&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DNightdrinker%2BMoroii",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DNightdrinker%2BMoroii",
+            "edhrec": "https://edhrec.com/route/?cc=Nightdrinker+Moroii"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F532915%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Murders-at-Karlov-Manor/Nightdrinker-Moroii?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/121670?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 119581,
+        "ALSA": 4.58,
+        "# Picked": 17135,
+        "ATA": 6.39,
+        "# GP": 71245,
+        "% GP": "70.1%",
+        "GP WR": "52.8%",
+        "# OH": 12275,
+        "OH WR": "51.3%",
+        "# GD": 17660,
+        "GD WR": "54.3%",
+        "# GIH": 29935,
+        "GIH WR": "53.1%",
+        "# GNS": 41121,
+        "GNS WR": "52.5%",
+        "IWD": "0.6pp"
+    }
+}

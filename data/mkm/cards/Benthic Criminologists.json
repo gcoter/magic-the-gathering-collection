@@ -1,0 +1,147 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "283b6b5a-acdf-4255-a294-0964d9c62686",
+        "oracle_id": "5539d78c-1acc-46dd-ba6d-cc0cdad6ff44",
+        "multiverse_ids": [
+            646602
+        ],
+        "mtgo_id": 121566,
+        "arena_id": 88959,
+        "tcgplayer_id": 529985,
+        "cardmarket_id": 750659,
+        "name": "Benthic Criminologists",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/283b6b5a-acdf-4255-a294-0964d9c62686",
+        "scryfall_uri": "https://scryfall.com/card/mkm/40/benthic-criminologists?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/2/8/283b6b5a-acdf-4255-a294-0964d9c62686.jpg?1706241559",
+            "normal": "https://cards.scryfall.io/normal/front/2/8/283b6b5a-acdf-4255-a294-0964d9c62686.jpg?1706241559",
+            "large": "https://cards.scryfall.io/large/front/2/8/283b6b5a-acdf-4255-a294-0964d9c62686.jpg?1706241559",
+            "png": "https://cards.scryfall.io/png/front/2/8/283b6b5a-acdf-4255-a294-0964d9c62686.png?1706241559",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/2/8/283b6b5a-acdf-4255-a294-0964d9c62686.jpg?1706241559",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/2/8/283b6b5a-acdf-4255-a294-0964d9c62686.jpg?1706241559"
+        },
+        "mana_cost": "{4}{U}",
+        "cmc": 5.0,
+        "type_line": "Creature \u2014 Merfolk Wizard",
+        "oracle_text": "Whenever Benthic Criminologists enters the battlefield or attacks, you may sacrifice an artifact. If you do, draw a card.",
+        "power": "4",
+        "toughness": "5",
+        "colors": [
+            "U"
+        ],
+        "color_identity": [
+            "U"
+        ],
+        "keywords": [],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "arena",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set": "mkm",
+        "set_name": "Murders at Karlov Manor",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/283b6b5a-acdf-4255-a294-0964d9c62686/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5539d78c-1acc-46dd-ba6d-cc0cdad6ff44&unique=prints",
+        "collector_number": "40",
+        "digital": false,
+        "rarity": "common",
+        "flavor_text": "Scientists from the Simic Combine are regularly seconded to various detective agencies in hopes that sharing their expertise will improve the guild's tarnished reputation.",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Johan Grenier",
+        "artist_ids": [
+            "465e38b8-7eed-4d22-a6d2-d3603ee0c00b"
+        ],
+        "illustration_id": "c01806ea-4333-4d67-a636-24ff1f0e92d2",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 23855,
+        "prices": {
+            "usd": "0.02",
+            "usd_foil": "0.01",
+            "usd_etched": null,
+            "eur": "0.02",
+            "eur_foil": "0.05",
+            "tix": "0.02"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646602&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBenthic%2BCriminologists",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBenthic%2BCriminologists",
+            "edhrec": "https://edhrec.com/route/?cc=Benthic+Criminologists"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F529985%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Murders-at-Karlov-Manor/Benthic-Criminologists?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/121566?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 417524,
+        "ALSA": 7.47,
+        "# Picked": 51023,
+        "ATA": 10.91,
+        "# GP": 53199,
+        "% GP": "17.3%",
+        "GP WR": "53.0%",
+        "# OH": 8244,
+        "OH WR": "51.5%",
+        "# GD": 15016,
+        "GD WR": "53.7%",
+        "# GIH": 23260,
+        "GIH WR": "53.0%",
+        "# GNS": 29908,
+        "GNS WR": "53.0%",
+        "IWD": "-0.1pp"
+    }
+}

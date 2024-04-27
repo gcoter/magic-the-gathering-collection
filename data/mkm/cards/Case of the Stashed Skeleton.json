@@ -1,0 +1,170 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "4b120cbe-f0af-46c5-863f-03ecadf0435c",
+        "oracle_id": "64219e17-1302-4a43-85d2-8a6214448890",
+        "multiverse_ids": [
+            646639
+        ],
+        "mtgo_id": 121640,
+        "arena_id": 88996,
+        "tcgplayer_id": 533408,
+        "cardmarket_id": 751196,
+        "name": "Case of the Stashed Skeleton",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/4b120cbe-f0af-46c5-863f-03ecadf0435c",
+        "scryfall_uri": "https://scryfall.com/card/mkm/80/case-of-the-stashed-skeleton?utm_source=api",
+        "layout": "case",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/4/b/4b120cbe-f0af-46c5-863f-03ecadf0435c.jpg?1706241678",
+            "normal": "https://cards.scryfall.io/normal/front/4/b/4b120cbe-f0af-46c5-863f-03ecadf0435c.jpg?1706241678",
+            "large": "https://cards.scryfall.io/large/front/4/b/4b120cbe-f0af-46c5-863f-03ecadf0435c.jpg?1706241678",
+            "png": "https://cards.scryfall.io/png/front/4/b/4b120cbe-f0af-46c5-863f-03ecadf0435c.png?1706241678",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/4/b/4b120cbe-f0af-46c5-863f-03ecadf0435c.jpg?1706241678",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/4/b/4b120cbe-f0af-46c5-863f-03ecadf0435c.jpg?1706241678"
+        },
+        "mana_cost": "{1}{B}",
+        "cmc": 2.0,
+        "type_line": "Enchantment \u2014 Case",
+        "oracle_text": "When this Case enters the battlefield, create a 2/1 black Skeleton creature token and suspect it. (It has menace and can't block.)\nTo solve \u2014 You control no suspected Skeletons. (If unsolved, solve at the beginning of your end step.)\nSolved \u2014 {1}{B}, Sacrifice this Case: Search your library for a card, put it into your hand, then shuffle. Activate only as a sorcery.",
+        "colors": [
+            "B"
+        ],
+        "color_identity": [
+            "B"
+        ],
+        "keywords": [
+            "Suspect"
+        ],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "02404852-5788-4adb-b2dc-98bf705d8d96",
+                "component": "token",
+                "name": "Skeleton",
+                "type_line": "Token Creature \u2014 Skeleton",
+                "uri": "https://api.scryfall.com/cards/02404852-5788-4adb-b2dc-98bf705d8d96"
+            },
+            {
+                "object": "related_card",
+                "id": "4b120cbe-f0af-46c5-863f-03ecadf0435c",
+                "component": "combo_piece",
+                "name": "Case of the Stashed Skeleton",
+                "type_line": "Enchantment \u2014 Case",
+                "uri": "https://api.scryfall.com/cards/4b120cbe-f0af-46c5-863f-03ecadf0435c"
+            }
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "arena",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set": "mkm",
+        "set_name": "Murders at Karlov Manor",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/4b120cbe-f0af-46c5-863f-03ecadf0435c/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A64219e17-1302-4a43-85d2-8a6214448890&unique=prints",
+        "collector_number": "80",
+        "digital": false,
+        "rarity": "rare",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Camille Alquier",
+        "artist_ids": [
+            "a0670296-0225-4630-95c6-feab68d14df4"
+        ],
+        "illustration_id": "a49ccad1-3da0-4ca5-bc77-da137da9cda5",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 11083,
+        "preview": {
+            "source": "Geekculture",
+            "source_uri": "https://geekculture.co/mtg-case-of-the-stashed-skeleton-card/",
+            "previewed_at": "2024-01-17"
+        },
+        "prices": {
+            "usd": "1.27",
+            "usd_foil": "1.71",
+            "usd_etched": null,
+            "eur": "1.01",
+            "eur_foil": "2.29",
+            "tix": "0.04"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646639&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DCase%2Bof%2Bthe%2BStashed%2BSkeleton",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DCase%2Bof%2Bthe%2BStashed%2BSkeleton",
+            "edhrec": "https://edhrec.com/route/?cc=Case+of+the+Stashed+Skeleton"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F533408%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Murders-at-Karlov-Manor/Case-of-the-Stashed-Skeleton?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/121640?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 24832,
+        "ALSA": 2.4,
+        "# Picked": 8804,
+        "ATA": 2.55,
+        "# GP": 44031,
+        "% GP": "82.7%",
+        "GP WR": "54.4%",
+        "# OH": 7827,
+        "OH WR": "59.5%",
+        "# GD": 11111,
+        "GD WR": "55.4%",
+        "# GIH": 18938,
+        "GIH WR": "57.1%",
+        "# GNS": 24888,
+        "GNS WR": "52.3%",
+        "IWD": "4.8pp"
+    }
+}

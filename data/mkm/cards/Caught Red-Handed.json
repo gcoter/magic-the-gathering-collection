@@ -1,0 +1,152 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "95bc5f89-2f01-40c4-9883-4c90ab89fcbb",
+        "oracle_id": "484b3586-c0ed-4793-a3c0-e99f265e092d",
+        "multiverse_ids": [
+            646673
+        ],
+        "mtgo_id": 121708,
+        "arena_id": 89030,
+        "tcgplayer_id": 534760,
+        "cardmarket_id": 752587,
+        "name": "Caught Red-Handed",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/95bc5f89-2f01-40c4-9883-4c90ab89fcbb",
+        "scryfall_uri": "https://scryfall.com/card/mkm/115/caught-red-handed?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/9/5/95bc5f89-2f01-40c4-9883-4c90ab89fcbb.jpg?1706241833",
+            "normal": "https://cards.scryfall.io/normal/front/9/5/95bc5f89-2f01-40c4-9883-4c90ab89fcbb.jpg?1706241833",
+            "large": "https://cards.scryfall.io/large/front/9/5/95bc5f89-2f01-40c4-9883-4c90ab89fcbb.jpg?1706241833",
+            "png": "https://cards.scryfall.io/png/front/9/5/95bc5f89-2f01-40c4-9883-4c90ab89fcbb.png?1706241833",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/9/5/95bc5f89-2f01-40c4-9883-4c90ab89fcbb.jpg?1706241833",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/9/5/95bc5f89-2f01-40c4-9883-4c90ab89fcbb.jpg?1706241833"
+        },
+        "mana_cost": "{4}{R}",
+        "cmc": 5.0,
+        "type_line": "Instant",
+        "oracle_text": "This spell can't be countered. (This includes by the ward ability.)\nGain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Suspect it. (It has menace and can't block.)",
+        "colors": [
+            "R"
+        ],
+        "color_identity": [
+            "R"
+        ],
+        "keywords": [
+            "Suspect"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set": "mkm",
+        "set_name": "Murders at Karlov Manor",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/95bc5f89-2f01-40c4-9883-4c90ab89fcbb/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A484b3586-c0ed-4793-a3c0-e99f265e092d&unique=prints",
+        "collector_number": "115",
+        "digital": false,
+        "rarity": "uncommon",
+        "flavor_text": "\"Wait, stop! I've been framed! Extremely convincingly!\"",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Donato Giancola",
+        "artist_ids": [
+            "90332db2-aecb-4d79-917b-95cbeb8d0cb6"
+        ],
+        "illustration_id": "633dd0cc-bb5d-43d8-bbd0-aace711c5b84",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 19890,
+        "preview": {
+            "source": "Mookdubs",
+            "source_uri": "https://twitter.com/mookdubsmtg/status/1749453033417719922",
+            "previewed_at": "2024-01-22"
+        },
+        "prices": {
+            "usd": "0.03",
+            "usd_foil": "0.02",
+            "usd_etched": null,
+            "eur": "0.11",
+            "eur_foil": "0.04",
+            "tix": "0.02"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646673&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DCaught%2BRed-Handed",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DCaught%2BRed-Handed",
+            "edhrec": "https://edhrec.com/route/?cc=Caught+Red-Handed"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F534760%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Murders-at-Karlov-Manor/Caught-Red-Handed?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/121708?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 166984,
+        "ALSA": 7.19,
+        "# Picked": 18691,
+        "ATA": 10.83,
+        "# GP": 10135,
+        "% GP": "8.9%",
+        "GP WR": "52.0%",
+        "# OH": 1413,
+        "OH WR": "49.1%",
+        "# GD": 2373,
+        "GD WR": "52.6%",
+        "# GIH": 3786,
+        "GIH WR": "51.3%",
+        "# GNS": 6342,
+        "GNS WR": "52.4%",
+        "IWD": "-1.1pp"
+    }
+}

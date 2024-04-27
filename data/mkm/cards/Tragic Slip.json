@@ -1,0 +1,129 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "588332da-8ec5-49d1-a365-455beb7913a2",
+        "oracle_id": "fa6e2a47-a8cb-4224-ae3e-f61c90477285",
+        "multiverse_ids": [
+            622800
+        ],
+        "mtgo_id": 115483,
+        "tcgplayer_id": 507495,
+        "cardmarket_id": 723722,
+        "name": "Tragic Slip",
+        "lang": "en",
+        "released_at": "2023-08-04",
+        "uri": "https://api.scryfall.com/cards/588332da-8ec5-49d1-a365-455beb7913a2",
+        "scryfall_uri": "https://scryfall.com/card/cmm/192/tragic-slip?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/5/8/588332da-8ec5-49d1-a365-455beb7913a2.jpg?1689997517",
+            "normal": "https://cards.scryfall.io/normal/front/5/8/588332da-8ec5-49d1-a365-455beb7913a2.jpg?1689997517",
+            "large": "https://cards.scryfall.io/large/front/5/8/588332da-8ec5-49d1-a365-455beb7913a2.jpg?1689997517",
+            "png": "https://cards.scryfall.io/png/front/5/8/588332da-8ec5-49d1-a365-455beb7913a2.png?1689997517",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/5/8/588332da-8ec5-49d1-a365-455beb7913a2.jpg?1689997517",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/5/8/588332da-8ec5-49d1-a365-455beb7913a2.jpg?1689997517"
+        },
+        "mana_cost": "{B}",
+        "cmc": 1.0,
+        "type_line": "Instant",
+        "oracle_text": "Target creature gets -1/-1 until end of turn.\nMorbid \u2014 That creature gets -13/-13 until end of turn instead if a creature died this turn.",
+        "colors": [
+            "B"
+        ],
+        "color_identity": [
+            "B"
+        ],
+        "keywords": [
+            "Morbid"
+        ],
+        "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "not_legal",
+            "explorer": "not_legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "not_legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": true,
+        "variation": false,
+        "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+        "set": "cmm",
+        "set_name": "Commander Masters",
+        "set_type": "masters",
+        "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/588332da-8ec5-49d1-a365-455beb7913a2/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afa6e2a47-a8cb-4224-ae3e-f61c90477285&unique=prints",
+        "collector_number": "192",
+        "digital": false,
+        "rarity": "common",
+        "flavor_text": "Linger on death's door and risk being invited in.",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Christopher Moeller",
+        "artist_ids": [
+            "21e10012-06ae-44f2-b38d-3824dd2e73d4"
+        ],
+        "illustration_id": "8730d087-1d06-4c63-af3d-a3f52858c15f",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 781,
+        "penny_rank": 2657,
+        "prices": {
+            "usd": "0.24",
+            "usd_foil": "0.45",
+            "usd_etched": null,
+            "eur": "0.15",
+            "eur_foil": "0.20",
+            "tix": "0.04"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=622800&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DTragic%2BSlip",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DTragic%2BSlip",
+            "edhrec": "https://edhrec.com/route/?cc=Tragic+Slip"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F507495%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Masters/Tragic-Slip?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/115483?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {}
+}

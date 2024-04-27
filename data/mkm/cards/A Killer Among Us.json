@@ -1,0 +1,179 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "2c1392c5-91a5-4e6e-803d-ed032e4d594b",
+        "oracle_id": "79d577a8-53c0-4220-bc0e-70764d72d5fd",
+        "multiverse_ids": [
+            646724
+        ],
+        "mtgo_id": 121810,
+        "arena_id": 89081,
+        "tcgplayer_id": 532882,
+        "cardmarket_id": 750892,
+        "name": "A Killer Among Us",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/2c1392c5-91a5-4e6e-803d-ed032e4d594b",
+        "scryfall_uri": "https://scryfall.com/card/mkm/167/a-killer-among-us?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/2/c/2c1392c5-91a5-4e6e-803d-ed032e4d594b.jpg?1706242059",
+            "normal": "https://cards.scryfall.io/normal/front/2/c/2c1392c5-91a5-4e6e-803d-ed032e4d594b.jpg?1706242059",
+            "large": "https://cards.scryfall.io/large/front/2/c/2c1392c5-91a5-4e6e-803d-ed032e4d594b.jpg?1706242059",
+            "png": "https://cards.scryfall.io/png/front/2/c/2c1392c5-91a5-4e6e-803d-ed032e4d594b.png?1706242059",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/2/c/2c1392c5-91a5-4e6e-803d-ed032e4d594b.jpg?1706242059",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/2/c/2c1392c5-91a5-4e6e-803d-ed032e4d594b.jpg?1706242059"
+        },
+        "mana_cost": "{4}{G}",
+        "cmc": 5.0,
+        "type_line": "Enchantment",
+        "oracle_text": "When A Killer Among Us enters the battlefield, create a 1/1 white Human creature token, a 1/1 blue Merfolk creature token, and a 1/1 red Goblin creature token. Then secretly choose Human, Merfolk, or Goblin.\nSacrifice A Killer Among Us, Reveal the creature type you chose: If target attacking creature token is the chosen type, put three +1/+1 counters on it and it gains deathtouch until end of turn.",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "keywords": [],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "d7cd1de1-9657-4262-be11-8279b3408e54",
+                "component": "token",
+                "name": "Human",
+                "type_line": "Token Creature \u2014 Human",
+                "uri": "https://api.scryfall.com/cards/d7cd1de1-9657-4262-be11-8279b3408e54"
+            },
+            {
+                "object": "related_card",
+                "id": "cd6cd0d3-7973-49e6-9c1c-6f516a5d5fe5",
+                "component": "token",
+                "name": "Goblin",
+                "type_line": "Token Creature \u2014 Goblin",
+                "uri": "https://api.scryfall.com/cards/cd6cd0d3-7973-49e6-9c1c-6f516a5d5fe5"
+            },
+            {
+                "object": "related_card",
+                "id": "c63ce61b-480a-4da6-80f6-63e096902ae6",
+                "component": "token",
+                "name": "Merfolk",
+                "type_line": "Token Creature \u2014 Merfolk",
+                "uri": "https://api.scryfall.com/cards/c63ce61b-480a-4da6-80f6-63e096902ae6"
+            },
+            {
+                "object": "related_card",
+                "id": "2c1392c5-91a5-4e6e-803d-ed032e4d594b",
+                "component": "combo_piece",
+                "name": "A Killer Among Us",
+                "type_line": "Enchantment",
+                "uri": "https://api.scryfall.com/cards/2c1392c5-91a5-4e6e-803d-ed032e4d594b"
+            }
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "arena",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set": "mkm",
+        "set_name": "Murders at Karlov Manor",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/2c1392c5-91a5-4e6e-803d-ed032e4d594b/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A79d577a8-53c0-4220-bc0e-70764d72d5fd&unique=prints",
+        "collector_number": "167",
+        "digital": false,
+        "rarity": "uncommon",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Leesha Hannigan",
+        "artist_ids": [
+            "0c5d1acd-714b-4e7a-b7bf-e3450b305337"
+        ],
+        "illustration_id": "18799776-83c0-495a-b4d1-54c206e0fac2",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 23358,
+        "penny_rank": 7536,
+        "prices": {
+            "usd": "0.02",
+            "usd_foil": "0.04",
+            "usd_etched": null,
+            "eur": "0.03",
+            "eur_foil": "0.05",
+            "tix": "0.02"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646724&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DA%2BKiller%2BAmong%2BUs",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DA%2BKiller%2BAmong%2BUs",
+            "edhrec": "https://edhrec.com/route/?cc=A+Killer+Among+Us"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F532882%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Murders-at-Karlov-Manor/A-Killer-Among-Us?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/121810?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 94033,
+        "ALSA": 3.75,
+        "# Picked": 34478,
+        "ATA": 4.09,
+        "# GP": 184882,
+        "% GP": "86.1%",
+        "GP WR": "57.2%",
+        "# OH": 30195,
+        "OH WR": "59.4%",
+        "# GD": 46734,
+        "GD WR": "60.7%",
+        "# GIH": 76929,
+        "GIH WR": "60.2%",
+        "# GNS": 107287,
+        "GNS WR": "55.1%",
+        "IWD": "5.1pp"
+    }
+}

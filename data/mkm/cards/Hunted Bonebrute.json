@@ -1,0 +1,182 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "a4ca0e10-8b7c-4ce2-888b-752fc909757a",
+        "oracle_id": "c1d9c41a-0941-4b7e-b8a6-890d30386458",
+        "multiverse_ids": [
+            646645
+        ],
+        "mtgo_id": 121652,
+        "arena_id": 89002,
+        "tcgplayer_id": 534066,
+        "cardmarket_id": 751986,
+        "name": "Hunted Bonebrute",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/a4ca0e10-8b7c-4ce2-888b-752fc909757a",
+        "scryfall_uri": "https://scryfall.com/card/mkm/87/hunted-bonebrute?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/a/4/a4ca0e10-8b7c-4ce2-888b-752fc909757a.jpg?1706241698",
+            "normal": "https://cards.scryfall.io/normal/front/a/4/a4ca0e10-8b7c-4ce2-888b-752fc909757a.jpg?1706241698",
+            "large": "https://cards.scryfall.io/large/front/a/4/a4ca0e10-8b7c-4ce2-888b-752fc909757a.jpg?1706241698",
+            "png": "https://cards.scryfall.io/png/front/a/4/a4ca0e10-8b7c-4ce2-888b-752fc909757a.png?1706241698",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/a/4/a4ca0e10-8b7c-4ce2-888b-752fc909757a.jpg?1706241698",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/a/4/a4ca0e10-8b7c-4ce2-888b-752fc909757a.jpg?1706241698"
+        },
+        "mana_cost": "{2}{B}",
+        "cmc": 3.0,
+        "type_line": "Creature \u2014 Skeleton Beast",
+        "oracle_text": "Menace\nWhen Hunted Bonebrute enters the battlefield, target opponent creates two 1/1 white Dog creature tokens.\nWhen Hunted Bonebrute dies, each opponent loses 3 life.\nDisguise {1}{B}",
+        "power": "6",
+        "toughness": "2",
+        "colors": [
+            "B"
+        ],
+        "color_identity": [
+            "B"
+        ],
+        "keywords": [
+            "Menace",
+            "Disguise"
+        ],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "241b3b6d-a25f-4a43-b5d6-1d1079e7e498",
+                "component": "combo_piece",
+                "name": "A Mysterious Creature",
+                "type_line": "Creature",
+                "uri": "https://api.scryfall.com/cards/241b3b6d-a25f-4a43-b5d6-1d1079e7e498"
+            },
+            {
+                "object": "related_card",
+                "id": "8aaf03be-294a-4539-954c-79853f4351a9",
+                "component": "token",
+                "name": "Dog",
+                "type_line": "Token Creature \u2014 Dog",
+                "uri": "https://api.scryfall.com/cards/8aaf03be-294a-4539-954c-79853f4351a9"
+            },
+            {
+                "object": "related_card",
+                "id": "1edff2c6-a259-4442-9e21-07572d0d1665",
+                "component": "combo_piece",
+                "name": "Hunted Bonebrute",
+                "type_line": "Creature \u2014 Skeleton Beast",
+                "uri": "https://api.scryfall.com/cards/1edff2c6-a259-4442-9e21-07572d0d1665"
+            }
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set": "mkm",
+        "set_name": "Murders at Karlov Manor",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/a4ca0e10-8b7c-4ce2-888b-752fc909757a/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac1d9c41a-0941-4b7e-b8a6-890d30386458&unique=prints",
+        "collector_number": "87",
+        "digital": false,
+        "rarity": "rare",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Maxime Minard",
+        "artist_ids": [
+            "a9065769-afcd-4e54-a3c0-5809e7b4108b"
+        ],
+        "illustration_id": "7da38c7b-507f-4816-a1c2-6d68b3e9ae15",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 10769,
+        "penny_rank": 3146,
+        "preview": {
+            "source": "Kurohitsuki",
+            "source_uri": "https://twitter.com/kurohitsuki/status/1748865268695052767",
+            "previewed_at": "2024-01-20"
+        },
+        "prices": {
+            "usd": "0.12",
+            "usd_foil": "0.24",
+            "usd_etched": null,
+            "eur": "0.21",
+            "eur_foil": "0.30",
+            "tix": "0.02"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646645&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DHunted%2BBonebrute",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DHunted%2BBonebrute",
+            "edhrec": "https://edhrec.com/route/?cc=Hunted+Bonebrute"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F534066%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Murders-at-Karlov-Manor/Hunted-Bonebrute?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/121652?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 22206,
+        "ALSA": 2.12,
+        "# Picked": 9733,
+        "ATA": 2.19,
+        "# GP": 51260,
+        "% GP": "87.0%",
+        "GP WR": "55.0%",
+        "# OH": 9118,
+        "OH WR": "58.1%",
+        "# GD": 13087,
+        "GD WR": "58.8%",
+        "# GIH": 22205,
+        "GIH WR": "58.5%",
+        "# GNS": 28868,
+        "GNS WR": "52.1%",
+        "IWD": "6.4pp"
+    }
+}

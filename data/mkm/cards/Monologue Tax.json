@@ -1,0 +1,153 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "e9449f23-6a14-453b-8bb6-5cf85ed7a851",
+        "oracle_id": "ace8e88e-ca6a-4bdf-8c6d-1b914fc00259",
+        "multiverse_ids": [
+            518415
+        ],
+        "mtgo_id": 89781,
+        "arena_id": 83047,
+        "tcgplayer_id": 236069,
+        "cardmarket_id": 558500,
+        "name": "Monologue Tax",
+        "lang": "en",
+        "released_at": "2021-04-23",
+        "uri": "https://api.scryfall.com/cards/e9449f23-6a14-453b-8bb6-5cf85ed7a851",
+        "scryfall_uri": "https://scryfall.com/card/c21/19/monologue-tax?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/e/9/e9449f23-6a14-453b-8bb6-5cf85ed7a851.jpg?1710406482",
+            "normal": "https://cards.scryfall.io/normal/front/e/9/e9449f23-6a14-453b-8bb6-5cf85ed7a851.jpg?1710406482",
+            "large": "https://cards.scryfall.io/large/front/e/9/e9449f23-6a14-453b-8bb6-5cf85ed7a851.jpg?1710406482",
+            "png": "https://cards.scryfall.io/png/front/e/9/e9449f23-6a14-453b-8bb6-5cf85ed7a851.png?1710406482",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/e/9/e9449f23-6a14-453b-8bb6-5cf85ed7a851.jpg?1710406482",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/e/9/e9449f23-6a14-453b-8bb6-5cf85ed7a851.jpg?1710406482"
+        },
+        "mana_cost": "{2}{W}",
+        "cmc": 3.0,
+        "type_line": "Enchantment",
+        "oracle_text": "Whenever an opponent casts their second spell each turn, you create a Treasure token.",
+        "colors": [
+            "W"
+        ],
+        "color_identity": [
+            "W"
+        ],
+        "keywords": [
+            "Treasure"
+        ],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "7ec6f053-96f7-4e57-b2eb-4e7699a40a4f",
+                "component": "token",
+                "name": "Treasure",
+                "type_line": "Token Artifact \u2014 Treasure",
+                "uri": "https://api.scryfall.com/cards/7ec6f053-96f7-4e57-b2eb-4e7699a40a4f"
+            },
+            {
+                "object": "related_card",
+                "id": "4c1d9656-7a27-4142-a307-cca3449cf42b",
+                "component": "combo_piece",
+                "name": "Monologue Tax",
+                "type_line": "Enchantment",
+                "uri": "https://api.scryfall.com/cards/4c1d9656-7a27-4142-a307-cca3449cf42b"
+            }
+        ],
+        "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "not_legal",
+            "explorer": "not_legal",
+            "modern": "not_legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "not_legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": false,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "27bf6dbd-a9e1-4904-afa7-d28fc7745c4f",
+        "set": "c21",
+        "set_name": "Commander 2021",
+        "set_type": "commander",
+        "set_uri": "https://api.scryfall.com/sets/27bf6dbd-a9e1-4904-afa7-d28fc7745c4f",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac21&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/c21?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/e9449f23-6a14-453b-8bb6-5cf85ed7a851/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aace8e88e-ca6a-4bdf-8c6d-1b914fc00259&unique=prints",
+        "collector_number": "19",
+        "digital": false,
+        "rarity": "rare",
+        "flavor_text": "\"Your unsolicited words enrich us all. Please, continue.\"\n\u2014Yold, professor of cryptorelicology",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Justine Cruz",
+        "artist_ids": [
+            "4d6acc42-7bac-42cb-ac57-a56355292e89"
+        ],
+        "illustration_id": "f69c57b2-066f-4f5b-b880-153e8d659838",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": false,
+        "story_spotlight": false,
+        "edhrec_rank": 1778,
+        "preview": {
+            "source": "The Command Zone",
+            "source_uri": "https://www.youtube.com/watch?v=ipS8qV-qiCU",
+            "previewed_at": "2021-04-05"
+        },
+        "prices": {
+            "usd": "4.77",
+            "usd_foil": null,
+            "usd_etched": null,
+            "eur": "4.10",
+            "eur_foil": null,
+            "tix": "0.18"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=518415&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DMonologue%2BTax",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DMonologue%2BTax",
+            "edhrec": "https://edhrec.com/route/?cc=Monologue+Tax"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F236069%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Strixhaven/Monologue-Tax?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/89781?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {}
+}

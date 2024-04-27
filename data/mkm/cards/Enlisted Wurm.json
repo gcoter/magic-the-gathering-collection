@@ -1,0 +1,130 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "1af3eae1-daf0-482f-80ce-db185d16fb88",
+        "oracle_id": "69191459-36ca-4e71-b4bb-0270c4cdaee9",
+        "multiverse_ids": [
+            423515
+        ],
+        "tcgplayer_id": 125412,
+        "cardmarket_id": 294328,
+        "name": "Enlisted Wurm",
+        "lang": "en",
+        "released_at": "2016-11-25",
+        "uri": "https://api.scryfall.com/cards/1af3eae1-daf0-482f-80ce-db185d16fb88",
+        "scryfall_uri": "https://scryfall.com/card/pca/90/enlisted-wurm?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/1/a/1af3eae1-daf0-482f-80ce-db185d16fb88.jpg?1562900080",
+            "normal": "https://cards.scryfall.io/normal/front/1/a/1af3eae1-daf0-482f-80ce-db185d16fb88.jpg?1562900080",
+            "large": "https://cards.scryfall.io/large/front/1/a/1af3eae1-daf0-482f-80ce-db185d16fb88.jpg?1562900080",
+            "png": "https://cards.scryfall.io/png/front/1/a/1af3eae1-daf0-482f-80ce-db185d16fb88.png?1562900080",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/1/a/1af3eae1-daf0-482f-80ce-db185d16fb88.jpg?1562900080",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/1/a/1af3eae1-daf0-482f-80ce-db185d16fb88.jpg?1562900080"
+        },
+        "mana_cost": "{4}{G}{W}",
+        "cmc": 6.0,
+        "type_line": "Creature \u2014 Wurm",
+        "oracle_text": "Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)",
+        "power": "5",
+        "toughness": "5",
+        "colors": [
+            "G",
+            "W"
+        ],
+        "color_identity": [
+            "G",
+            "W"
+        ],
+        "keywords": [
+            "Cascade"
+        ],
+        "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "not_legal",
+            "explorer": "not_legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "not_legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "restricted",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "legal"
+        },
+        "games": [
+            "paper"
+        ],
+        "reserved": false,
+        "foil": false,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": true,
+        "variation": false,
+        "set_id": "ceadd605-dfba-4998-b96d-e8e8138aa20f",
+        "set": "pca",
+        "set_name": "Planechase Anthology",
+        "set_type": "planechase",
+        "set_uri": "https://api.scryfall.com/sets/ceadd605-dfba-4998-b96d-e8e8138aa20f",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apca&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/pca?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/1af3eae1-daf0-482f-80ce-db185d16fb88/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A69191459-36ca-4e71-b4bb-0270c4cdaee9&unique=prints",
+        "collector_number": "90",
+        "digital": false,
+        "rarity": "uncommon",
+        "flavor_text": "A match for any army\u2014even its own.",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Steve Prescott",
+        "artist_ids": [
+            "a1139fb8-41f5-4a9e-9a74-f662e1a23b35"
+        ],
+        "illustration_id": "ab57b8e1-e419-4c3f-8a8d-3dc991aca57b",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": false,
+        "story_spotlight": false,
+        "edhrec_rank": 14312,
+        "penny_rank": 4705,
+        "prices": {
+            "usd": "0.25",
+            "usd_foil": null,
+            "usd_etched": null,
+            "eur": "0.14",
+            "eur_foil": null,
+            "tix": null
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423515&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DEnlisted%2BWurm",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DEnlisted%2BWurm",
+            "edhrec": "https://edhrec.com/route/?cc=Enlisted+Wurm"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F125412%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Planechase-Anthology/Enlisted-Wurm?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Enlisted+Wurm&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {}
+}

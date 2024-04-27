@@ -1,0 +1,151 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "a6cc4c6f-4a84-4d42-89fa-7405f7ad6ba0",
+        "oracle_id": "bb039957-9e88-48cf-b41c-38d42eb87251",
+        "multiverse_ids": [
+            646657
+        ],
+        "mtgo_id": 121676,
+        "arena_id": 89014,
+        "tcgplayer_id": 533909,
+        "cardmarket_id": 751856,
+        "name": "Polygraph Orb",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/a6cc4c6f-4a84-4d42-89fa-7405f7ad6ba0",
+        "scryfall_uri": "https://scryfall.com/card/mkm/99/polygraph-orb?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/a/6/a6cc4c6f-4a84-4d42-89fa-7405f7ad6ba0.jpg?1706241736",
+            "normal": "https://cards.scryfall.io/normal/front/a/6/a6cc4c6f-4a84-4d42-89fa-7405f7ad6ba0.jpg?1706241736",
+            "large": "https://cards.scryfall.io/large/front/a/6/a6cc4c6f-4a84-4d42-89fa-7405f7ad6ba0.jpg?1706241736",
+            "png": "https://cards.scryfall.io/png/front/a/6/a6cc4c6f-4a84-4d42-89fa-7405f7ad6ba0.png?1706241736",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/a/6/a6cc4c6f-4a84-4d42-89fa-7405f7ad6ba0.jpg?1706241736",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/a/6/a6cc4c6f-4a84-4d42-89fa-7405f7ad6ba0.jpg?1706241736"
+        },
+        "mana_cost": "{4}{B}",
+        "cmc": 5.0,
+        "type_line": "Artifact",
+        "oracle_text": "When Polygraph Orb enters the battlefield, look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard. You lose 2 life.\n{2}, {T}, Collect evidence 3: Each opponent loses 3 life unless they discard a card or sacrifice a creature. (To collect evidence 3, exile cards with total mana value 3 or greater from your graveyard.)",
+        "colors": [
+            "B"
+        ],
+        "color_identity": [
+            "B"
+        ],
+        "keywords": [
+            "Collect evidence"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set": "mkm",
+        "set_name": "Murders at Karlov Manor",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/a6cc4c6f-4a84-4d42-89fa-7405f7ad6ba0/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abb039957-9e88-48cf-b41c-38d42eb87251&unique=prints",
+        "collector_number": "99",
+        "digital": false,
+        "rarity": "uncommon",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Jokubas Uogintas",
+        "artist_ids": [
+            "2c14303e-97a3-45fa-9bd8-59e5332a65f9"
+        ],
+        "illustration_id": "9b89a9bb-980a-488d-ab4e-124434f8b0ef",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 22635,
+        "preview": {
+            "source": "Wizards of the Coast",
+            "source_uri": "https://magic.wizards.com/en/products/murders-at-karlov-manor/card-image-gallery",
+            "previewed_at": "2024-01-19"
+        },
+        "prices": {
+            "usd": "0.02",
+            "usd_foil": "0.03",
+            "usd_etched": null,
+            "eur": "0.04",
+            "eur_foil": "0.04",
+            "tix": "0.03"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646657&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DPolygraph%2BOrb",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DPolygraph%2BOrb",
+            "edhrec": "https://edhrec.com/route/?cc=Polygraph+Orb"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F533909%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Murders-at-Karlov-Manor/Polygraph-Orb?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/121676?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 162212,
+        "ALSA": 6.91,
+        "# Picked": 17658,
+        "ATA": 10.47,
+        "# GP": 16547,
+        "% GP": "15.6%",
+        "GP WR": "50.2%",
+        "# OH": 2616,
+        "OH WR": "49.1%",
+        "# GD": 4309,
+        "GD WR": "53.7%",
+        "# GIH": 6925,
+        "GIH WR": "51.9%",
+        "# GNS": 9576,
+        "GNS WR": "48.9%",
+        "IWD": "3.0pp"
+    }
+}

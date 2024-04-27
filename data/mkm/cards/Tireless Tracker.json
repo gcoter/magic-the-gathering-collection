@@ -1,0 +1,149 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "66660f7c-9e1c-4e88-856a-98fab1f1364d",
+        "oracle_id": "e6555cca-e608-4c87-b835-9cd47fd1f543",
+        "multiverse_ids": [
+            650284
+        ],
+        "mtgo_id": 122520,
+        "tcgplayer_id": 535683,
+        "cardmarket_id": 753539,
+        "name": "Tireless Tracker",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/66660f7c-9e1c-4e88-856a-98fab1f1364d",
+        "scryfall_uri": "https://scryfall.com/card/mkc/190/tireless-tracker?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/6/6/66660f7c-9e1c-4e88-856a-98fab1f1364d.jpg?1706240942",
+            "normal": "https://cards.scryfall.io/normal/front/6/6/66660f7c-9e1c-4e88-856a-98fab1f1364d.jpg?1706240942",
+            "large": "https://cards.scryfall.io/large/front/6/6/66660f7c-9e1c-4e88-856a-98fab1f1364d.jpg?1706240942",
+            "png": "https://cards.scryfall.io/png/front/6/6/66660f7c-9e1c-4e88-856a-98fab1f1364d.png?1706240942",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/6/6/66660f7c-9e1c-4e88-856a-98fab1f1364d.jpg?1706240942",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/6/6/66660f7c-9e1c-4e88-856a-98fab1f1364d.jpg?1706240942"
+        },
+        "mana_cost": "{2}{G}",
+        "cmc": 3.0,
+        "type_line": "Creature \u2014 Human Scout",
+        "oracle_text": "Landfall \u2014 Whenever a land enters the battlefield under your control, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this artifact: Draw a card.\")\nWhenever you sacrifice a Clue, put a +1/+1 counter on Tireless Tracker.",
+        "power": "3",
+        "toughness": "2",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "keywords": [
+            "Investigate",
+            "Landfall"
+        ],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "ef607895-d6d2-44ab-a6b4-84af55fce593",
+                "component": "token",
+                "name": "Clue",
+                "type_line": "Token Artifact \u2014 Clue",
+                "uri": "https://api.scryfall.com/cards/ef607895-d6d2-44ab-a6b4-84af55fce593"
+            },
+            {
+                "object": "related_card",
+                "id": "66660f7c-9e1c-4e88-856a-98fab1f1364d",
+                "component": "combo_piece",
+                "name": "Tireless Tracker",
+                "type_line": "Creature \u2014 Human Scout",
+                "uri": "https://api.scryfall.com/cards/66660f7c-9e1c-4e88-856a-98fab1f1364d"
+            }
+        ],
+        "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "not_legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": false,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": true,
+        "variation": false,
+        "set_id": "286c37ca-ba65-4d3e-8c5d-d1878d88fd95",
+        "set": "mkc",
+        "set_name": "Murders at Karlov Manor Commander",
+        "set_type": "commander",
+        "set_uri": "https://api.scryfall.com/sets/286c37ca-ba65-4d3e-8c5d-d1878d88fd95",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/66660f7c-9e1c-4e88-856a-98fab1f1364d/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae6555cca-e608-4c87-b835-9cd47fd1f543&unique=prints",
+        "collector_number": "190",
+        "digital": false,
+        "rarity": "rare",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Eric Deschamps",
+        "artist_ids": [
+            "37970e22-9cee-44c1-af44-5ee27cf26b76"
+        ],
+        "illustration_id": "d84b1b02-5c43-4704-8c9e-ebdd24805299",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": false,
+        "story_spotlight": false,
+        "edhrec_rank": 627,
+        "penny_rank": 359,
+        "prices": {
+            "usd": "0.25",
+            "usd_foil": null,
+            "usd_etched": null,
+            "eur": "0.52",
+            "eur_foil": null,
+            "tix": "0.30"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=650284&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DTireless%2BTracker",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DTireless%2BTracker",
+            "edhrec": "https://edhrec.com/route/?cc=Tireless+Tracker"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F535683%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Murders-at-Karlov-Manor/Tireless-Tracker?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/122520?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {}
+}

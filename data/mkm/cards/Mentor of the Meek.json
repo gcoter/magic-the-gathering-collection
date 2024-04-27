@@ -1,0 +1,128 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "59c2bacd-09e5-403c-b9a2-722fe6d8062e",
+        "oracle_id": "b9f4f96b-6e54-4fe6-8df7-623e0fc72409",
+        "multiverse_ids": [
+            612444
+        ],
+        "tcgplayer_id": 491520,
+        "cardmarket_id": 705586,
+        "name": "Mentor of the Meek",
+        "lang": "en",
+        "released_at": "2023-04-21",
+        "uri": "https://api.scryfall.com/cards/59c2bacd-09e5-403c-b9a2-722fe6d8062e",
+        "scryfall_uri": "https://scryfall.com/card/moc/196/mentor-of-the-meek?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/5/9/59c2bacd-09e5-403c-b9a2-722fe6d8062e.jpg?1682208516",
+            "normal": "https://cards.scryfall.io/normal/front/5/9/59c2bacd-09e5-403c-b9a2-722fe6d8062e.jpg?1682208516",
+            "large": "https://cards.scryfall.io/large/front/5/9/59c2bacd-09e5-403c-b9a2-722fe6d8062e.jpg?1682208516",
+            "png": "https://cards.scryfall.io/png/front/5/9/59c2bacd-09e5-403c-b9a2-722fe6d8062e.png?1682208516",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/5/9/59c2bacd-09e5-403c-b9a2-722fe6d8062e.jpg?1682208516",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/5/9/59c2bacd-09e5-403c-b9a2-722fe6d8062e.jpg?1682208516"
+        },
+        "mana_cost": "{2}{W}",
+        "cmc": 3.0,
+        "type_line": "Creature \u2014 Human Soldier",
+        "oracle_text": "Whenever another creature with power 2 or less enters the battlefield under your control, you may pay {1}. If you do, draw a card.",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+            "W"
+        ],
+        "color_identity": [
+            "W"
+        ],
+        "keywords": [],
+        "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "not_legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "restricted",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper"
+        ],
+        "reserved": false,
+        "foil": false,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": true,
+        "variation": false,
+        "set_id": "6bba5de9-5afb-42af-a7eb-24ac854bf671",
+        "set": "moc",
+        "set_name": "March of the Machine Commander",
+        "set_type": "commander",
+        "set_uri": "https://api.scryfall.com/sets/6bba5de9-5afb-42af-a7eb-24ac854bf671",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amoc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/moc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/59c2bacd-09e5-403c-b9a2-722fe6d8062e/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab9f4f96b-6e54-4fe6-8df7-623e0fc72409&unique=prints",
+        "collector_number": "196",
+        "digital": false,
+        "rarity": "rare",
+        "flavor_text": "\"In these halls there is no pass or fail. Your true test comes with the first full moon.\"",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Jana Schirmer & Johannes Voss",
+        "artist_ids": [
+            "64c0582e-949d-41cb-8a23-a25b87850748",
+            "3593dd7e-c547-4a32-81cd-7da725f60118"
+        ],
+        "illustration_id": "11812b67-d255-4582-891c-a3e12349881a",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": false,
+        "story_spotlight": false,
+        "edhrec_rank": 436,
+        "penny_rank": 3353,
+        "prices": {
+            "usd": "0.16",
+            "usd_foil": null,
+            "usd_etched": null,
+            "eur": "0.21",
+            "eur_foil": null,
+            "tix": null
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=612444&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DMentor%2Bof%2Bthe%2BMeek",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DMentor%2Bof%2Bthe%2BMeek",
+            "edhrec": "https://edhrec.com/route/?cc=Mentor+of+the+Meek"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F491520%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-March-of-the-Machine/Mentor-of-the-Meek?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mentor+of+the+Meek&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {}
+}

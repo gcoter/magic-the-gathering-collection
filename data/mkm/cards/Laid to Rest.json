@@ -1,0 +1,134 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "141f7948-3140-40f2-95dd-ab6c79f2a821",
+        "oracle_id": "ae6dc45c-b8c9-4cbf-892f-8c00f4199aaf",
+        "multiverse_ids": [
+            541073
+        ],
+        "mtgo_id": 94774,
+        "arena_id": 79021,
+        "tcgplayer_id": 253065,
+        "cardmarket_id": 581885,
+        "name": "Laid to Rest",
+        "lang": "en",
+        "released_at": "2021-11-19",
+        "uri": "https://api.scryfall.com/cards/141f7948-3140-40f2-95dd-ab6c79f2a821",
+        "scryfall_uri": "https://scryfall.com/card/vow/207/laid-to-rest?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/1/4/141f7948-3140-40f2-95dd-ab6c79f2a821.jpg?1643593003",
+            "normal": "https://cards.scryfall.io/normal/front/1/4/141f7948-3140-40f2-95dd-ab6c79f2a821.jpg?1643593003",
+            "large": "https://cards.scryfall.io/large/front/1/4/141f7948-3140-40f2-95dd-ab6c79f2a821.jpg?1643593003",
+            "png": "https://cards.scryfall.io/png/front/1/4/141f7948-3140-40f2-95dd-ab6c79f2a821.png?1643593003",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/1/4/141f7948-3140-40f2-95dd-ab6c79f2a821.jpg?1643593003",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/1/4/141f7948-3140-40f2-95dd-ab6c79f2a821.jpg?1643593003"
+        },
+        "mana_cost": "{3}{G}",
+        "cmc": 4.0,
+        "type_line": "Enchantment",
+        "oracle_text": "Whenever a Human you control dies, draw a card.\nWhenever a creature you control with a +1/+1 counter on it dies, you gain 2 life.",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "keywords": [],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "arena",
+            "paper",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+        "set": "vow",
+        "set_name": "Innistrad: Crimson Vow",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/141f7948-3140-40f2-95dd-ab6c79f2a821/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aae6dc45c-b8c9-4cbf-892f-8c00f4199aaf&unique=prints",
+        "collector_number": "207",
+        "digital": false,
+        "rarity": "uncommon",
+        "flavor_text": "\"We are not here to mourn their loss. We are here to celebrate their lives.\"\n\u2014Vesna, Dawnhart witch",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Colin Boyer",
+        "artist_ids": [
+            "9c201dbe-db56-429a-87e6-189ea70c2632"
+        ],
+        "illustration_id": "e577c57c-8af3-47f8-942b-0fcbc210db46",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 6481,
+        "penny_rank": 10176,
+        "preview": {
+            "source": "Ungeek",
+            "source_uri": "https://www.ungeek.ph/2021/11/magic-the-gathering-innistrad-crimson-vow-card-preview-laid-to-rest/",
+            "previewed_at": "2021-11-01"
+        },
+        "prices": {
+            "usd": "0.10",
+            "usd_foil": "0.15",
+            "usd_etched": null,
+            "eur": "0.10",
+            "eur_foil": "0.17",
+            "tix": "0.03"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541073&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DLaid%2Bto%2BRest",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DLaid%2Bto%2BRest",
+            "edhrec": "https://edhrec.com/route/?cc=Laid+to+Rest"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F253065%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Innistrad-Crimson-Vow/Laid-to-Rest?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/94774?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {}
+}

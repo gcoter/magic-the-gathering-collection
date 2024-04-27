@@ -1,0 +1,166 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "7cbb17af-e17e-438a-ad72-0c942e6706b6",
+        "oracle_id": "eeae4161-9f35-45df-8b3c-c55e37f49cd1",
+        "multiverse_ids": [
+            646614
+        ],
+        "mtgo_id": 121590,
+        "arena_id": 88971,
+        "tcgplayer_id": 529982,
+        "cardmarket_id": 750661,
+        "name": "Deduce",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/7cbb17af-e17e-438a-ad72-0c942e6706b6",
+        "scryfall_uri": "https://scryfall.com/card/mkm/52/deduce?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/7/c/7cbb17af-e17e-438a-ad72-0c942e6706b6.jpg?1706241592",
+            "normal": "https://cards.scryfall.io/normal/front/7/c/7cbb17af-e17e-438a-ad72-0c942e6706b6.jpg?1706241592",
+            "large": "https://cards.scryfall.io/large/front/7/c/7cbb17af-e17e-438a-ad72-0c942e6706b6.jpg?1706241592",
+            "png": "https://cards.scryfall.io/png/front/7/c/7cbb17af-e17e-438a-ad72-0c942e6706b6.png?1706241592",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/7/c/7cbb17af-e17e-438a-ad72-0c942e6706b6.jpg?1706241592",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/7/c/7cbb17af-e17e-438a-ad72-0c942e6706b6.jpg?1706241592"
+        },
+        "mana_cost": "{1}{U}",
+        "cmc": 2.0,
+        "type_line": "Instant",
+        "oracle_text": "Draw a card. Investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this artifact: Draw a card.\")",
+        "colors": [
+            "U"
+        ],
+        "color_identity": [
+            "U"
+        ],
+        "keywords": [
+            "Investigate"
+        ],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "ef607895-d6d2-44ab-a6b4-84af55fce593",
+                "component": "token",
+                "name": "Clue",
+                "type_line": "Token Artifact \u2014 Clue",
+                "uri": "https://api.scryfall.com/cards/ef607895-d6d2-44ab-a6b4-84af55fce593"
+            },
+            {
+                "object": "related_card",
+                "id": "5ad92dbd-828e-425f-8cab-819a04ea9020",
+                "component": "combo_piece",
+                "name": "Deduce",
+                "type_line": "Instant",
+                "uri": "https://api.scryfall.com/cards/5ad92dbd-828e-425f-8cab-819a04ea9020"
+            }
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "arena",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set": "mkm",
+        "set_name": "Murders at Karlov Manor",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/7cbb17af-e17e-438a-ad72-0c942e6706b6/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aeeae4161-9f35-45df-8b3c-c55e37f49cd1&unique=prints",
+        "collector_number": "52",
+        "digital": false,
+        "rarity": "common",
+        "flavor_text": "Proft lit up like a man who had just been handed a glorious and unexpected gift. \"I know who's responsible for this,\" he said. \"And I can prove it.\"",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Quintin Gleim",
+        "artist_ids": [
+            "25fbebee-23a4-4431-bd63-14ec82f3c2b9"
+        ],
+        "illustration_id": "b3d1d5ff-9e43-446e-9b24-aafef8b9abdf",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": true,
+        "edhrec_rank": 9857,
+        "penny_rank": 35,
+        "prices": {
+            "usd": "0.09",
+            "usd_foil": "0.11",
+            "usd_etched": null,
+            "eur": "0.11",
+            "eur_foil": "0.23",
+            "tix": "0.02"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646614&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDeduce",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDeduce",
+            "edhrec": "https://edhrec.com/route/?cc=Deduce"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F529982%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Murders-at-Karlov-Manor/Deduce?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/121590?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 365785,
+        "ALSA": 5.73,
+        "# Picked": 55758,
+        "ATA": 8.16,
+        "# GP": 208851,
+        "% GP": "62.1%",
+        "GP WR": "54.7%",
+        "# OH": 36583,
+        "OH WR": "54.5%",
+        "# GD": 57377,
+        "GD WR": "56.0%",
+        "# GIH": 93960,
+        "GIH WR": "55.4%",
+        "# GNS": 114641,
+        "GNS WR": "54.1%",
+        "IWD": "1.3pp"
+    }
+}

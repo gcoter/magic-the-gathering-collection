@@ -1,0 +1,129 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "724acbe2-4c82-4360-a738-38cc6aa0c4a4",
+        "oracle_id": "bb5c1817-ac22-4779-9005-251bc354f181",
+        "multiverse_ids": [
+            456843
+        ],
+        "mtgo_id": 70571,
+        "arena_id": 83449,
+        "tcgplayer_id": 180847,
+        "cardmarket_id": 367040,
+        "name": "Mistveil Plains",
+        "lang": "en",
+        "released_at": "2018-12-07",
+        "uri": "https://api.scryfall.com/cards/724acbe2-4c82-4360-a738-38cc6aa0c4a4",
+        "scryfall_uri": "https://scryfall.com/card/uma/247/mistveil-plains?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/7/2/724acbe2-4c82-4360-a738-38cc6aa0c4a4.jpg?1710406529",
+            "normal": "https://cards.scryfall.io/normal/front/7/2/724acbe2-4c82-4360-a738-38cc6aa0c4a4.jpg?1710406529",
+            "large": "https://cards.scryfall.io/large/front/7/2/724acbe2-4c82-4360-a738-38cc6aa0c4a4.jpg?1710406529",
+            "png": "https://cards.scryfall.io/png/front/7/2/724acbe2-4c82-4360-a738-38cc6aa0c4a4.png?1710406529",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/7/2/724acbe2-4c82-4360-a738-38cc6aa0c4a4.jpg?1710406529",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/7/2/724acbe2-4c82-4360-a738-38cc6aa0c4a4.jpg?1710406529"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Land \u2014 Plains",
+        "oracle_text": "({T}: Add {W}.)\nMistveil Plains enters the battlefield tapped.\n{W}, {T}: Put target card from your graveyard on the bottom of your library. Activate only if you control two or more white permanents.",
+        "colors": [],
+        "color_identity": [
+            "W"
+        ],
+        "keywords": [],
+        "produced_mana": [
+            "W"
+        ],
+        "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "not_legal",
+            "explorer": "not_legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "not_legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": true,
+        "variation": false,
+        "set_id": "2ec77b94-6d47-4891-a480-5d0b4e5c9372",
+        "set": "uma",
+        "set_name": "Ultimate Masters",
+        "set_type": "masters",
+        "set_uri": "https://api.scryfall.com/sets/2ec77b94-6d47-4891-a480-5d0b4e5c9372",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Auma&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/uma?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/724acbe2-4c82-4360-a738-38cc6aa0c4a4/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abb5c1817-ac22-4779-9005-251bc354f181&unique=prints",
+        "collector_number": "247",
+        "digital": false,
+        "rarity": "uncommon",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Ralph Horsley",
+        "artist_ids": [
+            "a51444a8-eb4b-4615-a663-d1d418591ccb"
+        ],
+        "illustration_id": "5a15b25d-6271-4b92-bf86-2f08a66a48df",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 2310,
+        "penny_rank": 751,
+        "prices": {
+            "usd": "1.11",
+            "usd_foil": "4.24",
+            "usd_etched": null,
+            "eur": "0.92",
+            "eur_foil": "2.24",
+            "tix": "0.04"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456843&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DMistveil%2BPlains",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DMistveil%2BPlains",
+            "edhrec": "https://edhrec.com/route/?cc=Mistveil+Plains"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F180847%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Ultimate-Masters/Mistveil-Plains?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/70571?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {}
+}

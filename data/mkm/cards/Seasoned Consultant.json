@@ -1,0 +1,152 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "c0ebfe5d-8819-495d-bf72-b9c28c6fd23e",
+        "oracle_id": "9ee64b00-6619-451e-bb48-10af107dcb2f",
+        "multiverse_ids": [
+            646596
+        ],
+        "mtgo_id": 121554,
+        "arena_id": 88953,
+        "tcgplayer_id": 533896,
+        "cardmarket_id": 751848,
+        "name": "Seasoned Consultant",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/c0ebfe5d-8819-495d-bf72-b9c28c6fd23e",
+        "scryfall_uri": "https://scryfall.com/card/mkm/33/seasoned-consultant?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/c/0/c0ebfe5d-8819-495d-bf72-b9c28c6fd23e.jpg?1706241537",
+            "normal": "https://cards.scryfall.io/normal/front/c/0/c0ebfe5d-8819-495d-bf72-b9c28c6fd23e.jpg?1706241537",
+            "large": "https://cards.scryfall.io/large/front/c/0/c0ebfe5d-8819-495d-bf72-b9c28c6fd23e.jpg?1706241537",
+            "png": "https://cards.scryfall.io/png/front/c/0/c0ebfe5d-8819-495d-bf72-b9c28c6fd23e.png?1706241537",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/c/0/c0ebfe5d-8819-495d-bf72-b9c28c6fd23e.jpg?1706241537",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/c/0/c0ebfe5d-8819-495d-bf72-b9c28c6fd23e.jpg?1706241537"
+        },
+        "mana_cost": "{1}{W}",
+        "cmc": 2.0,
+        "type_line": "Creature \u2014 Human Detective",
+        "oracle_text": "Whenever you attack with three or more creatures, Seasoned Consultant gets +2/+0 until end of turn.",
+        "power": "1",
+        "toughness": "3",
+        "colors": [
+            "W"
+        ],
+        "color_identity": [
+            "W"
+        ],
+        "keywords": [],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set": "mkm",
+        "set_name": "Murders at Karlov Manor",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/c0ebfe5d-8819-495d-bf72-b9c28c6fd23e/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9ee64b00-6619-451e-bb48-10af107dcb2f&unique=prints",
+        "collector_number": "33",
+        "digital": false,
+        "rarity": "common",
+        "flavor_text": "\"I appreciate working with associates whose greatest loyalty is to the job at hand.\"\n\u2014Skurad of the Foundway Associates",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Andreas Zafiratos",
+        "artist_ids": [
+            "e2f13a9a-57c5-40de-81d4-3b0723899cdf"
+        ],
+        "illustration_id": "2d758977-f202-410e-bf0c-c67b570c197f",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 24893,
+        "preview": {
+            "source": "Wizards of the Coast",
+            "source_uri": "https://magic.wizards.com/en/products/murders-at-karlov-manor/card-image-gallery",
+            "previewed_at": "2024-01-19"
+        },
+        "prices": {
+            "usd": "0.01",
+            "usd_foil": "0.01",
+            "usd_etched": null,
+            "eur": "0.02",
+            "eur_foil": "0.02",
+            "tix": "0.02"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646596&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DSeasoned%2BConsultant",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DSeasoned%2BConsultant",
+            "edhrec": "https://edhrec.com/route/?cc=Seasoned+Consultant"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F533896%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Murders-at-Karlov-Manor/Seasoned-Consultant?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/121554?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 308604,
+        "ALSA": 4.5,
+        "# Picked": 62570,
+        "ATA": 6.09,
+        "# GP": 335520,
+        "% GP": "87.0%",
+        "GP WR": "56.3%",
+        "# OH": 59244,
+        "OH WR": "56.8%",
+        "# GD": 76887,
+        "GD WR": "53.8%",
+        "# GIH": 136131,
+        "GIH WR": "55.1%",
+        "# GNS": 199330,
+        "GNS WR": "57.1%",
+        "IWD": "-1.9pp"
+    }
+}
