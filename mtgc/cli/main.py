@@ -5,7 +5,6 @@ from pathlib import Path
 from mtgc import DEFAULT_FOLDER_PATH
 from mtgc.cli.card import CardCLI
 from mtgc.cli.deck import DeckCLI
-from mtgc.cli.mtgdecks import MTGDecksCLI
 from mtgc.cli.ai import AICLI
 from mtgc.cli.seventeen_lands import SeventeenLandsCLI
 
@@ -21,7 +20,6 @@ def main():
         "init": init,
         "card": CardCLI(),
         "deck": DeckCLI(),
-        "mtgdecks": MTGDecksCLI(),
         "ai": AICLI(),
         "17lands": SeventeenLandsCLI()
     })

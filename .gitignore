@@ -1,5 +1,3 @@
 *.pyc
 venv/
 *.egg-info/
-data/mtgdecks
-catboost_info/
