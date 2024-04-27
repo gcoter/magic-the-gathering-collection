@@ -6,18 +6,12 @@ from mtgc import DEFAULT_FOLDER_PATH
 
 
 class CardCLI:
-    def __init__(self):
-        self.card_data_folder = os.path.join(DEFAULT_FOLDER_PATH, "cards")
-        if not os.path.exists(self.card_data_folder):
-            print(f"Created card folder at '{self.card_data_folder}'")
-            os.mkdir(self.card_data_folder)
-
-    def add(self, query: str):
+    def add(self, query: str, card_data_folder: str = os.path.join(DEFAULT_FOLDER_PATH, "cards")):
         card_json_dict = self.__search_for_card(query=query)
         if card_json_dict is None:
             return
 
-        card_path = self.__get_card_path(card_json_dict)
+        card_path = self.__get_card_path(card_json_dict, card_data_folder=card_data_folder)
         if os.path.exists(card_path):
             card_json_dict = self.__handle_existing_card(card_json_dict, card_path)
             if card_json_dict is None:
@@ -47,9 +41,9 @@ class CardCLI:
             "count": 1
         }
 
-    def __get_card_path(self, card_json_dict):
+    def __get_card_path(self, card_json_dict, card_data_folder):
         card_filename = self.__get_card_filename(card_name=card_json_dict["scryfall"]["name"])
-        card_path = os.path.join(self.card_data_folder, f"{card_filename}.json")
+        card_path = os.path.join(card_data_folder, f"{card_filename}.json")
         return card_path
 
     def __get_card_filename(self, card_name: str):
@@ -105,3 +99,17 @@ class CardCLI:
             print(f"===== Add cards from deck {n+1}/{len(deck_filenames)} =====")
             deck_file_path = os.path.join(deck_folder, filename)
             self.add_from_deck(deck=deck_file_path, output_folder_path=output_folder_path)
+
+    def add_from_draft_data(self, draft_data_path: str, output_card_folder: str):
+        card_names = self.__get_card_names_from_draft_data(draft_data_path)
+        for n, card_name in enumerate(card_names):
+            print(f"Add card {n+1}/{len(card_names)}")
+            self.add(query=card_name, card_data_folder=output_card_folder)
+
+    def __get_card_names_from_draft_data(self, draft_data_path: str):
+        with open(draft_data_path, "r") as f:
+            header = f.readline().split(",")
+        pool_columns = [column.replace("pool_", "") for column in header if column.startswith("pool_")]
+        pack_columns = [column.replace("pack_card_", "") for column in header if column.startswith("pack_card_")]
+        assert set(pool_columns) == set(pack_columns)
+        return pool_columns
