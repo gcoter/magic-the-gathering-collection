@@ -87,12 +87,12 @@ class DeckCLI:
         deck_json_dict = self.__get_deck(path=deck)
         cards_df = self.__get_card_features_from_deck(deck_json_dict, card_folder_path)
         color_stats = self.__compute_color_stats(cards_df)
-        mana_cost_stats = self.__compute_mana_cost_stats(cards_df)
+        mana_value_stats = self.__compute_mana_value_stats(cards_df)
         type_stats = self.__compute_type_stats(cards_df)
         keywords_stats = self.__compute_keywords_stats(cards_df)
         self.__print_report(
             color_stats=color_stats,
-            mana_cost_stats=mana_cost_stats,
+            mana_value_stats=mana_value_stats,
             type_stats=type_stats,
             keywords_stats=keywords_stats
         )
@@ -129,11 +129,11 @@ class DeckCLI:
 
         return color_stats
 
-    def __compute_mana_cost_stats(self, cards_df: pd.DataFrame):
-        mana_costs = []
+    def __compute_mana_value_stats(self, cards_df: pd.DataFrame):
+        mana_values = []
 
         for _, mana_cost_string in cards_df["mana_cost"].items():
-            mana_cost = 0
+            mana_value = 0
             colorless = re.findall("\d", mana_cost_string)
             if len(colorless) > 0:
                 # FIXME: Handle cases like 'Bonecrusher Giant' with two costs
@@ -143,21 +143,21 @@ class DeckCLI:
             else:
                 raise ValueError()
 
-            mana_cost += colorless
-            mana_cost += mana_cost_string.count("{U}")
-            mana_cost += mana_cost_string.count("{G}")
-            mana_cost += mana_cost_string.count("{B}")
-            mana_cost += mana_cost_string.count("{W}")
-            mana_cost += mana_cost_string.count("{R}")
+            mana_value += colorless
+            mana_value += mana_cost_string.count("{U}")
+            mana_value += mana_cost_string.count("{G}")
+            mana_value += mana_cost_string.count("{B}")
+            mana_value += mana_cost_string.count("{W}")
+            mana_value += mana_cost_string.count("{R}")
 
             # FIXME: Handle 'X' cost
             if "{X}" in mana_cost_string:
-                mana_cost += 1
+                mana_value += 1
 
-            mana_costs.append(mana_cost)
+            mana_values.append(mana_value)
 
-        mana_cost_stats = pd.value_counts(mana_costs).sort_index().to_dict()
-        return mana_cost_stats
+        mana_value_stats = pd.value_counts(mana_values).sort_index().to_dict()
+        return mana_value_stats
 
     def __compute_type_stats(self, cards_df: pd.DataFrame):
         type_stats = {}
@@ -186,7 +186,7 @@ class DeckCLI:
 
         return keywords_stats
 
-    def __print_report(self, color_stats, mana_cost_stats, type_stats, keywords_stats):
+    def __print_report(self, color_stats, mana_value_stats, type_stats, keywords_stats):
         report = ""
 
         report += "========== Colors ==========\n\n"
@@ -195,11 +195,11 @@ class DeckCLI:
             tally = "#" * count
             report += f"{color}\t{tally}\n"
 
-        report += "\n========== Mana Cost ==========\n\n"
+        report += "\n========== Mana Value ==========\n\n"
 
-        for mana_cost, count in mana_cost_stats.items():
+        for mana_value, count in mana_value_stats.items():
             tally = "#" * count
-            report += f"{mana_cost}\t{tally}\n"
+            report += f"{mana_value}\t{tally}\n"
 
         report += "\n========== Types ==========\n\n"
 
