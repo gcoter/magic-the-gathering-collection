@@ -88,12 +88,13 @@ class DeckCLI:
         cards_df = self.__get_card_features_from_deck(deck_json_dict, card_folder_path)
         color_stats = self.__compute_color_stats(cards_df)
         mana_value_stats = self.__compute_mana_value_stats(cards_df)
-        type_stats = self.__compute_type_stats(cards_df)
+        type_stats, subtype_stats = self.__compute_type_stats(cards_df)
         keywords_stats = self.__compute_keywords_stats(cards_df)
         self.__print_report(
             color_stats=color_stats,
             mana_value_stats=mana_value_stats,
             type_stats=type_stats,
+            subtype_stats=subtype_stats,
             keywords_stats=keywords_stats
         )
 
@@ -161,19 +162,25 @@ class DeckCLI:
 
     def __compute_type_stats(self, cards_df: pd.DataFrame):
         type_stats = {}
+        subtype_stats = {}
 
         for _, type_string in cards_df["type_line"].items():
             type_list = type_string.split(" — ")
-            final_type_list = []
-            for type_list_item in type_list:
-                final_type_list.extend(type_list_item.split(" "))
-            final_type_list = set(final_type_list)
-            for type_name in final_type_list:
-                if type_name not in type_stats:
-                    type_stats[type_name] = 0
-                type_stats[type_name] += 1
 
-        return type_stats
+            type_name = type_list[0]
+            if type_name not in type_stats:
+                type_stats[type_name] = 0
+            type_stats[type_name] += 1
+
+            if len(type_list) > 0:
+                subtypes = type_list[1:]
+                for subtype_item in subtypes:
+                    for subtype_name in subtype_item.split(" "):
+                        if subtype_name not in subtype_stats:
+                            subtype_stats[subtype_name] = 0
+                        subtype_stats[subtype_name] += 1
+
+        return type_stats, subtype_stats
 
     def __compute_keywords_stats(self, cards_df: pd.DataFrame):
         keywords_stats = {}
@@ -186,7 +193,7 @@ class DeckCLI:
 
         return keywords_stats
 
-    def __print_report(self, color_stats, mana_value_stats, type_stats, keywords_stats):
+    def __print_report(self, color_stats, mana_value_stats, type_stats, subtype_stats, keywords_stats):
         report = ""
 
         report += "========== Colors ==========\n\n"
@@ -201,11 +208,17 @@ class DeckCLI:
             tally = "#" * count
             report += f"{mana_value}\t{tally}\n"
 
-        report += "\n========== Types ==========\n\n"
+        report += "\n========== Card Types ==========\n\n"
 
         for type_name, count in type_stats.items():
             tally = "#" * count
             report += f"{type_name}    \t{tally}\n"
+
+        report += "\n========== Subtypes ==========\n\n"
+
+        for subtype_name, count in subtype_stats.items():
+            tally = "#" * count
+            report += f"{subtype_name}    \t{tally}\n"
 
         report += "\n========== Keywords ==========\n\n"
 
