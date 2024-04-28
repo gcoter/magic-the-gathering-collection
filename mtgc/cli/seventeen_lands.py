@@ -9,8 +9,8 @@ class SeventeenLandsCLI:
     def __init__(self):
         pass
 
-    def enrich_card(self, card_json_path: str, seventeen_lands_folder: str):
-        seventeen_lands_df = self.__load_seventeen_lands_data(seventeen_lands_folder)
+    def enrich_card(self, card_json_path: str, seventeen_lands_stats_path: str):
+        seventeen_lands_df = self.__load_seventeen_lands_data(seventeen_lands_stats_path)
 
         for path in glob(card_json_path):
             print(f"===== Enrich '{path}' =====")
@@ -24,25 +24,25 @@ class SeventeenLandsCLI:
             card_json_dict = json.load(f)
         return card_json_dict
 
-    def __load_seventeen_lands_data(self, folder_path):
-        seventeen_lands_df = []
-        for filename in os.listdir(folder_path):
-            file_path = os.path.join(folder_path, filename)
-            set_name = filename.split(".")[0]
-            df = pd.read_csv(file_path)
-            df["Set"] = set_name
-            seventeen_lands_df.append(df)
-        seventeen_lands_df = pd.concat(seventeen_lands_df).reset_index(drop=True)
+    def __load_seventeen_lands_data(self, seventeen_lands_stats_path: str):
+        seventeen_lands_df = pd.read_csv(seventeen_lands_stats_path)
         return seventeen_lands_df
 
     def __get_card_stats(self, card_json_dict, seventeen_lands_df):
-        card_set = card_json_dict["scryfall"]["set"]
         card_name = card_json_dict["scryfall"]["name"]
-        selector = (seventeen_lands_df["Set"] == card_set) & (seventeen_lands_df["Name"] == card_name)
-        if selector.sum() != 1:
+        selector = seventeen_lands_df["Name"] == card_name
+        if selector.sum() == 0:
             print("Could not find stats")
             return {}
-        card_stats = json.loads(seventeen_lands_df[selector].drop(["Name", "Color", "Rarity", "Set"], axis=1).iloc[0].to_json())
+        if selector.sum() > 1:
+            raise ValueError("Several instances of the same card were found in 17lands stats")
+        card_stats = json.loads(seventeen_lands_df[selector].drop(["Name", "Color", "Rarity"], axis=1).iloc[0].to_json())
+
+        for card_stat_name, card_stat_value in card_stats.items():
+            if isinstance(card_stat_value, str) and "%" in card_stat_value:
+                card_stats[card_stat_name] = float(card_stat_value.replace("%", ""))
+            if isinstance(card_stat_value, str) and "pp" in card_stat_value:
+                card_stats[card_stat_name] = float(card_stat_value.replace("pp", ""))
         return card_stats
 
     def __enrich_card_with_stats(self, card_json_dict, card_stats):
