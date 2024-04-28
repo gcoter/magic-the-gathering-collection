@@ -90,12 +90,14 @@ class DeckCLI:
         mana_value_stats = self.__compute_mana_value_stats(cards_df)
         type_stats, subtype_stats = self.__compute_type_stats(cards_df)
         keywords_stats = self.__compute_keywords_stats(cards_df)
+        seventeen_lands_stats = self.__compute_seventeen_lands_stats(cards_df)
         self.__print_report(
             color_stats=color_stats,
             mana_value_stats=mana_value_stats,
             type_stats=type_stats,
             subtype_stats=subtype_stats,
-            keywords_stats=keywords_stats
+            keywords_stats=keywords_stats,
+            seventeen_lands_stats=seventeen_lands_stats
         )
 
     def __get_card_features_from_deck(self, deck_json_dict, card_folder_path) -> pd.DataFrame:
@@ -196,7 +198,16 @@ class DeckCLI:
 
         return keywords_stats
 
-    def __print_report(self, color_stats, mana_value_stats, type_stats, subtype_stats, keywords_stats):
+    def __compute_seventeen_lands_stats(self, cards_df: pd.DataFrame):
+        seventeen_lands_stats = {}
+        seventeen_lands_stats["Games in Hand Win Rate (%)"] = {
+            "average": cards_df["GIH WR"].mean(),
+            "std": cards_df["GIH WR"].std(),
+            "histogram": cards_df["GIH WR"].round().astype(int).value_counts().sort_index().to_dict()
+        }
+        return seventeen_lands_stats
+
+    def __print_report(self, color_stats, mana_value_stats, type_stats, subtype_stats, keywords_stats, seventeen_lands_stats):
         report = ""
 
         report += "========== Colors ==========\n\n"
@@ -228,5 +239,18 @@ class DeckCLI:
         for keyword, count in keywords_stats.items():
             tally = "#" * count
             report += f"{keyword}     \t{tally}\n"
+
+        report += "\n========== 17lands ==========\n"
+
+        for seventeen_lands_stat_name, seventeen_lands_stat_values in seventeen_lands_stats.items():
+            report += f"\n********** {seventeen_lands_stat_name} **********\n\n"
+
+            average = seventeen_lands_stat_values["average"]
+            std = seventeen_lands_stat_values["std"]
+            report += f"Average: {average:.2f} (+/- {std:.2f})\n\n"
+
+            for key, count in seventeen_lands_stat_values["histogram"].items():
+                tally = "#" * count
+                report += f"{key}     \t{tally}\n"
 
         print(report)
