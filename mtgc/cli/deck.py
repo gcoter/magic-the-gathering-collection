@@ -132,6 +132,7 @@ class DeckCLI:
 
     def __compute_mana_value_stats(self, cards_df: pd.DataFrame):
         mana_values = []
+        x_mana_count = 0
 
         for _, mana_cost_string in cards_df["mana_cost"].items():
             mana_value = 0
@@ -151,13 +152,15 @@ class DeckCLI:
             mana_value += mana_cost_string.count("{W}")
             mana_value += mana_cost_string.count("{R}")
 
-            # FIXME: Handle 'X' cost
             if "{X}" in mana_cost_string:
-                mana_value += 1
+                x_mana_count += 1
 
             mana_values.append(mana_value)
 
         mana_value_stats = pd.value_counts(mana_values).sort_index().to_dict()
+        if x_mana_count > 0:
+            mana_value_stats["X"] = x_mana_count
+
         return mana_value_stats
 
     def __compute_type_stats(self, cards_df: pd.DataFrame):
