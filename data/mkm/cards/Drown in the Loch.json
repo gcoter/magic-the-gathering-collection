@@ -121,5 +121,22 @@
         }
     },
     "count": 1,
-    "17lands": {}
+    "17lands": {
+        "# Seen": 3864,
+        "ALSA": 3.69,
+        "# Picked": 616,
+        "ATA": 5.02,
+        "# GP": 1555,
+        "% GP": 43.5,
+        "GP WR": 50.2,
+        "# OH": 256,
+        "OH WR": null,
+        "# GD": 427,
+        "GD WR": null,
+        "# GIH": 683,
+        "GIH WR": 54.0,
+        "# GNS": 859,
+        "GNS WR": 46.9,
+        "IWD": 7.1
+    }
 }
