@@ -52,3 +52,36 @@ class SeventeenLandsCLI:
     def __save_enriched_card(self, card_json_dict, path):
         with open(path, "w") as f:
             json.dump(card_json_dict, f, indent=4)
+
+    def create_draft_data_schema(self, draft_data_path: str, output_path: str):
+        dtypes_dict = self.__create_draft_data_dtypes(draft_data_path)
+        with open(output_path, "w") as f:
+            json.dump(dtypes_dict, f, indent=4)
+
+    def __create_draft_data_dtypes(self, draft_data_path: str):
+        df = pd.read_csv(draft_data_path, nrows=1)
+        dtypes_dict = {
+            "expansion": "str",
+            "event_type": "str",
+            "draft_id": "str",
+            "draft_time": "str",
+            "rank": "str",
+            "event_match_wins": "uint8",
+            "event_match_losses": "uint8",
+            "pack_number": "uint8",
+            "pick_number": "uint8",
+            "pick": "str",
+            "pick_maindeck_rate": "float16",
+            "pick_sideboard_in_rate": "float16",
+            "user_n_games_bucket": "uint16",
+            "user_game_win_rate_bucket": "float32"
+        }
+
+        for column in df.columns:
+            if column not in dtypes_dict:
+                if column.startswith("pack_card_") or column.startswith("pool_"):
+                    dtypes_dict[column] = "uint8"
+                else:
+                    raise ValueError(f"Unexpected column '{column}'")
+
+        return dtypes_dict
