@@ -7,9 +7,10 @@ import torch
 import numpy as np
 import pandas as pd
 
+from mtgc.ai.data import load_cards_data, load_draft_data
 from mtgc.ai.dataset import DraftDataset
 from mtgc.ai.model import DraftPicker
-from mtgc.ai.preprocessing import CardPreprocessor
+from mtgc.ai.preprocessing import CardPreprocessor, filter_draft_data
 
 
 class DraftTrainer:
@@ -31,9 +32,9 @@ class DraftTrainer:
         self.device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
     def run(self, draft_data_path: str, draft_data_dtypes_path: str, card_folder: str, output_folder: str):
-        draft_data_df = self.__load_draft_data(draft_data_path, draft_data_dtypes_path)
-        cards_data_dict = self.__load_cards_data(card_folder)
-        draft_data_df = self.__filter_draft_data(draft_data_df, cards_data_dict)
+        draft_data_df = load_draft_data(draft_data_path, draft_data_dtypes_path)
+        cards_data_dict = load_cards_data(card_folder)
+        draft_data_df = filter_draft_data(draft_data_df, cards_data_dict)
         training_draft_dataset, validation_draft_dataset = self.__create_datasets(draft_data_df, cards_data_dict)
         model = self.__initialize_model()
         optimizer = self.__initialize_optimizer(model)
@@ -44,49 +45,6 @@ class DraftTrainer:
             optimizer,
             output_folder
         )
-
-    def __load_draft_data(self, draft_data_path: str, draft_data_dtypes_path: str):
-        print(f"Load draft data from '{draft_data_path}'")
-        with open(draft_data_dtypes_path, "r") as f:
-            dtypes_dict = json.load(f)
-        draft_data_df = pd.read_csv(draft_data_path, dtype=dtypes_dict)
-        return draft_data_df
-
-    def __load_cards_data(self, card_folder: str):
-        print(f"Load card data from '{card_folder}'")
-        cards_data_dict = {}
-        for filename in os.listdir(card_folder):
-            file_path = os.path.join(card_folder, filename)
-            card_name = filename.split(".")[0]
-            
-            with open(file_path, "r") as f:
-                card_json_dict = json.load(f)
-
-            cards_data_dict[card_name] = card_json_dict
-        return cards_data_dict
-
-    def __filter_draft_data(self, draft_data_df, cards_data_dict):
-        print(f"Filter draft data (current shape: {draft_data_df.shape})")
-
-        # Make sure each pick is part of the the known cards
-        # FIXME: Handle cases like 'Kellan, Inquisitive Prodigy // Tail the Suspect'
-        draft_data_df = draft_data_df[draft_data_df["pick"].isin(cards_data_dict)]
-
-        # Filter good players
-        draft_data_df = draft_data_df[draft_data_df["user_game_win_rate_bucket"] >= 0.62]
-        draft_data_df = draft_data_df[draft_data_df["user_n_games_bucket"] >= 100]
-
-        # Keep only situations with at least 2 pack cards
-        pack_columns = [column for column in draft_data_df.columns if "pack_card_" in column]
-        draft_data_df = draft_data_df[draft_data_df[pack_columns].sum(axis=1) >= 2]
-
-        # Remove first pick situations
-        pool_columns = [column for column in draft_data_df.columns if "pool_" in column]
-        draft_data_df = draft_data_df[draft_data_df[pool_columns].sum(axis=1) >= 1]
-
-        print(f"Filtering done (new shape: {draft_data_df.shape})")
-
-        return draft_data_df.reset_index(drop=True)
 
     def __create_datasets(self, draft_data_df, cards_data_dict):
         draft_dataset = DraftDataset(
