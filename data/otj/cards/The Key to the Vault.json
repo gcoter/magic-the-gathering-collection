@@ -1,0 +1,150 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "166814af-a444-4a62-937e-7491673d9387",
+        "oracle_id": "7a75d565-b0a7-46bf-94a0-c9255c8abd6d",
+        "multiverse_ids": [
+            654995
+        ],
+        "mtgo_id": 124019,
+        "arena_id": 90400,
+        "tcgplayer_id": 544203,
+        "cardmarket_id": 763558,
+        "name": "The Key to the Vault",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/166814af-a444-4a62-937e-7491673d9387",
+        "scryfall_uri": "https://scryfall.com/card/otj/54/the-key-to-the-vault?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/1/6/166814af-a444-4a62-937e-7491673d9387.jpg?1712355445",
+            "normal": "https://cards.scryfall.io/normal/front/1/6/166814af-a444-4a62-937e-7491673d9387.jpg?1712355445",
+            "large": "https://cards.scryfall.io/large/front/1/6/166814af-a444-4a62-937e-7491673d9387.jpg?1712355445",
+            "png": "https://cards.scryfall.io/png/front/1/6/166814af-a444-4a62-937e-7491673d9387.png?1712355445",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/1/6/166814af-a444-4a62-937e-7491673d9387.jpg?1712355445",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/1/6/166814af-a444-4a62-937e-7491673d9387.jpg?1712355445"
+        },
+        "mana_cost": "{1}{U}",
+        "cmc": 2.0,
+        "type_line": "Legendary Artifact \u2014 Equipment",
+        "oracle_text": "Whenever equipped creature deals combat damage to a player, look at that many cards from the top of your library. You may exile a nonland card from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card without paying its mana cost.\nEquip {2}{U}",
+        "colors": [
+            "U"
+        ],
+        "color_identity": [
+            "U"
+        ],
+        "keywords": [
+            "Equip"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/166814af-a444-4a62-937e-7491673d9387/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a75d565-b0a7-46bf-94a0-c9255c8abd6d&unique=prints",
+        "collector_number": "54",
+        "digital": false,
+        "rarity": "rare",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Leon Tukker",
+        "artist_ids": [
+            "669b8b90-758d-4f9e-b4f7-98cd6742eb97"
+        ],
+        "illustration_id": "87a82e7c-765c-401a-aafa-55f6585a95d9",
+        "border_color": "black",
+        "frame": "2015",
+        "frame_effects": [
+            "legendary"
+        ],
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 10015,
+        "prices": {
+            "usd": "0.37",
+            "usd_foil": "0.48",
+            "usd_etched": null,
+            "eur": "0.27",
+            "eur_foil": "0.02",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=654995&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DThe%2BKey%2Bto%2Bthe%2BVault",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DThe%2BKey%2Bto%2Bthe%2BVault",
+            "edhrec": "https://edhrec.com/route/?cc=The+Key+to+the+Vault"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544203%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/The-Key-to-the-Vault?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124019?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 29646,
+        "ALSA": 4.82,
+        "# Picked": 3353,
+        "ATA": 7.26,
+        "# GP": 4332,
+        "% GP": 22.8,
+        "GP WR": 45.8,
+        "# OH": 710,
+        "OH WR": 40.7,
+        "# GD": 1122,
+        "GD WR": 45.5,
+        "# GIH": 1832,
+        "GIH WR": 43.6,
+        "# GNS": 2474,
+        "GNS WR": 47.4,
+        "IWD": -3.8
+    }
+}

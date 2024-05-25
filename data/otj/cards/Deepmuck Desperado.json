@@ -1,0 +1,154 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "f95ee726-7465-40f8-a954-19b19e636c12",
+        "oracle_id": "b75ffa62-a291-44d7-a950-b50c8394e066",
+        "multiverse_ids": [
+            654983
+        ],
+        "mtgo_id": 123995,
+        "arena_id": 90388,
+        "tcgplayer_id": 544678,
+        "cardmarket_id": 763998,
+        "name": "Deepmuck Desperado",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/f95ee726-7465-40f8-a954-19b19e636c12",
+        "scryfall_uri": "https://scryfall.com/card/otj/42/deepmuck-desperado?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/f/9/f95ee726-7465-40f8-a954-19b19e636c12.jpg?1712355396",
+            "normal": "https://cards.scryfall.io/normal/front/f/9/f95ee726-7465-40f8-a954-19b19e636c12.jpg?1712355396",
+            "large": "https://cards.scryfall.io/large/front/f/9/f95ee726-7465-40f8-a954-19b19e636c12.jpg?1712355396",
+            "png": "https://cards.scryfall.io/png/front/f/9/f95ee726-7465-40f8-a954-19b19e636c12.png?1712355396",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/f/9/f95ee726-7465-40f8-a954-19b19e636c12.jpg?1712355396",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/f/9/f95ee726-7465-40f8-a954-19b19e636c12.jpg?1712355396"
+        },
+        "mana_cost": "{2}{U}",
+        "cmc": 3.0,
+        "type_line": "Creature \u2014 Homarid Mercenary",
+        "oracle_text": "Whenever you commit a crime, each opponent mills three cards. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",
+        "power": "2",
+        "toughness": "4",
+        "colors": [
+            "U"
+        ],
+        "color_identity": [
+            "U"
+        ],
+        "keywords": [
+            "Mill"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "restricted",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/f95ee726-7465-40f8-a954-19b19e636c12/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab75ffa62-a291-44d7-a950-b50c8394e066&unique=prints",
+        "collector_number": "42",
+        "digital": false,
+        "rarity": "uncommon",
+        "flavor_text": "\"Heard you've been horning in on my turf. How about I introduce you to some surf?\"",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Lo\u00efc Canavaggia",
+        "artist_ids": [
+            "f1e2e10b-08be-4e92-8f50-95a72850a811"
+        ],
+        "illustration_id": "60a4e380-0361-46e3-84a6-0e06c0b5b0f1",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 19948,
+        "preview": {
+            "source": "The Vorthos Cast",
+            "source_uri": "https://twitter.com/TheVorthosCast/status/1773681514800460027",
+            "previewed_at": "2024-03-29"
+        },
+        "prices": {
+            "usd": "0.05",
+            "usd_foil": "0.14",
+            "usd_etched": null,
+            "eur": "0.10",
+            "eur_foil": "0.06",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=654983&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDeepmuck%2BDesperado",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDeepmuck%2BDesperado",
+            "edhrec": "https://edhrec.com/route/?cc=Deepmuck+Desperado"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544678%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/Deepmuck-Desperado?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/123995?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 72368,
+        "ALSA": 5.19,
+        "# Picked": 12354,
+        "ATA": 6.93,
+        "# GP": 44704,
+        "% GP": 63.4,
+        "GP WR": 50.5,
+        "# OH": 7919,
+        "OH WR": 49.1,
+        "# GD": 12328,
+        "GD WR": 53.9,
+        "# GIH": 20247,
+        "GIH WR": 52.1,
+        "# GNS": 24357,
+        "GNS WR": 49.2,
+        "IWD": 2.8
+    }
+}

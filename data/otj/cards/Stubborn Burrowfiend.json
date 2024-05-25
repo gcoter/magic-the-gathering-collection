@@ -1,0 +1,154 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "6d963eb4-d20b-4d3f-bf5d-c75f7bcb9670",
+        "oracle_id": "24bc7bd5-f262-45a2-8e94-377fef2ba5d5",
+        "multiverse_ids": [
+            655125
+        ],
+        "mtgo_id": 124279,
+        "arena_id": 90530,
+        "tcgplayer_id": 544408,
+        "cardmarket_id": 763949,
+        "name": "Stubborn Burrowfiend",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/6d963eb4-d20b-4d3f-bf5d-c75f7bcb9670",
+        "scryfall_uri": "https://scryfall.com/card/otj/184/stubborn-burrowfiend?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/6/d/6d963eb4-d20b-4d3f-bf5d-c75f7bcb9670.jpg?1712356009",
+            "normal": "https://cards.scryfall.io/normal/front/6/d/6d963eb4-d20b-4d3f-bf5d-c75f7bcb9670.jpg?1712356009",
+            "large": "https://cards.scryfall.io/large/front/6/d/6d963eb4-d20b-4d3f-bf5d-c75f7bcb9670.jpg?1712356009",
+            "png": "https://cards.scryfall.io/png/front/6/d/6d963eb4-d20b-4d3f-bf5d-c75f7bcb9670.png?1712356009",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/6/d/6d963eb4-d20b-4d3f-bf5d-c75f7bcb9670.jpg?1712356009",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/6/d/6d963eb4-d20b-4d3f-bf5d-c75f7bcb9670.jpg?1712356009"
+        },
+        "mana_cost": "{1}{G}",
+        "cmc": 2.0,
+        "type_line": "Creature \u2014 Badger Beast Mount",
+        "oracle_text": "Whenever Stubborn Burrowfiend becomes saddled for the first time each turn, mill two cards, then Stubborn Burrowfiend gets +X/+X until end of turn, where X is the number of creature cards in your graveyard.\nSaddle 2 (Tap any number of other creatures yo control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "keywords": [
+            "Saddle",
+            "Mill"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "restricted",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/6d963eb4-d20b-4d3f-bf5d-c75f7bcb9670/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A24bc7bd5-f262-45a2-8e94-377fef2ba5d5&unique=prints",
+        "collector_number": "184",
+        "digital": false,
+        "rarity": "uncommon",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "\u00c2ngelo Bortolini",
+        "artist_ids": [
+            "88f42660-2461-4a7a-a43f-a033d64536bd"
+        ],
+        "illustration_id": "c8c1ac0d-5430-48df-a4d5-d93eaf37c13c",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 21876,
+        "preview": {
+            "source": "Kai Wiinter",
+            "source_uri": "https://twitter.com/kaiwiinter/status/1773000274514223154",
+            "previewed_at": "2024-03-27"
+        },
+        "prices": {
+            "usd": "0.10",
+            "usd_foil": "0.09",
+            "usd_etched": null,
+            "eur": "0.06",
+            "eur_foil": "0.09",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=655125&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DStubborn%2BBurrowfiend",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DStubborn%2BBurrowfiend",
+            "edhrec": "https://edhrec.com/route/?cc=Stubborn+Burrowfiend"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544408%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/Stubborn-Burrowfiend?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124279?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 50672,
+        "ALSA": 3.39,
+        "# Picked": 18944,
+        "ATA": 3.9,
+        "# GP": 107221,
+        "% GP": 92.0,
+        "GP WR": 56.9,
+        "# OH": 19536,
+        "OH WR": 59.7,
+        "# GD": 24236,
+        "GD WR": 56.8,
+        "# GIH": 43772,
+        "GIH WR": 58.1,
+        "# GNS": 62697,
+        "GNS WR": 56.1,
+        "IWD": 2.1
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "62bbe11b-e959-4080-98ac-09bd57519c00",
+        "oracle_id": "fe4bbe82-1d6b-4f3d-8cc0-f6df22d9e9fb",
+        "multiverse_ids": [
+            654988
+        ],
+        "mtgo_id": 124005,
+        "arena_id": 90393,
+        "tcgplayer_id": 544499,
+        "cardmarket_id": 764087,
+        "name": "Failed Fording",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/62bbe11b-e959-4080-98ac-09bd57519c00",
+        "scryfall_uri": "https://scryfall.com/card/otj/47/failed-fording?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/6/2/62bbe11b-e959-4080-98ac-09bd57519c00.jpg?1712355418",
+            "normal": "https://cards.scryfall.io/normal/front/6/2/62bbe11b-e959-4080-98ac-09bd57519c00.jpg?1712355418",
+            "large": "https://cards.scryfall.io/large/front/6/2/62bbe11b-e959-4080-98ac-09bd57519c00.jpg?1712355418",
+            "png": "https://cards.scryfall.io/png/front/6/2/62bbe11b-e959-4080-98ac-09bd57519c00.png?1712355418",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/6/2/62bbe11b-e959-4080-98ac-09bd57519c00.jpg?1712355418",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/6/2/62bbe11b-e959-4080-98ac-09bd57519c00.jpg?1712355418"
+        },
+        "mana_cost": "{1}{U}",
+        "cmc": 2.0,
+        "type_line": "Instant",
+        "oracle_text": "Return target nonland permanent to its owner's hand. If you control a Desert, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+        "colors": [
+            "U"
+        ],
+        "color_identity": [
+            "U"
+        ],
+        "keywords": [
+            "Surveil"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/62bbe11b-e959-4080-98ac-09bd57519c00/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afe4bbe82-1d6b-4f3d-8cc0-f6df22d9e9fb&unique=prints",
+        "collector_number": "47",
+        "digital": false,
+        "rarity": "common",
+        "flavor_text": "\"We should have taken the blasted ferry!\"\n\u2014Hope Hagan, prospector",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Jos\u00e9 Parodi",
+        "artist_ids": [
+            "4aac5bf3-5a92-40f6-a0c3-6edc7373cc71"
+        ],
+        "illustration_id": "ace3e49b-cbee-41e6-9492-96cfd51235ff",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 24461,
+        "prices": {
+            "usd": "0.02",
+            "usd_foil": "0.03",
+            "usd_etched": null,
+            "eur": "0.02",
+            "eur_foil": "0.02",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=654988&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DFailed%2BFording",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DFailed%2BFording",
+            "edhrec": "https://edhrec.com/route/?cc=Failed+Fording"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544499%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/Failed-Fording?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124005?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 229672,
+        "ALSA": 7.26,
+        "# Picked": 30061,
+        "ATA": 10.38,
+        "# GP": 68354,
+        "% GP": 39.2,
+        "GP WR": 50.9,
+        "# OH": 11454,
+        "OH WR": 49.2,
+        "# GD": 18885,
+        "GD WR": 54.9,
+        "# GIH": 30339,
+        "GIH WR": 52.7,
+        "# GNS": 37739,
+        "GNS WR": 49.4,
+        "IWD": 3.3
+    }
+}

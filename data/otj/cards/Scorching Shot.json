@@ -1,0 +1,146 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "f93d8357-83bd-4157-a389-68e4aa4985c8",
+        "oracle_id": "e13113ba-1923-493c-a48d-ca320b7adbde",
+        "multiverse_ids": [
+            655086
+        ],
+        "mtgo_id": 124201,
+        "arena_id": 90491,
+        "tcgplayer_id": 544211,
+        "cardmarket_id": 763569,
+        "name": "Scorching Shot",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/f93d8357-83bd-4157-a389-68e4aa4985c8",
+        "scryfall_uri": "https://scryfall.com/card/otj/145/scorching-shot?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/f/9/f93d8357-83bd-4157-a389-68e4aa4985c8.jpg?1712355845",
+            "normal": "https://cards.scryfall.io/normal/front/f/9/f93d8357-83bd-4157-a389-68e4aa4985c8.jpg?1712355845",
+            "large": "https://cards.scryfall.io/large/front/f/9/f93d8357-83bd-4157-a389-68e4aa4985c8.jpg?1712355845",
+            "png": "https://cards.scryfall.io/png/front/f/9/f93d8357-83bd-4157-a389-68e4aa4985c8.png?1712355845",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/f/9/f93d8357-83bd-4157-a389-68e4aa4985c8.jpg?1712355845",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/f/9/f93d8357-83bd-4157-a389-68e4aa4985c8.jpg?1712355845"
+        },
+        "mana_cost": "{R}{R}",
+        "cmc": 2.0,
+        "type_line": "Sorcery",
+        "oracle_text": "Scorching Shot deals 5 damage to target creature.",
+        "colors": [
+            "R"
+        ],
+        "color_identity": [
+            "R"
+        ],
+        "keywords": [],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/f93d8357-83bd-4157-a389-68e4aa4985c8/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae13113ba-1923-493c-a48d-ca320b7adbde&unique=prints",
+        "collector_number": "145",
+        "digital": false,
+        "rarity": "uncommon",
+        "flavor_text": "Most outlaws prefer to strike when there are no witnesses. Slickshots prefer as many as possible.",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Caio Monteiro",
+        "artist_ids": [
+            "d5053eb6-af72-47a0-b6e8-023cc3b9aefb"
+        ],
+        "illustration_id": "151c75a8-e01e-4ca6-8545-14beff66bb1c",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 18199,
+        "penny_rank": 2327,
+        "prices": {
+            "usd": "0.15",
+            "usd_foil": "0.19",
+            "usd_etched": null,
+            "eur": "0.15",
+            "eur_foil": "0.19",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=655086&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DScorching%2BShot",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DScorching%2BShot",
+            "edhrec": "https://edhrec.com/route/?cc=Scorching+Shot"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544211%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/Scorching-Shot?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124201?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 55919,
+        "ALSA": 3.69,
+        "# Picked": 10954,
+        "ATA": 4.77,
+        "# GP": 55001,
+        "% GP": 85.0,
+        "GP WR": 53.3,
+        "# OH": 9185,
+        "OH WR": 52.8,
+        "# GD": 13107,
+        "GD WR": 55.4,
+        "# GIH": 22292,
+        "GIH WR": 54.3,
+        "# GNS": 32635,
+        "GNS WR": 52.6,
+        "IWD": 1.8
+    }
+}

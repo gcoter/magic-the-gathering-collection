@@ -1,0 +1,171 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "5a077de0-1893-40d0-a499-ee2e6e2258f1",
+        "oracle_id": "c77dc11e-d95d-4e7e-bb24-d971c179e9b0",
+        "multiverse_ids": [
+            660308
+        ],
+        "mtgo_id": 125385,
+        "arena_id": 90673,
+        "tcgplayer_id": 544937,
+        "name": "Legion Extruder",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/5a077de0-1893-40d0-a499-ee2e6e2258f1",
+        "scryfall_uri": "https://scryfall.com/card/big/12/legion-extruder?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/5/a/5a077de0-1893-40d0-a499-ee2e6e2258f1.jpg?1712352797",
+            "normal": "https://cards.scryfall.io/normal/front/5/a/5a077de0-1893-40d0-a499-ee2e6e2258f1.jpg?1712352797",
+            "large": "https://cards.scryfall.io/large/front/5/a/5a077de0-1893-40d0-a499-ee2e6e2258f1.jpg?1712352797",
+            "png": "https://cards.scryfall.io/png/front/5/a/5a077de0-1893-40d0-a499-ee2e6e2258f1.png?1712352797",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/5/a/5a077de0-1893-40d0-a499-ee2e6e2258f1.jpg?1712352797",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/5/a/5a077de0-1893-40d0-a499-ee2e6e2258f1.jpg?1712352797"
+        },
+        "mana_cost": "{1}{R}",
+        "cmc": 2.0,
+        "type_line": "Artifact",
+        "oracle_text": "When Legion Extruder enters the battlefield, it deals 2 damage to any target.\n{2}, {T}, Sacrifice another artifact: Create a 3/3 colorless Golem artifact creature token.",
+        "colors": [
+            "R"
+        ],
+        "color_identity": [
+            "R"
+        ],
+        "keywords": [],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "406e2960-f560-48bb-b4a6-4bd35889a8f8",
+                "component": "token",
+                "name": "Golem",
+                "type_line": "Token Artifact Creature \u2014 Golem",
+                "uri": "https://api.scryfall.com/cards/406e2960-f560-48bb-b4a6-4bd35889a8f8"
+            },
+            {
+                "object": "related_card",
+                "id": "0ffddccb-4195-4c8b-b2b3-5c545c656fee",
+                "component": "combo_piece",
+                "name": "Legion Extruder",
+                "type_line": "Artifact",
+                "uri": "https://api.scryfall.com/cards/0ffddccb-4195-4c8b-b2b3-5c545c656fee"
+            }
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "arena",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "14332d2c-ba93-4498-bf3f-9d601f88f783",
+        "set": "big",
+        "set_name": "The Big Score",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/14332d2c-ba93-4498-bf3f-9d601f88f783",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abig&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/big?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/5a077de0-1893-40d0-a499-ee2e6e2258f1/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac77dc11e-d95d-4e7e-bb24-d971c179e9b0&unique=prints",
+        "collector_number": "12",
+        "digital": false,
+        "rarity": "mythic",
+        "flavor_text": "When the vault door opened, ancient war machines rumbled to life.",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Anton Solovianchyk",
+        "artist_ids": [
+            "8e962ba2-380a-4e6f-84d9-4198549b11ce"
+        ],
+        "illustration_id": "c7a675f8-fd38-4b7f-8198-95b85d9db9ab",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": false,
+        "story_spotlight": false,
+        "promo_types": [
+            "boosterfun"
+        ],
+        "edhrec_rank": 20366,
+        "preview": {
+            "source": "jspd_",
+            "source_uri": "https://www.twitch.tv/jspd_",
+            "previewed_at": "2024-04-02"
+        },
+        "prices": {
+            "usd": "1.62",
+            "usd_foil": "2.38",
+            "usd_etched": null,
+            "eur": null,
+            "eur_foil": null,
+            "tix": "0.17"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=660308&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DLegion%2BExtruder",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DLegion%2BExtruder",
+            "edhrec": "https://edhrec.com/route/?cc=Legion+Extruder"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544937%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Legion+Extruder&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/125385?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 6494,
+        "ALSA": 2.8,
+        "# Picked": 1473,
+        "ATA": 3.15,
+        "# GP": 5868,
+        "% GP": 68.8,
+        "GP WR": 52.2,
+        "# OH": 983,
+        "OH WR": 49.6,
+        "# GD": 1348,
+        "GD WR": 55.9,
+        "# GIH": 2331,
+        "GIH WR": 53.2,
+        "# GNS": 3528,
+        "GNS WR": 51.5,
+        "IWD": 1.7
+    }
+}

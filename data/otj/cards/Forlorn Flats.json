@@ -1,0 +1,149 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "963c100e-4e12-438f-b5ae-14391406dff6",
+        "oracle_id": "ebb3e2ff-2214-4e11-88fb-e0fa84288cf1",
+        "multiverse_ids": [
+            655199
+        ],
+        "mtgo_id": 124427,
+        "arena_id": 90604,
+        "tcgplayer_id": 544230,
+        "cardmarket_id": 763605,
+        "name": "Forlorn Flats",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/963c100e-4e12-438f-b5ae-14391406dff6",
+        "scryfall_uri": "https://scryfall.com/card/otj/258/forlorn-flats?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/9/6/963c100e-4e12-438f-b5ae-14391406dff6.jpg?1712356332",
+            "normal": "https://cards.scryfall.io/normal/front/9/6/963c100e-4e12-438f-b5ae-14391406dff6.jpg?1712356332",
+            "large": "https://cards.scryfall.io/large/front/9/6/963c100e-4e12-438f-b5ae-14391406dff6.jpg?1712356332",
+            "png": "https://cards.scryfall.io/png/front/9/6/963c100e-4e12-438f-b5ae-14391406dff6.png?1712356332",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/9/6/963c100e-4e12-438f-b5ae-14391406dff6.jpg?1712356332",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/9/6/963c100e-4e12-438f-b5ae-14391406dff6.jpg?1712356332"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Land \u2014 Desert",
+        "oracle_text": "Forlorn Flats enters the battlefield tapped.\nWhen Forlorn Flats enters the battlefield, it deals 1 damage to target opponent.\n{T}: Add {W} or {B}.",
+        "colors": [],
+        "color_identity": [
+            "B",
+            "W"
+        ],
+        "keywords": [],
+        "produced_mana": [
+            "B",
+            "W"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/963c100e-4e12-438f-b5ae-14391406dff6/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aebb3e2ff-2214-4e11-88fb-e0fa84288cf1&unique=prints",
+        "collector_number": "258",
+        "digital": false,
+        "rarity": "common",
+        "flavor_text": "\"Should have known that shine on the horizon wasn't water.\"\n\u2014Pioneer journal of Big Ralph",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Robin Olausson",
+        "artist_ids": [
+            "adb9ad6d-6173-454b-8b50-a102b182548b"
+        ],
+        "illustration_id": "45ffda32-1295-443e-9779-fd4211d38638",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 16799,
+        "penny_rank": 1895,
+        "prices": {
+            "usd": "0.10",
+            "usd_foil": "0.15",
+            "usd_etched": null,
+            "eur": "0.10",
+            "eur_foil": "0.12",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=655199&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DForlorn%2BFlats",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DForlorn%2BFlats",
+            "edhrec": "https://edhrec.com/route/?cc=Forlorn+Flats"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544230%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/Forlorn-Flats?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124427?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 112493,
+        "ALSA": 5.16,
+        "# Picked": 23821,
+        "ATA": 7.05,
+        "# GP": 114167,
+        "% GP": 79.9,
+        "GP WR": 55.0,
+        "# OH": 20904,
+        "OH WR": 56.9,
+        "# GD": 26855,
+        "GD WR": 55.1,
+        "# GIH": 47759,
+        "GIH WR": 55.9,
+        "# GNS": 63660,
+        "GNS WR": 54.0,
+        "IWD": 1.9
+    }
+}

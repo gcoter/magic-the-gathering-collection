@@ -1,0 +1,157 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "13798c8c-1aa5-4f95-979b-b971e73d715f",
+        "oracle_id": "d65728cf-e9ce-46d8-a890-e1295b18cfbe",
+        "multiverse_ids": [
+            555384
+        ],
+        "mtgo_id": 98585,
+        "arena_id": 80334,
+        "tcgplayer_id": 268903,
+        "cardmarket_id": 652204,
+        "name": "Endless Detour",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/13798c8c-1aa5-4f95-979b-b971e73d715f",
+        "scryfall_uri": "https://scryfall.com/card/snc/183/endless-detour?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/1/3/13798c8c-1aa5-4f95-979b-b971e73d715f.jpg?1664412960",
+            "normal": "https://cards.scryfall.io/normal/front/1/3/13798c8c-1aa5-4f95-979b-b971e73d715f.jpg?1664412960",
+            "large": "https://cards.scryfall.io/large/front/1/3/13798c8c-1aa5-4f95-979b-b971e73d715f.jpg?1664412960",
+            "png": "https://cards.scryfall.io/png/front/1/3/13798c8c-1aa5-4f95-979b-b971e73d715f.png?1664412960",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/1/3/13798c8c-1aa5-4f95-979b-b971e73d715f.jpg?1664412960",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/1/3/13798c8c-1aa5-4f95-979b-b971e73d715f.jpg?1664412960"
+        },
+        "mana_cost": "{G}{W}{U}",
+        "cmc": 3.0,
+        "type_line": "Instant",
+        "oracle_text": "The owner of target spell, nonland permanent, or card in a graveyard puts it on the top or bottom of their library.",
+        "colors": [
+            "G",
+            "U",
+            "W"
+        ],
+        "color_identity": [
+            "G",
+            "U",
+            "W"
+        ],
+        "keywords": [],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/13798c8c-1aa5-4f95-979b-b971e73d715f/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad65728cf-e9ce-46d8-a890-e1295b18cfbe&unique=prints",
+        "collector_number": "183",
+        "digital": false,
+        "rarity": "rare",
+        "watermark": "brokers",
+        "flavor_text": "After diverting around the eleventh construction barrier, the taxi driver began to suspect she was being herded into a trap.",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Eddie Mendoza",
+        "artist_ids": [
+            "edba879a-50b4-4e4a-8e21-2649f484ef03"
+        ],
+        "illustration_id": "38c22d92-2456-4f0d-abae-9406883c8242",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 6804,
+        "penny_rank": 6498,
+        "preview": {
+            "source": "Arin Hanson",
+            "source_uri": "https://twitter.com/egoraptor/status/1514594319725912072",
+            "previewed_at": "2022-04-14"
+        },
+        "prices": {
+            "usd": "0.13",
+            "usd_foil": "0.19",
+            "usd_etched": null,
+            "eur": "0.19",
+            "eur_foil": "0.36",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555384&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DEndless%2BDetour",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DEndless%2BDetour",
+            "edhrec": "https://edhrec.com/route/?cc=Endless+Detour"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268903%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/Endless-Detour?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98585?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 23508,
+        "ALSA": 6.36,
+        "# Picked": 2999,
+        "ATA": 9.48,
+        "# GP": 2497,
+        "% GP": 13.8,
+        "GP WR": 53.0,
+        "# OH": 397,
+        "OH WR": null,
+        "# GD": 653,
+        "GD WR": 56.2,
+        "# GIH": 1050,
+        "GIH WR": 55.1,
+        "# GNS": 1434,
+        "GNS WR": 51.3,
+        "IWD": 3.8
+    }
+}

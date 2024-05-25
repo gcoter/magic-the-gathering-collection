@@ -1,0 +1,148 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "87e802b0-52a1-4108-ab4c-cb8ddc27e000",
+        "oracle_id": "c4851768-e210-4aaf-935e-715942e198f9",
+        "multiverse_ids": [
+            643244
+        ],
+        "mtgo_id": 121001,
+        "tcgplayer_id": 531135,
+        "cardmarket_id": 748590,
+        "name": "Voidslime",
+        "lang": "en",
+        "released_at": "2024-01-12",
+        "uri": "https://api.scryfall.com/cards/87e802b0-52a1-4108-ab4c-cb8ddc27e000",
+        "scryfall_uri": "https://scryfall.com/card/rvr/237/voidslime?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/8/7/87e802b0-52a1-4108-ab4c-cb8ddc27e000.jpg?1702429737",
+            "normal": "https://cards.scryfall.io/normal/front/8/7/87e802b0-52a1-4108-ab4c-cb8ddc27e000.jpg?1702429737",
+            "large": "https://cards.scryfall.io/large/front/8/7/87e802b0-52a1-4108-ab4c-cb8ddc27e000.jpg?1702429737",
+            "png": "https://cards.scryfall.io/png/front/8/7/87e802b0-52a1-4108-ab4c-cb8ddc27e000.png?1702429737",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/8/7/87e802b0-52a1-4108-ab4c-cb8ddc27e000.jpg?1702429737",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/8/7/87e802b0-52a1-4108-ab4c-cb8ddc27e000.jpg?1702429737"
+        },
+        "mana_cost": "{G}{U}{U}",
+        "cmc": 3.0,
+        "type_line": "Instant",
+        "oracle_text": "Counter target spell, activated ability, or triggered ability. (Mana abilities can't be targeted.)",
+        "colors": [
+            "G",
+            "U"
+        ],
+        "color_identity": [
+            "G",
+            "U"
+        ],
+        "keywords": [],
+        "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "not_legal",
+            "explorer": "not_legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "not_legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "legal"
+        },
+        "games": [
+            "paper",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": true,
+        "variation": false,
+        "set_id": "fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+        "set": "rvr",
+        "set_name": "Ravnica Remastered",
+        "set_type": "masters",
+        "set_uri": "https://api.scryfall.com/sets/fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arvr&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/rvr?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/87e802b0-52a1-4108-ab4c-cb8ddc27e000/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac4851768-e210-4aaf-935e-715942e198f9&unique=prints",
+        "collector_number": "237",
+        "digital": false,
+        "rarity": "rare",
+        "watermark": "simic",
+        "flavor_text": "\"It is technically an ooze, but its lifespan measures only seconds. In that short time, its appetite for magic is extraordinary.\"\n\u2014Simic research notes",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Isis",
+        "artist_ids": [
+            "4d12227a-8657-48b7-884a-ff70cc6428a5"
+        ],
+        "illustration_id": "68f1eb35-c4a5-4a2f-a1b4-1d7820e4a94c",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 4369,
+        "penny_rank": 3909,
+        "prices": {
+            "usd": "0.69",
+            "usd_foil": "0.62",
+            "usd_etched": null,
+            "eur": "0.93",
+            "eur_foil": "0.64",
+            "tix": "0.03"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=643244&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DVoidslime",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DVoidslime",
+            "edhrec": "https://edhrec.com/route/?cc=Voidslime"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F531135%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Ravnica-Remastered/Voidslime?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/121001?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 22273,
+        "ALSA": 6.15,
+        "# Picked": 2733,
+        "ATA": 9.37,
+        "# GP": 2566,
+        "% GP": 15.9,
+        "GP WR": 49.4,
+        "# OH": 418,
+        "OH WR": null,
+        "# GD": 658,
+        "GD WR": 54.3,
+        "# GIH": 1076,
+        "GIH WR": 50.5,
+        "# GNS": 1472,
+        "GNS WR": 48.4,
+        "IWD": 2.0
+    }
+}

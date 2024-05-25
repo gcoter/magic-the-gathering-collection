@@ -1,0 +1,163 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "4720b4f2-e6af-4223-9250-a0ed21ed5693",
+        "oracle_id": "1b704798-0c69-4c18-ac7e-42933ce90028",
+        "multiverse_ids": [
+            518461
+        ],
+        "mtgo_id": 89873,
+        "tcgplayer_id": 236541,
+        "cardmarket_id": 559665,
+        "name": "Pest Infestation",
+        "lang": "en",
+        "released_at": "2021-04-23",
+        "uri": "https://api.scryfall.com/cards/4720b4f2-e6af-4223-9250-a0ed21ed5693",
+        "scryfall_uri": "https://scryfall.com/card/c21/65/pest-infestation?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/4/7/4720b4f2-e6af-4223-9250-a0ed21ed5693.jpg?1625192367",
+            "normal": "https://cards.scryfall.io/normal/front/4/7/4720b4f2-e6af-4223-9250-a0ed21ed5693.jpg?1625192367",
+            "large": "https://cards.scryfall.io/large/front/4/7/4720b4f2-e6af-4223-9250-a0ed21ed5693.jpg?1625192367",
+            "png": "https://cards.scryfall.io/png/front/4/7/4720b4f2-e6af-4223-9250-a0ed21ed5693.png?1625192367",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/4/7/4720b4f2-e6af-4223-9250-a0ed21ed5693.jpg?1625192367",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/4/7/4720b4f2-e6af-4223-9250-a0ed21ed5693.jpg?1625192367"
+        },
+        "mana_cost": "{X}{X}{G}",
+        "cmc": 1.0,
+        "type_line": "Sorcery",
+        "oracle_text": "Destroy up to X target artifacts and/or enchantments. Create twice X 1/1 black and green Pest creature tokens with \"When this creature dies, you gain 1 life.\"",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "keywords": [],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "99b7ac6b-b320-44b3-90b9-337a8be5a8e9",
+                "component": "combo_piece",
+                "name": "Pest Infestation",
+                "type_line": "Sorcery",
+                "uri": "https://api.scryfall.com/cards/99b7ac6b-b320-44b3-90b9-337a8be5a8e9"
+            },
+            {
+                "object": "related_card",
+                "id": "e2e4c096-b083-4d19-ab8f-799e767819b4",
+                "component": "token",
+                "name": "Pest",
+                "type_line": "Token Creature \u2014 Pest",
+                "uri": "https://api.scryfall.com/cards/e2e4c096-b083-4d19-ab8f-799e767819b4"
+            }
+        ],
+        "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "not_legal",
+            "explorer": "not_legal",
+            "modern": "not_legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "not_legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": false,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "27bf6dbd-a9e1-4904-afa7-d28fc7745c4f",
+        "set": "c21",
+        "set_name": "Commander 2021",
+        "set_type": "commander",
+        "set_uri": "https://api.scryfall.com/sets/27bf6dbd-a9e1-4904-afa7-d28fc7745c4f",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac21&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/c21?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/4720b4f2-e6af-4223-9250-a0ed21ed5693/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1b704798-0c69-4c18-ac7e-42933ce90028&unique=prints",
+        "collector_number": "65",
+        "digital": false,
+        "rarity": "rare",
+        "watermark": "witherbloom",
+        "flavor_text": "A thousand years of history undone by one juvenile prank.",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Brian Valeza",
+        "artist_ids": [
+            "bb2a9339-bbe4-445f-9736-3c43379ee076"
+        ],
+        "illustration_id": "b1009678-cdf0-427f-8a21-5cf742ecaad3",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": false,
+        "story_spotlight": false,
+        "edhrec_rank": 1872,
+        "penny_rank": 105,
+        "prices": {
+            "usd": "7.62",
+            "usd_foil": null,
+            "usd_etched": null,
+            "eur": "6.86",
+            "eur_foil": null,
+            "tix": "1.41"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=518461&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DPest%2BInfestation",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DPest%2BInfestation",
+            "edhrec": "https://edhrec.com/route/?cc=Pest+Infestation"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F236541%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Strixhaven/Pest-Infestation?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/89873?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 9114,
+        "ALSA": 2.53,
+        "# Picked": 5082,
+        "ATA": 2.64,
+        "# GP": 28378,
+        "% GP": 91.5,
+        "GP WR": 56.7,
+        "# OH": 4774,
+        "OH WR": 58.1,
+        "# GD": 6896,
+        "GD WR": 63.0,
+        "# GIH": 11670,
+        "GIH WR": 61.0,
+        "# GNS": 16546,
+        "GNS WR": 53.6,
+        "IWD": 7.4
+    }
+}

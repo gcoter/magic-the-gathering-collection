@@ -1,0 +1,148 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "861caabb-0573-4e94-8b03-342f90465064",
+        "oracle_id": "66fa2326-1b5d-41fb-b919-83bf9f383577",
+        "multiverse_ids": [
+            657175
+        ],
+        "mtgo_id": 124445,
+        "arena_id": 90613,
+        "tcgplayer_id": 544282,
+        "cardmarket_id": 763612,
+        "name": "Blooming Marsh",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/861caabb-0573-4e94-8b03-342f90465064",
+        "scryfall_uri": "https://scryfall.com/card/otj/266/blooming-marsh?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/8/6/861caabb-0573-4e94-8b03-342f90465064.jpg?1712356365",
+            "normal": "https://cards.scryfall.io/normal/front/8/6/861caabb-0573-4e94-8b03-342f90465064.jpg?1712356365",
+            "large": "https://cards.scryfall.io/large/front/8/6/861caabb-0573-4e94-8b03-342f90465064.jpg?1712356365",
+            "png": "https://cards.scryfall.io/png/front/8/6/861caabb-0573-4e94-8b03-342f90465064.png?1712356365",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/8/6/861caabb-0573-4e94-8b03-342f90465064.jpg?1712356365",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/8/6/861caabb-0573-4e94-8b03-342f90465064.jpg?1712356365"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Land",
+        "oracle_text": "Blooming Marsh enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {B} or {G}.",
+        "colors": [],
+        "color_identity": [
+            "B",
+            "G"
+        ],
+        "keywords": [],
+        "produced_mana": [
+            "B",
+            "G"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": true,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/861caabb-0573-4e94-8b03-342f90465064/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A66fa2326-1b5d-41fb-b919-83bf9f383577&unique=prints",
+        "collector_number": "266",
+        "digital": false,
+        "rarity": "rare",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Yeong-Hao Han",
+        "artist_ids": [
+            "f8e7f8d6-6dde-4059-973c-30f1fd1bbe4e"
+        ],
+        "illustration_id": "e74cfb87-be59-49d8-ba62-8b1ff5f068cb",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 2268,
+        "prices": {
+            "usd": "1.34",
+            "usd_foil": "1.66",
+            "usd_etched": null,
+            "eur": "1.88",
+            "eur_foil": "2.41",
+            "tix": "0.35"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=657175&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlooming%2BMarsh",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlooming%2BMarsh",
+            "edhrec": "https://edhrec.com/route/?cc=Blooming+Marsh"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544282%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/Blooming-Marsh?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124445?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 27611,
+        "ALSA": 3.8,
+        "# Picked": 5497,
+        "ATA": 5.24,
+        "# GP": 23495,
+        "% GP": 72.6,
+        "GP WR": 53.7,
+        "# OH": 4368,
+        "OH WR": 55.5,
+        "# GD": 5360,
+        "GD WR": 52.7,
+        "# GIH": 9728,
+        "GIH WR": 53.9,
+        "# GNS": 13691,
+        "GNS WR": 53.5,
+        "IWD": 0.5
+    }
+}

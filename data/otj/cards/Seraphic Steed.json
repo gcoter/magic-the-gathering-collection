@@ -1,0 +1,176 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "7ada7ab4-0dee-4ff3-9817-1e61ca3f2ccf",
+        "oracle_id": "51622e89-aa5e-4dd6-a078-eb45e8ebb434",
+        "multiverse_ids": [
+            655173
+        ],
+        "mtgo_id": 124375,
+        "arena_id": 90578,
+        "tcgplayer_id": 544671,
+        "cardmarket_id": 764057,
+        "name": "Seraphic Steed",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/7ada7ab4-0dee-4ff3-9817-1e61ca3f2ccf",
+        "scryfall_uri": "https://scryfall.com/card/otj/232/seraphic-steed?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/7/a/7ada7ab4-0dee-4ff3-9817-1e61ca3f2ccf.jpg?1712356210",
+            "normal": "https://cards.scryfall.io/normal/front/7/a/7ada7ab4-0dee-4ff3-9817-1e61ca3f2ccf.jpg?1712356210",
+            "large": "https://cards.scryfall.io/large/front/7/a/7ada7ab4-0dee-4ff3-9817-1e61ca3f2ccf.jpg?1712356210",
+            "png": "https://cards.scryfall.io/png/front/7/a/7ada7ab4-0dee-4ff3-9817-1e61ca3f2ccf.png?1712356210",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/7/a/7ada7ab4-0dee-4ff3-9817-1e61ca3f2ccf.jpg?1712356210",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/7/a/7ada7ab4-0dee-4ff3-9817-1e61ca3f2ccf.jpg?1712356210"
+        },
+        "mana_cost": "{G}{W}",
+        "cmc": 2.0,
+        "type_line": "Creature \u2014 Unicorn Mount",
+        "oracle_text": "First strike, lifelink\nWhenever Seraphic Steed attacks while saddled, create a 3/3 white Angel creature token with flying.\nSaddle 4 (Tap any number of other creatures you control with total power 4 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+            "G",
+            "W"
+        ],
+        "color_identity": [
+            "G",
+            "W"
+        ],
+        "keywords": [
+            "Lifelink",
+            "Saddle",
+            "First strike"
+        ],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "d3d8c502-e053-425f-ba40-27a627ca12a0",
+                "component": "token",
+                "name": "Angel",
+                "type_line": "Token Creature \u2014 Angel",
+                "uri": "https://api.scryfall.com/cards/d3d8c502-e053-425f-ba40-27a627ca12a0"
+            },
+            {
+                "object": "related_card",
+                "id": "1c9df2d7-6738-496c-8164-8bdf7d011df3",
+                "component": "combo_piece",
+                "name": "Seraphic Steed",
+                "type_line": "Creature \u2014 Unicorn Mount",
+                "uri": "https://api.scryfall.com/cards/1c9df2d7-6738-496c-8164-8bdf7d011df3"
+            }
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/7ada7ab4-0dee-4ff3-9817-1e61ca3f2ccf/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A51622e89-aa5e-4dd6-a078-eb45e8ebb434&unique=prints",
+        "collector_number": "232",
+        "digital": false,
+        "rarity": "rare",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Jonas De Ro",
+        "artist_ids": [
+            "561ebf9e-8d93-4b57-8156-8826d0c19601"
+        ],
+        "illustration_id": "c8d89194-6225-4a43-a07c-3f3173998c60",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 19452,
+        "preview": {
+            "source": "Val & PL \u00b7 Magic Arena FR",
+            "source_uri": "https://twitter.com/val_pl_mafr/status/1773057540252647730",
+            "previewed_at": "2024-03-27"
+        },
+        "prices": {
+            "usd": "0.13",
+            "usd_foil": "0.23",
+            "usd_etched": null,
+            "eur": "0.17",
+            "eur_foil": "0.18",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=655173&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DSeraphic%2BSteed",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DSeraphic%2BSteed",
+            "edhrec": "https://edhrec.com/route/?cc=Seraphic+Steed"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544671%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/Seraphic-Steed?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124375?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 12010,
+        "ALSA": 2.12,
+        "# Picked": 6490,
+        "ATA": 2.11,
+        "# GP": 36110,
+        "% GP": 89.4,
+        "GP WR": 58.2,
+        "# OH": 6440,
+        "OH WR": 66.6,
+        "# GD": 8245,
+        "GD WR": 61.0,
+        "# GIH": 14685,
+        "GIH WR": 63.4,
+        "# GNS": 20868,
+        "GNS WR": 54.4,
+        "IWD": 9.0
+    }
+}

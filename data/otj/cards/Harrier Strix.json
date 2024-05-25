@@ -1,0 +1,149 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "70ca61a9-8938-41bf-bd14-5759f4de6521",
+        "oracle_id": "eb154ebb-d02f-405a-a557-3d5ec7648c42",
+        "multiverse_ids": [
+            654993
+        ],
+        "mtgo_id": 124015,
+        "arena_id": 90398,
+        "tcgplayer_id": 544705,
+        "cardmarket_id": 764000,
+        "name": "Harrier Strix",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/70ca61a9-8938-41bf-bd14-5759f4de6521",
+        "scryfall_uri": "https://scryfall.com/card/otj/52/harrier-strix?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/7/0/70ca61a9-8938-41bf-bd14-5759f4de6521.jpg?1712355435",
+            "normal": "https://cards.scryfall.io/normal/front/7/0/70ca61a9-8938-41bf-bd14-5759f4de6521.jpg?1712355435",
+            "large": "https://cards.scryfall.io/large/front/7/0/70ca61a9-8938-41bf-bd14-5759f4de6521.jpg?1712355435",
+            "png": "https://cards.scryfall.io/png/front/7/0/70ca61a9-8938-41bf-bd14-5759f4de6521.png?1712355435",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/7/0/70ca61a9-8938-41bf-bd14-5759f4de6521.jpg?1712355435",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/7/0/70ca61a9-8938-41bf-bd14-5759f4de6521.jpg?1712355435"
+        },
+        "mana_cost": "{U}",
+        "cmc": 1.0,
+        "type_line": "Creature \u2014 Bird",
+        "oracle_text": "Flying\nWhen Harrier Strix enters the battlefield, tap target permanent.\n{2}{U}: Draw a card, then discard a card.",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+            "U"
+        ],
+        "color_identity": [
+            "U"
+        ],
+        "keywords": [
+            "Flying"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/70ca61a9-8938-41bf-bd14-5759f4de6521/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aeb154ebb-d02f-405a-a557-3d5ec7648c42&unique=prints",
+        "collector_number": "52",
+        "digital": false,
+        "rarity": "common",
+        "flavor_text": "It can see in both darkness and daylight, but it hunts best when thunder growls in the sky.",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Brian Valeza",
+        "artist_ids": [
+            "bb2a9339-bbe4-445f-9736-3c43379ee076"
+        ],
+        "illustration_id": "9ae077e1-482b-43ef-bd88-44f2e0599cce",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 19970,
+        "prices": {
+            "usd": "0.09",
+            "usd_foil": "0.10",
+            "usd_etched": null,
+            "eur": "0.04",
+            "eur_foil": "0.10",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=654993&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DHarrier%2BStrix",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DHarrier%2BStrix",
+            "edhrec": "https://edhrec.com/route/?cc=Harrier+Strix"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544705%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/Harrier-Strix?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124015?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 228206,
+        "ALSA": 7.36,
+        "# Picked": 25362,
+        "ATA": 10.71,
+        "# GP": 46162,
+        "% GP": 31.6,
+        "GP WR": 49.7,
+        "# OH": 7971,
+        "OH WR": 49.4,
+        "# GD": 12083,
+        "GD WR": 53.3,
+        "# GIH": 20054,
+        "GIH WR": 51.8,
+        "# GNS": 25997,
+        "GNS WR": 48.0,
+        "IWD": 3.8
+    }
+}

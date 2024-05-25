@@ -1,0 +1,170 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "5b491d11-d00a-4541-8389-2785a455eeee",
+        "oracle_id": "a861ee41-a2c6-4530-9974-82f55ce712b1",
+        "multiverse_ids": [
+            655061
+        ],
+        "mtgo_id": 124151,
+        "arena_id": 90466,
+        "tcgplayer_id": 544473,
+        "cardmarket_id": 764260,
+        "name": "Demonic Ruckus",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/5b491d11-d00a-4541-8389-2785a455eeee",
+        "scryfall_uri": "https://scryfall.com/card/otj/120/demonic-ruckus?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/5/b/5b491d11-d00a-4541-8389-2785a455eeee.jpg?1712355738",
+            "normal": "https://cards.scryfall.io/normal/front/5/b/5b491d11-d00a-4541-8389-2785a455eeee.jpg?1712355738",
+            "large": "https://cards.scryfall.io/large/front/5/b/5b491d11-d00a-4541-8389-2785a455eeee.jpg?1712355738",
+            "png": "https://cards.scryfall.io/png/front/5/b/5b491d11-d00a-4541-8389-2785a455eeee.png?1712355738",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/5/b/5b491d11-d00a-4541-8389-2785a455eeee.jpg?1712355738",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/5/b/5b491d11-d00a-4541-8389-2785a455eeee.jpg?1712355738"
+        },
+        "mana_cost": "{1}{R}",
+        "cmc": 2.0,
+        "type_line": "Enchantment \u2014 Aura",
+        "oracle_text": "Enchant creature\nEnchanted creature gets +1/+1 and has menace and trample.\nWhen Demonic Ruckus is put into a graveyard from the battlefield, draw a card.\nPlot {R} (You may pay {R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+        "colors": [
+            "R"
+        ],
+        "color_identity": [
+            "R"
+        ],
+        "keywords": [
+            "Plot",
+            "Enchant"
+        ],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "5b491d11-d00a-4541-8389-2785a455eeee",
+                "component": "combo_piece",
+                "name": "Demonic Ruckus",
+                "type_line": "Enchantment \u2014 Aura",
+                "uri": "https://api.scryfall.com/cards/5b491d11-d00a-4541-8389-2785a455eeee"
+            },
+            {
+                "object": "related_card",
+                "id": "f07677af-88a4-4ff5-b591-e1e3ac05235d",
+                "component": "combo_piece",
+                "name": "Plot",
+                "type_line": "Card",
+                "uri": "https://api.scryfall.com/cards/f07677af-88a4-4ff5-b591-e1e3ac05235d"
+            }
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/5b491d11-d00a-4541-8389-2785a455eeee/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa861ee41-a2c6-4530-9974-82f55ce712b1&unique=prints",
+        "collector_number": "120",
+        "digital": false,
+        "rarity": "uncommon",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Andrew Mar",
+        "artist_ids": [
+            "adad79bf-cd52-456a-b170-740ed8bff0fc"
+        ],
+        "illustration_id": "c7eaf026-499e-4ba2-96e3-1488136c2fc2",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 17393,
+        "preview": {
+            "source": "Jack Torrance",
+            "source_uri": "https://www.twitch.tv/jacktorrance90/videos",
+            "previewed_at": "2024-03-28"
+        },
+        "prices": {
+            "usd": "0.19",
+            "usd_foil": "0.22",
+            "usd_etched": null,
+            "eur": "0.14",
+            "eur_foil": "0.20",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=655061&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BRuckus",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BRuckus",
+            "edhrec": "https://edhrec.com/route/?cc=Demonic+Ruckus"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544473%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/Demonic-Ruckus?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124151?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 79459,
+        "ALSA": 5.5,
+        "# Picked": 10341,
+        "ATA": 7.77,
+        "# GP": 33229,
+        "% GP": 55.0,
+        "GP WR": 52.6,
+        "# OH": 5610,
+        "OH WR": 53.5,
+        "# GD": 7485,
+        "GD WR": 52.2,
+        "# GIH": 13095,
+        "GIH WR": 52.8,
+        "# GNS": 20122,
+        "GNS WR": 52.5,
+        "IWD": 0.3
+    }
+}

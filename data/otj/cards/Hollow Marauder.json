@@ -1,0 +1,153 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "df2913d5-57c7-4f9b-bc96-8a46beef2563",
+        "oracle_id": "1a4075f3-6c18-4cbe-99e0-f403dd78a7b0",
+        "multiverse_ids": [
+            655031
+        ],
+        "mtgo_id": 124091,
+        "arena_id": 90436,
+        "tcgplayer_id": 544712,
+        "cardmarket_id": 764014,
+        "name": "Hollow Marauder",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/df2913d5-57c7-4f9b-bc96-8a46beef2563",
+        "scryfall_uri": "https://scryfall.com/card/otj/90/hollow-marauder?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/d/f/df2913d5-57c7-4f9b-bc96-8a46beef2563.jpg?1712355599",
+            "normal": "https://cards.scryfall.io/normal/front/d/f/df2913d5-57c7-4f9b-bc96-8a46beef2563.jpg?1712355599",
+            "large": "https://cards.scryfall.io/large/front/d/f/df2913d5-57c7-4f9b-bc96-8a46beef2563.jpg?1712355599",
+            "png": "https://cards.scryfall.io/png/front/d/f/df2913d5-57c7-4f9b-bc96-8a46beef2563.png?1712355599",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/d/f/df2913d5-57c7-4f9b-bc96-8a46beef2563.jpg?1712355599",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/d/f/df2913d5-57c7-4f9b-bc96-8a46beef2563.jpg?1712355599"
+        },
+        "mana_cost": "{6}{B}",
+        "cmc": 7.0,
+        "type_line": "Creature \u2014 Specter Rogue",
+        "oracle_text": "This spell costs {1} less to cast for each creature card in your graveyard.\nFlying\nWhen Hollow Marauder enters the battlefield, any number of target opponents each discard a card. For each of those opponents who didn't discard a card with mana value 4 or greater, draw a card.",
+        "power": "4",
+        "toughness": "2",
+        "colors": [
+            "B"
+        ],
+        "color_identity": [
+            "B"
+        ],
+        "keywords": [
+            "Flying"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "restricted",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/df2913d5-57c7-4f9b-bc96-8a46beef2563/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1a4075f3-6c18-4cbe-99e0-f403dd78a7b0&unique=prints",
+        "collector_number": "90",
+        "digital": false,
+        "rarity": "uncommon",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Wero Gallo",
+        "artist_ids": [
+            "33e6c6ee-0d21-4834-a575-4dfefa5d77ce"
+        ],
+        "illustration_id": "fdf6eccd-8198-4731-b561-f047deda1e92",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 18770,
+        "preview": {
+            "source": "Rubee",
+            "source_uri": "https://twitter.com/RubeePlays/status/1773839321428279459",
+            "previewed_at": "2024-03-29"
+        },
+        "prices": {
+            "usd": "0.09",
+            "usd_foil": "0.16",
+            "usd_etched": null,
+            "eur": "0.08",
+            "eur_foil": "0.14",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=655031&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DHollow%2BMarauder",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DHollow%2BMarauder",
+            "edhrec": "https://edhrec.com/route/?cc=Hollow+Marauder"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544712%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/Hollow-Marauder?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124091?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 51174,
+        "ALSA": 3.49,
+        "# Picked": 18442,
+        "ATA": 3.91,
+        "# GP": 101121,
+        "% GP": 90.0,
+        "GP WR": 56.5,
+        "# OH": 15938,
+        "OH WR": 56.1,
+        "# GD": 26077,
+        "GD WR": 62.2,
+        "# GIH": 42015,
+        "GIH WR": 59.9,
+        "# GNS": 58535,
+        "GNS WR": 53.9,
+        "IWD": 6.0
+    }
+}

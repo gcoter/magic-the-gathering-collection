@@ -1,0 +1,161 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "7e144609-e1f6-4bdc-8d14-b735ef4140d3",
+        "oracle_id": "f1f0eab3-681b-4c2d-b590-555951920880",
+        "multiverse_ids": [
+            646747
+        ],
+        "mtgo_id": 121856,
+        "arena_id": 89104,
+        "tcgplayer_id": 533385,
+        "cardmarket_id": 751364,
+        "name": "Buried in the Garden",
+        "lang": "en",
+        "released_at": "2024-02-09",
+        "uri": "https://api.scryfall.com/cards/7e144609-e1f6-4bdc-8d14-b735ef4140d3",
+        "scryfall_uri": "https://scryfall.com/card/mkm/191/buried-in-the-garden?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/7/e/7e144609-e1f6-4bdc-8d14-b735ef4140d3.jpg?1706242126",
+            "normal": "https://cards.scryfall.io/normal/front/7/e/7e144609-e1f6-4bdc-8d14-b735ef4140d3.jpg?1706242126",
+            "large": "https://cards.scryfall.io/large/front/7/e/7e144609-e1f6-4bdc-8d14-b735ef4140d3.jpg?1706242126",
+            "png": "https://cards.scryfall.io/png/front/7/e/7e144609-e1f6-4bdc-8d14-b735ef4140d3.png?1706242126",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/7/e/7e144609-e1f6-4bdc-8d14-b735ef4140d3.jpg?1706242126",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/7/e/7e144609-e1f6-4bdc-8d14-b735ef4140d3.jpg?1706242126"
+        },
+        "mana_cost": "{2}{G}{W}",
+        "cmc": 4.0,
+        "type_line": "Enchantment \u2014 Aura",
+        "oracle_text": "Enchant land\nWhen Buried in the Garden enters the battlefield, exile target nonland permanent you don't control until Buried in the Garden leaves the battlefield.\nWhenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.",
+        "colors": [
+            "G",
+            "W"
+        ],
+        "color_identity": [
+            "G",
+            "W"
+        ],
+        "keywords": [
+            "Enchant"
+        ],
+        "produced_mana": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "arena",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set": "mkm",
+        "set_name": "Murders at Karlov Manor",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/7e144609-e1f6-4bdc-8d14-b735ef4140d3/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af1f0eab3-681b-4c2d-b590-555951920880&unique=prints",
+        "collector_number": "191",
+        "digital": false,
+        "rarity": "uncommon",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Tom Babbey",
+        "artist_ids": [
+            "622ba04b-9e3a-4039-8f12-354bf56bfb0f"
+        ],
+        "illustration_id": "4efed341-9517-4f1a-956d-2d3f9e3056d7",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 12132,
+        "penny_rank": 5368,
+        "preview": {
+            "source": "NGA",
+            "source_uri": "https://bbs.nga.cn/read.php?tid=39020588&rand=899",
+            "previewed_at": "2024-01-17"
+        },
+        "prices": {
+            "usd": "0.07",
+            "usd_foil": "0.17",
+            "usd_etched": null,
+            "eur": "0.10",
+            "eur_foil": "0.26",
+            "tix": "0.03"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646747&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBuried%2Bin%2Bthe%2BGarden",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBuried%2Bin%2Bthe%2BGarden",
+            "edhrec": "https://edhrec.com/route/?cc=Buried+in+the+Garden"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F533385%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Murders-at-Karlov-Manor/Buried-in-the-Garden?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/121856?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 45255,
+        "ALSA": 3.19,
+        "# Picked": 17562,
+        "ATA": 3.59,
+        "# GP": 95219,
+        "% GP": 88.4,
+        "GP WR": 57.2,
+        "# OH": 16083,
+        "OH WR": 58.5,
+        "# GD": 22612,
+        "GD WR": 61.1,
+        "# GIH": 38695,
+        "GIH WR": 60.1,
+        "# GNS": 56322,
+        "GNS WR": 55.1,
+        "IWD": 4.9
+    }
+}

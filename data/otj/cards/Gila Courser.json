@@ -1,0 +1,153 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "f568803d-65c0-48d7-916f-671267a9e00e",
+        "oracle_id": "bc983c67-eb5d-4a85-a12e-a410f85e949e",
+        "multiverse_ids": [
+            655065
+        ],
+        "mtgo_id": 124159,
+        "arena_id": 90470,
+        "tcgplayer_id": 544629,
+        "cardmarket_id": 764025,
+        "name": "Gila Courser",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/f568803d-65c0-48d7-916f-671267a9e00e",
+        "scryfall_uri": "https://scryfall.com/card/otj/124/gila-courser?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/f/5/f568803d-65c0-48d7-916f-671267a9e00e.jpg?1712355755",
+            "normal": "https://cards.scryfall.io/normal/front/f/5/f568803d-65c0-48d7-916f-671267a9e00e.jpg?1712355755",
+            "large": "https://cards.scryfall.io/large/front/f/5/f568803d-65c0-48d7-916f-671267a9e00e.jpg?1712355755",
+            "png": "https://cards.scryfall.io/png/front/f/5/f568803d-65c0-48d7-916f-671267a9e00e.png?1712355755",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/f/5/f568803d-65c0-48d7-916f-671267a9e00e.jpg?1712355755",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/f/5/f568803d-65c0-48d7-916f-671267a9e00e.jpg?1712355755"
+        },
+        "mana_cost": "{2}{R}",
+        "cmc": 3.0,
+        "type_line": "Creature \u2014 Lizard Mount",
+        "oracle_text": "Whenever Gila Courser attacks while saddled, exile the top card of your library. Until the end of your next turn, you may play that card.\nSaddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",
+        "power": "4",
+        "toughness": "2",
+        "colors": [
+            "R"
+        ],
+        "color_identity": [
+            "R"
+        ],
+        "keywords": [
+            "Saddle"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "restricted",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/f568803d-65c0-48d7-916f-671267a9e00e/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abc983c67-eb5d-4a85-a12e-a410f85e949e&unique=prints",
+        "collector_number": "124",
+        "digital": false,
+        "rarity": "uncommon",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Brent Hollowell",
+        "artist_ids": [
+            "19d4900c-f5a1-4c08-b5e0-b8d7ba733ec2"
+        ],
+        "illustration_id": "75488144-340a-4fe3-a7c6-c441f995ac7e",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 24710,
+        "preview": {
+            "source": "Lords of Limited",
+            "source_uri": "https://vxtwitter.com/LordsofLimited/status/1773697904017920244",
+            "previewed_at": "2024-03-29"
+        },
+        "prices": {
+            "usd": "0.03",
+            "usd_foil": "0.03",
+            "usd_etched": null,
+            "eur": "0.05",
+            "eur_foil": "0.08",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=655065&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DGila%2BCourser",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DGila%2BCourser",
+            "edhrec": "https://edhrec.com/route/?cc=Gila+Courser"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544629%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/Gila-Courser?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124159?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 66307,
+        "ALSA": 4.37,
+        "# Picked": 12117,
+        "ATA": 5.76,
+        "# GP": 56040,
+        "% GP": 78.1,
+        "GP WR": 53.5,
+        "# OH": 9757,
+        "OH WR": 53.2,
+        "# GD": 12857,
+        "GD WR": 53.4,
+        "# GIH": 22614,
+        "GIH WR": 53.3,
+        "# GNS": 33257,
+        "GNS WR": 53.6,
+        "IWD": -0.2
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "6dd0095b-6136-4368-94cb-4c82621aaf37",
+        "oracle_id": "5d24fb6b-7176-407c-b917-6c88a6da40df",
+        "multiverse_ids": [
+            655037
+        ],
+        "mtgo_id": 124103,
+        "arena_id": 90442,
+        "tcgplayer_id": 544673,
+        "cardmarket_id": 764016,
+        "name": "Nezumi Linkbreaker",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/6dd0095b-6136-4368-94cb-4c82621aaf37",
+        "scryfall_uri": "https://scryfall.com/card/otj/96/nezumi-linkbreaker?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/6/d/6dd0095b-6136-4368-94cb-4c82621aaf37.jpg?1712355626",
+            "normal": "https://cards.scryfall.io/normal/front/6/d/6dd0095b-6136-4368-94cb-4c82621aaf37.jpg?1712355626",
+            "large": "https://cards.scryfall.io/large/front/6/d/6dd0095b-6136-4368-94cb-4c82621aaf37.jpg?1712355626",
+            "png": "https://cards.scryfall.io/png/front/6/d/6dd0095b-6136-4368-94cb-4c82621aaf37.png?1712355626",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/6/d/6dd0095b-6136-4368-94cb-4c82621aaf37.jpg?1712355626",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/6/d/6dd0095b-6136-4368-94cb-4c82621aaf37.jpg?1712355626"
+        },
+        "mana_cost": "{B}",
+        "cmc": 1.0,
+        "type_line": "Creature \u2014 Rat Warlock",
+        "oracle_text": "When Nezumi Linkbreaker dies, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+            "B"
+        ],
+        "color_identity": [
+            "B"
+        ],
+        "keywords": [],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "6dd0095b-6136-4368-94cb-4c82621aaf37",
+                "component": "combo_piece",
+                "name": "Nezumi Linkbreaker",
+                "type_line": "Creature \u2014 Rat Warlock",
+                "uri": "https://api.scryfall.com/cards/6dd0095b-6136-4368-94cb-4c82621aaf37"
+            },
+            {
+                "object": "related_card",
+                "id": "5f04607f-eed2-462e-897f-82e41e5f7049",
+                "component": "token",
+                "name": "Mercenary",
+                "type_line": "Token Creature \u2014 Mercenary",
+                "uri": "https://api.scryfall.com/cards/5f04607f-eed2-462e-897f-82e41e5f7049"
+            }
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/6dd0095b-6136-4368-94cb-4c82621aaf37/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5d24fb6b-7176-407c-b917-6c88a6da40df&unique=prints",
+        "collector_number": "96",
+        "digital": false,
+        "rarity": "common",
+        "flavor_text": "\"If they want to get to Prosperity so badly, they can walk there.\"",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Miro Petrov",
+        "artist_ids": [
+            "bd56e591-b386-4ee1-9652-2de0d7acaf40"
+        ],
+        "illustration_id": "01f33264-327f-4e91-bef2-31ec2ea7d2ae",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 18772,
+        "penny_rank": 2582,
+        "prices": {
+            "usd": "0.08",
+            "usd_foil": "0.10",
+            "usd_etched": null,
+            "eur": "0.02",
+            "eur_foil": "0.14",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=655037&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DNezumi%2BLinkbreaker",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DNezumi%2BLinkbreaker",
+            "edhrec": "https://edhrec.com/route/?cc=Nezumi+Linkbreaker"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544673%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/Nezumi-Linkbreaker?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124103?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 225218,
+        "ALSA": 6.92,
+        "# Picked": 29308,
+        "ATA": 9.95,
+        "# GP": 72652,
+        "% GP": 42.0,
+        "GP WR": 53.5,
+        "# OH": 12678,
+        "OH WR": 55.5,
+        "# GD": 17730,
+        "GD WR": 54.4,
+        "# GIH": 30408,
+        "GIH WR": 54.9,
+        "# GNS": 42199,
+        "GNS WR": 52.5,
+        "IWD": 2.3
+    }
+}

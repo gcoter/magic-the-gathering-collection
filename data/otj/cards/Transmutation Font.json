@@ -1,0 +1,179 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "e6cfe673-d688-499a-882b-4fe5418739e3",
+        "oracle_id": "a68e57f3-f138-4c26-b8d5-55d1adec44a8",
+        "multiverse_ids": [
+            660324
+        ],
+        "mtgo_id": 125417,
+        "arena_id": 90689,
+        "tcgplayer_id": 544303,
+        "name": "Transmutation Font",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/e6cfe673-d688-499a-882b-4fe5418739e3",
+        "scryfall_uri": "https://scryfall.com/card/big/28/transmutation-font?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/e/6/e6cfe673-d688-499a-882b-4fe5418739e3.jpg?1712352976",
+            "normal": "https://cards.scryfall.io/normal/front/e/6/e6cfe673-d688-499a-882b-4fe5418739e3.jpg?1712352976",
+            "large": "https://cards.scryfall.io/large/front/e/6/e6cfe673-d688-499a-882b-4fe5418739e3.jpg?1712352976",
+            "png": "https://cards.scryfall.io/png/front/e/6/e6cfe673-d688-499a-882b-4fe5418739e3.png?1712352976",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/e/6/e6cfe673-d688-499a-882b-4fe5418739e3.jpg?1712352976",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/e/6/e6cfe673-d688-499a-882b-4fe5418739e3.jpg?1712352976"
+        },
+        "mana_cost": "{5}",
+        "cmc": 5.0,
+        "type_line": "Artifact",
+        "oracle_text": "{T}: Create your choice of a Blood token, a Clue token, or a Food token.\n{3}, {T}, Sacrifice three artifact tokens with different names: Search your library for an artifact card, put it onto the battlefield, then shuffle. Activate only as a sorcery.",
+        "colors": [],
+        "color_identity": [],
+        "keywords": [
+            "Food"
+        ],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "0753c3b5-6127-4e42-a029-b165d5f8170c",
+                "component": "token",
+                "name": "Blood",
+                "type_line": "Token Artifact \u2014 Blood",
+                "uri": "https://api.scryfall.com/cards/0753c3b5-6127-4e42-a029-b165d5f8170c"
+            },
+            {
+                "object": "related_card",
+                "id": "764a906c-8b27-4ffa-bdc3-7825c6919d3e",
+                "component": "token",
+                "name": "Clue",
+                "type_line": "Token Artifact \u2014 Clue",
+                "uri": "https://api.scryfall.com/cards/764a906c-8b27-4ffa-bdc3-7825c6919d3e"
+            },
+            {
+                "object": "related_card",
+                "id": "280e3af6-7904-4214-8141-e145c48e2687",
+                "component": "token",
+                "name": "Food",
+                "type_line": "Token Artifact \u2014 Food",
+                "uri": "https://api.scryfall.com/cards/280e3af6-7904-4214-8141-e145c48e2687"
+            },
+            {
+                "object": "related_card",
+                "id": "47a2058a-24a7-4b10-a1d5-0b69e94c8688",
+                "component": "combo_piece",
+                "name": "Transmutation Font",
+                "type_line": "Artifact",
+                "uri": "https://api.scryfall.com/cards/47a2058a-24a7-4b10-a1d5-0b69e94c8688"
+            }
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "arena",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "14332d2c-ba93-4498-bf3f-9d601f88f783",
+        "set": "big",
+        "set_name": "The Big Score",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/14332d2c-ba93-4498-bf3f-9d601f88f783",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abig&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/big?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/e6cfe673-d688-499a-882b-4fe5418739e3/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa68e57f3-f138-4c26-b8d5-55d1adec44a8&unique=prints",
+        "collector_number": "28",
+        "digital": false,
+        "rarity": "mythic",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Mark Poole",
+        "artist_ids": [
+            "bfdeaf09-f915-4058-8e8b-bcac3bc43c33"
+        ],
+        "illustration_id": "b94f6cd2-1d6c-4c4a-a7fc-e528e3e55beb",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": false,
+        "story_spotlight": false,
+        "promo_types": [
+            "boosterfun"
+        ],
+        "edhrec_rank": 14582,
+        "prices": {
+            "usd": "1.89",
+            "usd_foil": "3.54",
+            "usd_etched": null,
+            "eur": null,
+            "eur_foil": null,
+            "tix": "0.03"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=660324&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DTransmutation%2BFont",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DTransmutation%2BFont",
+            "edhrec": "https://edhrec.com/route/?cc=Transmutation+Font"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544303%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Transmutation+Font&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/125417?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 10855,
+        "ALSA": 4.41,
+        "# Picked": 1439,
+        "ATA": 6.26,
+        "# GP": 2815,
+        "% GP": 34.2,
+        "GP WR": 50.3,
+        "# OH": 485,
+        "OH WR": null,
+        "# GD": 725,
+        "GD WR": 53.9,
+        "# GIH": 1210,
+        "GIH WR": 50.7,
+        "# GNS": 1602,
+        "GNS WR": 49.9,
+        "IWD": 0.8
+    }
+}

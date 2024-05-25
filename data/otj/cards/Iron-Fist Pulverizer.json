@@ -1,0 +1,150 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "cd7f984a-0b56-45df-958d-6178e4da61ed",
+        "oracle_id": "e5cea282-9e61-47da-8c5d-f5fca6a508a4",
+        "multiverse_ids": [
+            655072
+        ],
+        "mtgo_id": 124173,
+        "arena_id": 90477,
+        "tcgplayer_id": 544643,
+        "cardmarket_id": 764027,
+        "name": "Iron-Fist Pulverizer",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/cd7f984a-0b56-45df-958d-6178e4da61ed",
+        "scryfall_uri": "https://scryfall.com/card/otj/131/iron-fist-pulverizer?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/c/d/cd7f984a-0b56-45df-958d-6178e4da61ed.jpg?1712355784",
+            "normal": "https://cards.scryfall.io/normal/front/c/d/cd7f984a-0b56-45df-958d-6178e4da61ed.jpg?1712355784",
+            "large": "https://cards.scryfall.io/large/front/c/d/cd7f984a-0b56-45df-958d-6178e4da61ed.jpg?1712355784",
+            "png": "https://cards.scryfall.io/png/front/c/d/cd7f984a-0b56-45df-958d-6178e4da61ed.png?1712355784",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/c/d/cd7f984a-0b56-45df-958d-6178e4da61ed.jpg?1712355784",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/c/d/cd7f984a-0b56-45df-958d-6178e4da61ed.jpg?1712355784"
+        },
+        "mana_cost": "{4}{R}",
+        "cmc": 5.0,
+        "type_line": "Creature \u2014 Giant Warrior",
+        "oracle_text": "Reach\nWhenever you cast your second spell each turn, Iron-Fist Pulverizer deals 2 damage to target opponent. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+        "power": "4",
+        "toughness": "5",
+        "colors": [
+            "R"
+        ],
+        "color_identity": [
+            "R"
+        ],
+        "keywords": [
+            "Reach",
+            "Scry"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/cd7f984a-0b56-45df-958d-6178e4da61ed/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae5cea282-9e61-47da-8c5d-f5fca6a508a4&unique=prints",
+        "collector_number": "131",
+        "digital": false,
+        "rarity": "common",
+        "flavor_text": "\"The 3:10 to Omenport will be delayed.\"\n\u2014Prosperity Station announcement",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Xabi Gaztelua",
+        "artist_ids": [
+            "35b87e24-bfe0-43f4-83c3-2fa9574d6026"
+        ],
+        "illustration_id": "00d47bdf-cfcc-493e-a53f-49bc62d99a8b",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 23681,
+        "prices": {
+            "usd": "0.02",
+            "usd_foil": "0.04",
+            "usd_etched": null,
+            "eur": "0.03",
+            "eur_foil": "0.02",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=655072&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DIron-Fist%2BPulverizer",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DIron-Fist%2BPulverizer",
+            "edhrec": "https://edhrec.com/route/?cc=Iron-Fist+Pulverizer"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544643%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/Iron-Fist-Pulverizer?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124173?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 229652,
+        "ALSA": 7.25,
+        "# Picked": 24501,
+        "ATA": 10.72,
+        "# GP": 41810,
+        "% GP": 29.1,
+        "GP WR": 50.7,
+        "# OH": 6557,
+        "OH WR": 49.2,
+        "# GD": 10621,
+        "GD WR": 52.7,
+        "# GIH": 17178,
+        "GIH WR": 51.4,
+        "# GNS": 24670,
+        "GNS WR": 50.2,
+        "IWD": 1.2
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "eb32429a-7ef9-418f-baf8-fed9aa010c9e",
+        "oracle_id": "653e4b68-3184-4352-ac91-127f7e6d7c12",
+        "multiverse_ids": [
+            640526
+        ],
+        "mtgo_id": 118860,
+        "tcgplayer_id": 525742,
+        "cardmarket_id": 743582,
+        "name": "Port Razer",
+        "lang": "en",
+        "released_at": "2023-11-17",
+        "uri": "https://api.scryfall.com/cards/eb32429a-7ef9-418f-baf8-fed9aa010c9e",
+        "scryfall_uri": "https://scryfall.com/card/lcc/230/port-razer?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/e/b/eb32429a-7ef9-418f-baf8-fed9aa010c9e.jpg?1698988335",
+            "normal": "https://cards.scryfall.io/normal/front/e/b/eb32429a-7ef9-418f-baf8-fed9aa010c9e.jpg?1698988335",
+            "large": "https://cards.scryfall.io/large/front/e/b/eb32429a-7ef9-418f-baf8-fed9aa010c9e.jpg?1698988335",
+            "png": "https://cards.scryfall.io/png/front/e/b/eb32429a-7ef9-418f-baf8-fed9aa010c9e.png?1698988335",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/e/b/eb32429a-7ef9-418f-baf8-fed9aa010c9e.jpg?1698988335",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/e/b/eb32429a-7ef9-418f-baf8-fed9aa010c9e.jpg?1698988335"
+        },
+        "mana_cost": "{3}{R}{R}",
+        "cmc": 5.0,
+        "type_line": "Creature \u2014 Orc Pirate",
+        "oracle_text": "Whenever Port Razer deals combat damage to a player, untap each creature you control. After this phase, there is an additional combat phase.\nPort Razer can't attack a player it has already attacked this turn.",
+        "power": "4",
+        "toughness": "4",
+        "colors": [
+            "R"
+        ],
+        "color_identity": [
+            "R"
+        ],
+        "keywords": [],
+        "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "not_legal",
+            "explorer": "not_legal",
+            "modern": "not_legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "not_legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": false,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": true,
+        "variation": false,
+        "set_id": "d253edc3-5bc7-4cf1-9446-a8540dedffa5",
+        "set": "lcc",
+        "set_name": "The Lost Caverns of Ixalan Commander",
+        "set_type": "commander",
+        "set_uri": "https://api.scryfall.com/sets/d253edc3-5bc7-4cf1-9446-a8540dedffa5",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alcc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/lcc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/eb32429a-7ef9-418f-baf8-fed9aa010c9e/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A653e4b68-3184-4352-ac91-127f7e6d7c12&unique=prints",
+        "collector_number": "230",
+        "digital": false,
+        "rarity": "mythic",
+        "flavor_text": "\"Smash and grab, loot and burn, then it is the next town's turn!\"",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Craig J Spearing",
+        "artist_ids": [
+            "b0f15e74-0dd6-4156-959e-c5e30c5cdc52"
+        ],
+        "illustration_id": "97022f10-ad61-45ef-a2a6-233cfa78150b",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": false,
+        "story_spotlight": false,
+        "edhrec_rank": 1783,
+        "prices": {
+            "usd": "0.63",
+            "usd_foil": null,
+            "usd_etched": null,
+            "eur": "0.76",
+            "eur_foil": null,
+            "tix": null
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=640526&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DPort%2BRazer",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DPort%2BRazer",
+            "edhrec": "https://edhrec.com/route/?cc=Port+Razer"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F525742%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-The-Lost-Caverns-of-Ixalan/Port-Razer?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/118860?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 1681,
+        "ALSA": 2.8,
+        "# Picked": 268,
+        "ATA": null,
+        "# GP": 987,
+        "% GP": 65.1,
+        "GP WR": 49.6,
+        "# OH": 151,
+        "OH WR": null,
+        "# GD": 219,
+        "GD WR": null,
+        "# GIH": 370,
+        "GIH WR": null,
+        "# GNS": 617,
+        "GNS WR": 49.3,
+        "IWD": null
+    }
+}

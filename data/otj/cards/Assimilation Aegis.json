@@ -1,0 +1,149 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "014bf3c6-e46f-48f8-902f-82deeba260b2",
+        "oracle_id": "6d39d218-254a-4886-907a-89df605d7ce4",
+        "multiverse_ids": [
+            655133
+        ],
+        "mtgo_id": 124295,
+        "arena_id": 90538,
+        "tcgplayer_id": 544395,
+        "cardmarket_id": 763951,
+        "name": "Assimilation Aegis",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/014bf3c6-e46f-48f8-902f-82deeba260b2",
+        "scryfall_uri": "https://scryfall.com/card/otj/192/assimilation-aegis?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/0/1/014bf3c6-e46f-48f8-902f-82deeba260b2.jpg?1712356044",
+            "normal": "https://cards.scryfall.io/normal/front/0/1/014bf3c6-e46f-48f8-902f-82deeba260b2.jpg?1712356044",
+            "large": "https://cards.scryfall.io/large/front/0/1/014bf3c6-e46f-48f8-902f-82deeba260b2.jpg?1712356044",
+            "png": "https://cards.scryfall.io/png/front/0/1/014bf3c6-e46f-48f8-902f-82deeba260b2.png?1712356044",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/0/1/014bf3c6-e46f-48f8-902f-82deeba260b2.jpg?1712356044",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/0/1/014bf3c6-e46f-48f8-902f-82deeba260b2.jpg?1712356044"
+        },
+        "mana_cost": "{1}{W}{U}",
+        "cmc": 3.0,
+        "type_line": "Artifact \u2014 Equipment",
+        "oracle_text": "When Assimilation Aegis enters the battlefield, exile up to one target creature until Assimilation Aegis leaves the battlefield.\nWhenever Assimilation Aegis becomes attached to a creature, for as long as Assimilation Aegis remains attached to it, that creature becomes a copy of a creature card exiled with Assimilation Aegis.\nEquip {2}",
+        "colors": [
+            "U",
+            "W"
+        ],
+        "color_identity": [
+            "U",
+            "W"
+        ],
+        "keywords": [
+            "Equip"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/014bf3c6-e46f-48f8-902f-82deeba260b2/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6d39d218-254a-4886-907a-89df605d7ce4&unique=prints",
+        "collector_number": "192",
+        "digital": false,
+        "rarity": "mythic",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Matt Stewart",
+        "artist_ids": [
+            "20871267-2d8a-41d5-b03a-be3d557c5734"
+        ],
+        "illustration_id": "7a4d7bc2-e342-4bf7-bff8-3adf8e61c815",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 20924,
+        "prices": {
+            "usd": "1.55",
+            "usd_foil": "1.48",
+            "usd_etched": null,
+            "eur": "0.62",
+            "eur_foil": "1.44",
+            "tix": "3.68"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=655133&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DAssimilation%2BAegis",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DAssimilation%2BAegis",
+            "edhrec": "https://edhrec.com/route/?cc=Assimilation+Aegis"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544395%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/Assimilation-Aegis?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124295?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 7289,
+        "ALSA": 2.51,
+        "# Picked": 2937,
+        "ATA": 2.58,
+        "# GP": 13420,
+        "% GP": 77.0,
+        "GP WR": 54.4,
+        "# OH": 2253,
+        "OH WR": 55.9,
+        "# GD": 3545,
+        "GD WR": 58.6,
+        "# GIH": 5798,
+        "GIH WR": 57.6,
+        "# GNS": 7568,
+        "GNS WR": 51.8,
+        "IWD": 5.7
+    }
+}

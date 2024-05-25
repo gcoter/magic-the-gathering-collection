@@ -1,0 +1,149 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "ef32a5f8-f69d-47dc-a800-4f0ddf4eada5",
+        "oracle_id": "bc875500-f6df-4365-b2d6-7cf425daea97",
+        "multiverse_ids": [
+            654977
+        ],
+        "mtgo_id": 123983,
+        "arena_id": 90382,
+        "tcgplayer_id": 544215,
+        "cardmarket_id": 763557,
+        "name": "Trained Arynx",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/ef32a5f8-f69d-47dc-a800-4f0ddf4eada5",
+        "scryfall_uri": "https://scryfall.com/card/otj/36/trained-arynx?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/e/f/ef32a5f8-f69d-47dc-a800-4f0ddf4eada5.jpg?1712355371",
+            "normal": "https://cards.scryfall.io/normal/front/e/f/ef32a5f8-f69d-47dc-a800-4f0ddf4eada5.jpg?1712355371",
+            "large": "https://cards.scryfall.io/large/front/e/f/ef32a5f8-f69d-47dc-a800-4f0ddf4eada5.jpg?1712355371",
+            "png": "https://cards.scryfall.io/png/front/e/f/ef32a5f8-f69d-47dc-a800-4f0ddf4eada5.png?1712355371",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/e/f/ef32a5f8-f69d-47dc-a800-4f0ddf4eada5.jpg?1712355371",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/e/f/ef32a5f8-f69d-47dc-a800-4f0ddf4eada5.jpg?1712355371"
+        },
+        "mana_cost": "{1}{W}",
+        "cmc": 2.0,
+        "type_line": "Creature \u2014 Cat Beast Mount",
+        "oracle_text": "Whenever Trained Arynx attacks while saddled, it gains first strike until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)\nSaddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",
+        "power": "3",
+        "toughness": "1",
+        "colors": [
+            "W"
+        ],
+        "color_identity": [
+            "W"
+        ],
+        "keywords": [
+            "Saddle",
+            "Scry"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/ef32a5f8-f69d-47dc-a800-4f0ddf4eada5/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abc875500-f6df-4365-b2d6-7cf425daea97&unique=prints",
+        "collector_number": "36",
+        "digital": false,
+        "rarity": "common",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Milivoj \u0106eran",
+        "artist_ids": [
+            "1eced451-4da5-42bc-b49d-70c41246581f"
+        ],
+        "illustration_id": "4ff8443d-d810-429b-851c-4aac89d6eaa9",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 22418,
+        "prices": {
+            "usd": "0.04",
+            "usd_foil": "0.02",
+            "usd_etched": null,
+            "eur": "0.05",
+            "eur_foil": "0.09",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=654977&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DTrained%2BArynx",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DTrained%2BArynx",
+            "edhrec": "https://edhrec.com/route/?cc=Trained+Arynx"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544215%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/Trained-Arynx?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/123983?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 173989,
+        "ALSA": 4.73,
+        "# Picked": 39004,
+        "ATA": 6.0,
+        "# GP": 207686,
+        "% GP": 86.6,
+        "GP WR": 57.0,
+        "# OH": 37350,
+        "OH WR": 59.9,
+        "# GD": 45445,
+        "GD WR": 55.2,
+        "# GIH": 82795,
+        "GIH WR": 57.3,
+        "# GNS": 122314,
+        "GNS WR": 56.7,
+        "IWD": 0.6
+    }
+}

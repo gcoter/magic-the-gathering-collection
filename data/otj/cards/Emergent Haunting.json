@@ -1,0 +1,151 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "623053a8-7abe-45ec-9f26-97e1c037120b",
+        "oracle_id": "9f4d0133-0ecc-4498-8a47-4906321faae2",
+        "multiverse_ids": [
+            654987
+        ],
+        "mtgo_id": 124003,
+        "arena_id": 90392,
+        "tcgplayer_id": 544342,
+        "cardmarket_id": 763879,
+        "name": "Emergent Haunting",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/623053a8-7abe-45ec-9f26-97e1c037120b",
+        "scryfall_uri": "https://scryfall.com/card/otj/46/emergent-haunting?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/6/2/623053a8-7abe-45ec-9f26-97e1c037120b.jpg?1712355411",
+            "normal": "https://cards.scryfall.io/normal/front/6/2/623053a8-7abe-45ec-9f26-97e1c037120b.jpg?1712355411",
+            "large": "https://cards.scryfall.io/large/front/6/2/623053a8-7abe-45ec-9f26-97e1c037120b.jpg?1712355411",
+            "png": "https://cards.scryfall.io/png/front/6/2/623053a8-7abe-45ec-9f26-97e1c037120b.png?1712355411",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/6/2/623053a8-7abe-45ec-9f26-97e1c037120b.jpg?1712355411",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/6/2/623053a8-7abe-45ec-9f26-97e1c037120b.jpg?1712355411"
+        },
+        "mana_cost": "{1}{U}",
+        "cmc": 2.0,
+        "type_line": "Enchantment",
+        "oracle_text": "At the beginning of your end step, if you haven't cast a spell from your hand this turn and Emergent Haunting isn't a creature, it becomes a 3/3 Spirit creature with flying in addition to its other types.\n{2}{U}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+        "colors": [
+            "U"
+        ],
+        "color_identity": [
+            "U"
+        ],
+        "keywords": [
+            "Surveil"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/623053a8-7abe-45ec-9f26-97e1c037120b/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9f4d0133-0ecc-4498-8a47-4906321faae2&unique=prints",
+        "collector_number": "46",
+        "digital": false,
+        "rarity": "uncommon",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Jorge Jacinto",
+        "artist_ids": [
+            "05a3ac12-b25d-48e2-af5e-8a299fd3da14"
+        ],
+        "illustration_id": "9264dd9e-40aa-4a73-9d60-2a6ef144e850",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 25539,
+        "preview": {
+            "source": "jacERROR",
+            "source_uri": "https://www.bilibili.com/video/BV1ZC411b7Z4/",
+            "previewed_at": "2024-03-25"
+        },
+        "prices": {
+            "usd": "0.03",
+            "usd_foil": "0.03",
+            "usd_etched": null,
+            "eur": "0.05",
+            "eur_foil": "0.05",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=654987&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DEmergent%2BHaunting",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DEmergent%2BHaunting",
+            "edhrec": "https://edhrec.com/route/?cc=Emergent+Haunting"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544342%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/Emergent-Haunting?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124003?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 74623,
+        "ALSA": 5.19,
+        "# Picked": 13267,
+        "ATA": 6.75,
+        "# GP": 49602,
+        "% GP": 65.1,
+        "GP WR": 50.8,
+        "# OH": 8706,
+        "OH WR": 52.4,
+        "# GD": 13570,
+        "GD WR": 51.5,
+        "# GIH": 22276,
+        "GIH WR": 51.8,
+        "# GNS": 27254,
+        "GNS WR": 50.0,
+        "IWD": 1.9
+    }
+}

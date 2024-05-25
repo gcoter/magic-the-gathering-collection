@@ -1,0 +1,170 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "357dd9b2-5d2d-49f6-86f0-f5c4d63474dd",
+        "oracle_id": "afe2f7a4-9440-4d93-801f-a18b627efb21",
+        "multiverse_ids": [
+            655066
+        ],
+        "mtgo_id": 124161,
+        "arena_id": 90471,
+        "tcgplayer_id": 544271,
+        "cardmarket_id": 763566,
+        "name": "Great Train Heist",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/357dd9b2-5d2d-49f6-86f0-f5c4d63474dd",
+        "scryfall_uri": "https://scryfall.com/card/otj/125/great-train-heist?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/3/5/357dd9b2-5d2d-49f6-86f0-f5c4d63474dd.jpg?1712860638",
+            "normal": "https://cards.scryfall.io/normal/front/3/5/357dd9b2-5d2d-49f6-86f0-f5c4d63474dd.jpg?1712860638",
+            "large": "https://cards.scryfall.io/large/front/3/5/357dd9b2-5d2d-49f6-86f0-f5c4d63474dd.jpg?1712860638",
+            "png": "https://cards.scryfall.io/png/front/3/5/357dd9b2-5d2d-49f6-86f0-f5c4d63474dd.png?1712860638",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/3/5/357dd9b2-5d2d-49f6-86f0-f5c4d63474dd.jpg?1712860638",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/3/5/357dd9b2-5d2d-49f6-86f0-f5c4d63474dd.jpg?1712860638"
+        },
+        "mana_cost": "{R}",
+        "cmc": 1.0,
+        "type_line": "Instant",
+        "oracle_text": "Spree (Choose one or more additional costs.)\n+ {2}{R} \u2014 Untap all creatures you control. If it's your combat phase, there is an additional combat phase after this phase.\n+ {2} \u2014 Creatures you control get +1/+0 and gain first strike until end of turn.\n+ {R} \u2014 Choose target opponent. Whenever a creature you control deals combat damage to that player this turn, create a tapped Treasure token.",
+        "colors": [
+            "R"
+        ],
+        "color_identity": [
+            "R"
+        ],
+        "keywords": [
+            "Treasure",
+            "Spree"
+        ],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "7ec6f053-96f7-4e57-b2eb-4e7699a40a4f",
+                "component": "token",
+                "name": "Treasure",
+                "type_line": "Token Artifact \u2014 Treasure",
+                "uri": "https://api.scryfall.com/cards/7ec6f053-96f7-4e57-b2eb-4e7699a40a4f"
+            },
+            {
+                "object": "related_card",
+                "id": "b570d9c5-3348-482f-a211-ed8c9777a9fa",
+                "component": "combo_piece",
+                "name": "Great Train Heist",
+                "type_line": "Instant",
+                "uri": "https://api.scryfall.com/cards/b570d9c5-3348-482f-a211-ed8c9777a9fa"
+            }
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/357dd9b2-5d2d-49f6-86f0-f5c4d63474dd/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aafe2f7a4-9440-4d93-801f-a18b627efb21&unique=prints",
+        "collector_number": "125",
+        "digital": false,
+        "rarity": "rare",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Campbell White",
+        "artist_ids": [
+            "d281eab4-463a-4ba8-9039-8943737960a0"
+        ],
+        "illustration_id": "c54bfab1-8a95-4bf8-8ac4-148173e13ebb",
+        "border_color": "black",
+        "frame": "2015",
+        "frame_effects": [
+            "spree"
+        ],
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 7750,
+        "penny_rank": 3210,
+        "prices": {
+            "usd": "2.62",
+            "usd_foil": "2.66",
+            "usd_etched": null,
+            "eur": "2.27",
+            "eur_foil": "2.76",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=655066&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DGreat%2BTrain%2BHeist",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DGreat%2BTrain%2BHeist",
+            "edhrec": "https://edhrec.com/route/?cc=Great+Train+Heist"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544271%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/Great-Train-Heist?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124161?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 17366,
+        "ALSA": 2.83,
+        "# Picked": 4292,
+        "ATA": 3.17,
+        "# GP": 19025,
+        "% GP": 76.2,
+        "GP WR": 52.5,
+        "# OH": 2948,
+        "OH WR": 52.3,
+        "# GD": 4332,
+        "GD WR": 55.9,
+        "# GIH": 7280,
+        "GIH WR": 54.4,
+        "# GNS": 11715,
+        "GNS WR": 51.2,
+        "IWD": 3.2
+    }
+}

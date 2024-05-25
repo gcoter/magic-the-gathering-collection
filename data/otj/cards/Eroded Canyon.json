@@ -1,0 +1,149 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "5c9d080f-28d7-41d6-a4e0-5b3e3a5ed770",
+        "oracle_id": "852c6520-d148-4923-a312-05a9af821f24",
+        "multiverse_ids": [
+            655197
+        ],
+        "mtgo_id": 124423,
+        "arena_id": 90602,
+        "tcgplayer_id": 544233,
+        "cardmarket_id": 763603,
+        "name": "Eroded Canyon",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/5c9d080f-28d7-41d6-a4e0-5b3e3a5ed770",
+        "scryfall_uri": "https://scryfall.com/card/otj/256/eroded-canyon?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/5/c/5c9d080f-28d7-41d6-a4e0-5b3e3a5ed770.jpg?1712356324",
+            "normal": "https://cards.scryfall.io/normal/front/5/c/5c9d080f-28d7-41d6-a4e0-5b3e3a5ed770.jpg?1712356324",
+            "large": "https://cards.scryfall.io/large/front/5/c/5c9d080f-28d7-41d6-a4e0-5b3e3a5ed770.jpg?1712356324",
+            "png": "https://cards.scryfall.io/png/front/5/c/5c9d080f-28d7-41d6-a4e0-5b3e3a5ed770.png?1712356324",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/5/c/5c9d080f-28d7-41d6-a4e0-5b3e3a5ed770.jpg?1712356324",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/5/c/5c9d080f-28d7-41d6-a4e0-5b3e3a5ed770.jpg?1712356324"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Land \u2014 Desert",
+        "oracle_text": "Eroded Canyon enters the battlefield tapped.\nWhen Eroded Canyon enters the battlefield, it deals 1 damage to target opponent.\n{T}: Add {U} or {R}.",
+        "colors": [],
+        "color_identity": [
+            "R",
+            "U"
+        ],
+        "keywords": [],
+        "produced_mana": [
+            "R",
+            "U"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/5c9d080f-28d7-41d6-a4e0-5b3e3a5ed770/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A852c6520-d148-4923-a312-05a9af821f24&unique=prints",
+        "collector_number": "256",
+        "digital": false,
+        "rarity": "common",
+        "flavor_text": "\"The water looks like liquid gold. Wonder how many died trying to bottle it.\"\n\u2014Pioneer journal of Big Ralph",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Piotr Dura",
+        "artist_ids": [
+            "aff176e8-1d15-432e-ad1d-207a474decba"
+        ],
+        "illustration_id": "412cc9d6-d536-4b81-a0d2-df0617bd4ca5",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 13947,
+        "penny_rank": 588,
+        "prices": {
+            "usd": "0.13",
+            "usd_foil": "0.17",
+            "usd_etched": null,
+            "eur": "0.10",
+            "eur_foil": "0.15",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=655197&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DEroded%2BCanyon",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DEroded%2BCanyon",
+            "edhrec": "https://edhrec.com/route/?cc=Eroded+Canyon"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544233%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/Eroded-Canyon?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124423?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 112488,
+        "ALSA": 5.32,
+        "# Picked": 21234,
+        "ATA": 7.29,
+        "# GP": 93495,
+        "% GP": 75.2,
+        "GP WR": 52.8,
+        "# OH": 17188,
+        "OH WR": 54.1,
+        "# GD": 23773,
+        "GD WR": 54.1,
+        "# GIH": 40961,
+        "GIH WR": 54.1,
+        "# GNS": 50807,
+        "GNS WR": 51.3,
+        "IWD": 2.8
+    }
+}

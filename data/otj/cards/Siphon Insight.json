@@ -1,0 +1,146 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "28a6b23f-a854-469a-9b06-119507dd9d42",
+        "oracle_id": "aee82122-d13e-4175-b499-9dde718e4da9",
+        "multiverse_ids": [
+            658686
+        ],
+        "mtgo_id": 124947,
+        "tcgplayer_id": 545215,
+        "cardmarket_id": 764725,
+        "name": "Siphon Insight",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/28a6b23f-a854-469a-9b06-119507dd9d42",
+        "scryfall_uri": "https://scryfall.com/card/otc/242/siphon-insight?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/2/8/28a6b23f-a854-469a-9b06-119507dd9d42.jpg?1712354783",
+            "normal": "https://cards.scryfall.io/normal/front/2/8/28a6b23f-a854-469a-9b06-119507dd9d42.jpg?1712354783",
+            "large": "https://cards.scryfall.io/large/front/2/8/28a6b23f-a854-469a-9b06-119507dd9d42.jpg?1712354783",
+            "png": "https://cards.scryfall.io/png/front/2/8/28a6b23f-a854-469a-9b06-119507dd9d42.png?1712354783",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/2/8/28a6b23f-a854-469a-9b06-119507dd9d42.jpg?1712354783",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/2/8/28a6b23f-a854-469a-9b06-119507dd9d42.jpg?1712354783"
+        },
+        "mana_cost": "{U}{B}",
+        "cmc": 2.0,
+        "type_line": "Instant",
+        "oracle_text": "Look at the top two cards of target opponent's library. Exile one of them face down and put the other on the bottom of that library. You may look at and play the exiled card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.\nFlashback {1}{U}{B}",
+        "colors": [
+            "B",
+            "U"
+        ],
+        "color_identity": [
+            "B",
+            "U"
+        ],
+        "keywords": [
+            "Flashback"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": false,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": true,
+        "variation": false,
+        "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+        "set": "otc",
+        "set_name": "Outlaws of Thunder Junction Commander",
+        "set_type": "commander",
+        "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/28a6b23f-a854-469a-9b06-119507dd9d42/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aaee82122-d13e-4175-b499-9dde718e4da9&unique=prints",
+        "collector_number": "242",
+        "digital": false,
+        "rarity": "rare",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Livia Prima",
+        "artist_ids": [
+            "0f41e561-bc26-4d85-aab6-66c384e01b74"
+        ],
+        "illustration_id": "1a41b22a-65f8-45c0-9ab9-e5b82ad11fea",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": false,
+        "story_spotlight": false,
+        "edhrec_rank": 3028,
+        "prices": {
+            "usd": "0.12",
+            "usd_foil": null,
+            "usd_etched": null,
+            "eur": "0.14",
+            "eur_foil": null,
+            "tix": "0.13"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=658686&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DSiphon%2BInsight",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DSiphon%2BInsight",
+            "edhrec": "https://edhrec.com/route/?cc=Siphon+Insight"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F545215%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Outlaws-of-Thunder-Junction/Siphon-Insight?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124947?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 16076,
+        "ALSA": 4.37,
+        "# Picked": 3137,
+        "ATA": 5.74,
+        "# GP": 12025,
+        "% GP": 65.6,
+        "GP WR": 52.7,
+        "# OH": 2072,
+        "OH WR": 51.3,
+        "# GD": 3370,
+        "GD WR": 57.4,
+        "# GIH": 5442,
+        "GIH WR": 55.1,
+        "# GNS": 6542,
+        "GNS WR": 50.6,
+        "IWD": 4.5
+    }
+}

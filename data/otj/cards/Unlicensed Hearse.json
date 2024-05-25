@@ -1,0 +1,150 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "93ee60f7-31dd-4bc6-b71f-57a1a0d19d20",
+        "oracle_id": "c640654c-487e-4a2c-aced-126ed835b78f",
+        "multiverse_ids": [
+            555447
+        ],
+        "mtgo_id": 98711,
+        "arena_id": 80397,
+        "tcgplayer_id": 268735,
+        "cardmarket_id": 651866,
+        "name": "Unlicensed Hearse",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/93ee60f7-31dd-4bc6-b71f-57a1a0d19d20",
+        "scryfall_uri": "https://scryfall.com/card/snc/246/unlicensed-hearse?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/9/3/93ee60f7-31dd-4bc6-b71f-57a1a0d19d20.jpg?1664414360",
+            "normal": "https://cards.scryfall.io/normal/front/9/3/93ee60f7-31dd-4bc6-b71f-57a1a0d19d20.jpg?1664414360",
+            "large": "https://cards.scryfall.io/large/front/9/3/93ee60f7-31dd-4bc6-b71f-57a1a0d19d20.jpg?1664414360",
+            "png": "https://cards.scryfall.io/png/front/9/3/93ee60f7-31dd-4bc6-b71f-57a1a0d19d20.png?1664414360",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/9/3/93ee60f7-31dd-4bc6-b71f-57a1a0d19d20.jpg?1664414360",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/9/3/93ee60f7-31dd-4bc6-b71f-57a1a0d19d20.jpg?1664414360"
+        },
+        "mana_cost": "{2}",
+        "cmc": 2.0,
+        "type_line": "Artifact \u2014 Vehicle",
+        "oracle_text": "{T}: Exile up to two target cards from a single graveyard.\nUnlicensed Hearse's power and toughness are each equal to the number of cards exiled with it.\nCrew 2",
+        "power": "*",
+        "toughness": "*",
+        "colors": [],
+        "color_identity": [],
+        "keywords": [
+            "Crew"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/93ee60f7-31dd-4bc6-b71f-57a1a0d19d20/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac640654c-487e-4a2c-aced-126ed835b78f&unique=prints",
+        "collector_number": "246",
+        "digital": false,
+        "rarity": "rare",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Chris Seaman",
+        "artist_ids": [
+            "b9c49463-6f55-4039-9d32-c02a658af100"
+        ],
+        "illustration_id": "1cc7a355-e314-44b3-b7d2-f996df153339",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 4018,
+        "preview": {
+            "source": "ComicBook.com",
+            "source_uri": "https://comicbook.com/gaming/news/mtg-magic-the-gathering-capenna-spoilers-unlicensed-hearse/",
+            "previewed_at": "2022-04-12"
+        },
+        "prices": {
+            "usd": "2.76",
+            "usd_foil": "3.63",
+            "usd_etched": null,
+            "eur": "3.48",
+            "eur_foil": "4.95",
+            "tix": "4.19"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555447&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DUnlicensed%2BHearse",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DUnlicensed%2BHearse",
+            "edhrec": "https://edhrec.com/route/?cc=Unlicensed+Hearse"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268735%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/Unlicensed-Hearse?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98711?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 11471,
+        "ALSA": 3.07,
+        "# Picked": 2548,
+        "ATA": 3.7,
+        "# GP": 11626,
+        "% GP": 79.0,
+        "GP WR": 51.5,
+        "# OH": 2027,
+        "OH WR": 50.6,
+        "# GD": 2871,
+        "GD WR": 53.3,
+        "# GIH": 4898,
+        "GIH WR": 52.2,
+        "# GNS": 6725,
+        "GNS WR": 50.8,
+        "IWD": 1.4
+    }
+}

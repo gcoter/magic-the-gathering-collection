@@ -1,0 +1,150 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "c494820f-607d-4ed2-8a86-a916ae390272",
+        "oracle_id": "f1dce3f0-30c8-488f-bbeb-b0533886c655",
+        "multiverse_ids": [
+            655096
+        ],
+        "mtgo_id": 124221,
+        "arena_id": 90501,
+        "tcgplayer_id": 544604,
+        "cardmarket_id": 764034,
+        "name": "Betrayal at the Vault",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/c494820f-607d-4ed2-8a86-a916ae390272",
+        "scryfall_uri": "https://scryfall.com/card/otj/155/betrayal-at-the-vault?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/c/4/c494820f-607d-4ed2-8a86-a916ae390272.jpg?1712355886",
+            "normal": "https://cards.scryfall.io/normal/front/c/4/c494820f-607d-4ed2-8a86-a916ae390272.jpg?1712355886",
+            "large": "https://cards.scryfall.io/large/front/c/4/c494820f-607d-4ed2-8a86-a916ae390272.jpg?1712355886",
+            "png": "https://cards.scryfall.io/png/front/c/4/c494820f-607d-4ed2-8a86-a916ae390272.png?1712355886",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/c/4/c494820f-607d-4ed2-8a86-a916ae390272.jpg?1712355886",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/c/4/c494820f-607d-4ed2-8a86-a916ae390272.jpg?1712355886"
+        },
+        "mana_cost": "{4}{G}{G}",
+        "cmc": 6.0,
+        "type_line": "Instant",
+        "oracle_text": "Target creature you control deals damage equal to its power to each of two other target creatures.",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "keywords": [],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/c494820f-607d-4ed2-8a86-a916ae390272/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af1dce3f0-30c8-488f-bbeb-b0533886c655&unique=prints",
+        "collector_number": "155",
+        "digital": false,
+        "rarity": "uncommon",
+        "flavor_text": "The vault cracked open, and the unlikely alliance met the likeliest of ends, as greed, rage, and self-interest won out over any shred of loyalty.",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Andreas Zafiratos",
+        "artist_ids": [
+            "e2f13a9a-57c5-40de-81d4-3b0723899cdf"
+        ],
+        "illustration_id": "cb9b04db-1baa-44e7-9e27-b07559432034",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": true,
+        "edhrec_rank": 23003,
+        "preview": {
+            "source": "The Vorthos Cast",
+            "source_uri": "https://twitter.com/TheVorthosCast/status/1773681514800460027",
+            "previewed_at": "2024-03-29"
+        },
+        "prices": {
+            "usd": "0.04",
+            "usd_foil": "0.04",
+            "usd_etched": null,
+            "eur": "0.07",
+            "eur_foil": "0.09",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=655096&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBetrayal%2Bat%2Bthe%2BVault",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBetrayal%2Bat%2Bthe%2BVault",
+            "edhrec": "https://edhrec.com/route/?cc=Betrayal+at+the+Vault"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544604%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/Betrayal-at-the-Vault?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124221?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 72136,
+        "ALSA": 4.82,
+        "# Picked": 14688,
+        "ATA": 6.36,
+        "# GP": 66706,
+        "% GP": 75.3,
+        "GP WR": 55.7,
+        "# OH": 9945,
+        "OH WR": 53.8,
+        "# GD": 15652,
+        "GD WR": 58.7,
+        "# GIH": 25597,
+        "GIH WR": 56.8,
+        "# GNS": 40997,
+        "GNS WR": 55.1,
+        "IWD": 1.8
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "e2df3cb4-1658-450a-912a-df336706acdc",
+        "oracle_id": "eec7d4f4-4141-49ed-8978-aefacc0a6609",
+        "multiverse_ids": [
+            655042
+        ],
+        "mtgo_id": 124113,
+        "arena_id": 90447,
+        "tcgplayer_id": 544420,
+        "cardmarket_id": 763929,
+        "name": "Raven of Fell Omens",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/e2df3cb4-1658-450a-912a-df336706acdc",
+        "scryfall_uri": "https://scryfall.com/card/otj/101/raven-of-fell-omens?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/e/2/e2df3cb4-1658-450a-912a-df336706acdc.jpg?1712355645",
+            "normal": "https://cards.scryfall.io/normal/front/e/2/e2df3cb4-1658-450a-912a-df336706acdc.jpg?1712355645",
+            "large": "https://cards.scryfall.io/large/front/e/2/e2df3cb4-1658-450a-912a-df336706acdc.jpg?1712355645",
+            "png": "https://cards.scryfall.io/png/front/e/2/e2df3cb4-1658-450a-912a-df336706acdc.png?1712355645",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/e/2/e2df3cb4-1658-450a-912a-df336706acdc.jpg?1712355645",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/e/2/e2df3cb4-1658-450a-912a-df336706acdc.jpg?1712355645"
+        },
+        "mana_cost": "{1}{B}",
+        "cmc": 2.0,
+        "type_line": "Creature \u2014 Bird",
+        "oracle_text": "Flying\nWhenever you commit a crime, each opponent loses 1 life and you gain 1 life. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",
+        "power": "1",
+        "toughness": "2",
+        "colors": [
+            "B"
+        ],
+        "color_identity": [
+            "B"
+        ],
+        "keywords": [
+            "Flying"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/e2df3cb4-1658-450a-912a-df336706acdc/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aeec7d4f4-4141-49ed-8978-aefacc0a6609&unique=prints",
+        "collector_number": "101",
+        "digital": false,
+        "rarity": "common",
+        "flavor_text": "A raven sighted at midnight often means there's unkindness on the way.",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Justin Cornell",
+        "artist_ids": [
+            "851c62e2-7fa1-4f75-97b8-bca3d0d6171a"
+        ],
+        "illustration_id": "f1318ffa-1cfb-46ae-bce9-7c9a0760985c",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 17663,
+        "penny_rank": 4479,
+        "prices": {
+            "usd": "0.08",
+            "usd_foil": "0.15",
+            "usd_etched": null,
+            "eur": "0.06",
+            "eur_foil": "0.13",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=655042&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DRaven%2Bof%2BFell%2BOmens",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DRaven%2Bof%2BFell%2BOmens",
+            "edhrec": "https://edhrec.com/route/?cc=Raven+of+Fell+Omens"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544420%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/Raven-of-Fell-Omens?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124113?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 189026,
+        "ALSA": 5.2,
+        "# Picked": 30875,
+        "ATA": 7.29,
+        "# GP": 137654,
+        "% GP": 76.1,
+        "GP WR": 52.8,
+        "# OH": 24429,
+        "OH WR": 53.1,
+        "# GD": 34831,
+        "GD WR": 54.6,
+        "# GIH": 59260,
+        "GIH WR": 54.0,
+        "# GNS": 78213,
+        "GNS WR": 51.8,
+        "IWD": 2.2
+    }
+}

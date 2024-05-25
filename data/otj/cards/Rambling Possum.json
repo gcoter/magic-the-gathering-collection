@@ -1,0 +1,153 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "19d1e75f-0fee-4e07-9420-df771b696e85",
+        "oracle_id": "4b100e6f-6c19-49d2-b9c4-613d63d42151",
+        "multiverse_ids": [
+            655117
+        ],
+        "mtgo_id": 124263,
+        "arena_id": 90522,
+        "tcgplayer_id": 544409,
+        "cardmarket_id": 763947,
+        "name": "Rambling Possum",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/19d1e75f-0fee-4e07-9420-df771b696e85",
+        "scryfall_uri": "https://scryfall.com/card/otj/176/rambling-possum?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/1/9/19d1e75f-0fee-4e07-9420-df771b696e85.jpg?1712401596",
+            "normal": "https://cards.scryfall.io/normal/front/1/9/19d1e75f-0fee-4e07-9420-df771b696e85.jpg?1712401596",
+            "large": "https://cards.scryfall.io/large/front/1/9/19d1e75f-0fee-4e07-9420-df771b696e85.jpg?1712401596",
+            "png": "https://cards.scryfall.io/png/front/1/9/19d1e75f-0fee-4e07-9420-df771b696e85.png?1712401596",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/1/9/19d1e75f-0fee-4e07-9420-df771b696e85.jpg?1712401596",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/1/9/19d1e75f-0fee-4e07-9420-df771b696e85.jpg?1712401596"
+        },
+        "mana_cost": "{2}{G}",
+        "cmc": 3.0,
+        "type_line": "Creature \u2014 Possum Mount",
+        "oracle_text": "Whenever Rambling Possum attacks while saddled, it gets +1/+2 until end of turn. Then you may return any number of creatures that saddled it this turn to their owner's hand.\nSaddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",
+        "power": "3",
+        "toughness": "3",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "keywords": [
+            "Saddle"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "legal",
+            "paupercommander": "restricted",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set": "otj",
+        "set_name": "Outlaws of Thunder Junction",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/19d1e75f-0fee-4e07-9420-df771b696e85/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4b100e6f-6c19-49d2-b9c4-613d63d42151&unique=prints",
+        "collector_number": "176",
+        "digital": false,
+        "rarity": "uncommon",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Adri\u00e1n Rodr\u00edguez P\u00e9rez",
+        "artist_ids": [
+            "24f88106-bd8e-4fea-963d-c523bd8b8137"
+        ],
+        "illustration_id": "2ba6d695-1992-489f-9bae-3dca76a50ff8",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 21906,
+        "preview": {
+            "source": "Eliott Dragon",
+            "source_uri": "https://twitter.com/eliott_dragon/status/1773069983360385395",
+            "previewed_at": "2024-03-27"
+        },
+        "prices": {
+            "usd": "0.09",
+            "usd_foil": "0.12",
+            "usd_etched": null,
+            "eur": "0.07",
+            "eur_foil": "0.09",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=655117&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DRambling%2BPossum",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DRambling%2BPossum",
+            "edhrec": "https://edhrec.com/route/?cc=Rambling+Possum"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544409%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Outlaws-of-Thunder-Junction/Rambling-Possum?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124263?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 57684,
+        "ALSA": 3.74,
+        "# Picked": 14558,
+        "ATA": 4.76,
+        "# GP": 78179,
+        "% GP": 89.7,
+        "GP WR": 55.3,
+        "# OH": 13679,
+        "OH WR": 55.2,
+        "# GD": 17762,
+        "GD WR": 54.9,
+        "# GIH": 31441,
+        "GIH WR": 55.0,
+        "# GNS": 46138,
+        "GNS WR": 55.5,
+        "IWD": -0.4
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "a467072c-99d9-4013-8d28-607a06cf50fe",
+        "oracle_id": "f2fae95d-074b-4c0c-99cd-f9385a424c05",
+        "multiverse_ids": [
+            658693
+        ],
+        "mtgo_id": 124961,
+        "tcgplayer_id": 545587,
+        "cardmarket_id": 764819,
+        "name": "Villainous Wealth",
+        "lang": "en",
+        "released_at": "2024-04-19",
+        "uri": "https://api.scryfall.com/cards/a467072c-99d9-4013-8d28-607a06cf50fe",
+        "scryfall_uri": "https://scryfall.com/card/otc/249/villainous-wealth?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/a/4/a467072c-99d9-4013-8d28-607a06cf50fe.jpg?1712354811",
+            "normal": "https://cards.scryfall.io/normal/front/a/4/a467072c-99d9-4013-8d28-607a06cf50fe.jpg?1712354811",
+            "large": "https://cards.scryfall.io/large/front/a/4/a467072c-99d9-4013-8d28-607a06cf50fe.jpg?1712354811",
+            "png": "https://cards.scryfall.io/png/front/a/4/a467072c-99d9-4013-8d28-607a06cf50fe.png?1712354811",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/a/4/a467072c-99d9-4013-8d28-607a06cf50fe.jpg?1712354811",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/a/4/a467072c-99d9-4013-8d28-607a06cf50fe.jpg?1712354811"
+        },
+        "mana_cost": "{X}{B}{G}{U}",
+        "cmc": 3.0,
+        "type_line": "Sorcery",
+        "oracle_text": "Target opponent exiles the top X cards of their library. You may cast any number of spells with mana value X or less from among them without paying their mana costs.",
+        "colors": [
+            "B",
+            "G",
+            "U"
+        ],
+        "color_identity": [
+            "B",
+            "G",
+            "U"
+        ],
+        "keywords": [],
+        "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "not_legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": false,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": true,
+        "variation": false,
+        "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+        "set": "otc",
+        "set_name": "Outlaws of Thunder Junction Commander",
+        "set_type": "commander",
+        "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/a467072c-99d9-4013-8d28-607a06cf50fe/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af2fae95d-074b-4c0c-99cd-f9385a424c05&unique=prints",
+        "collector_number": "249",
+        "digital": false,
+        "rarity": "rare",
+        "flavor_text": "Gold buys death. Death earns gold.",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Erica Yang",
+        "artist_ids": [
+            "fcc15b63-b280-49da-9fee-f862824a2fc8"
+        ],
+        "illustration_id": "e46a8183-2725-4ddf-9494-8f4367af826f",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": false,
+        "story_spotlight": false,
+        "edhrec_rank": 1655,
+        "penny_rank": 3588,
+        "prices": {
+            "usd": "0.09",
+            "usd_foil": null,
+            "usd_etched": null,
+            "eur": "0.14",
+            "eur_foil": null,
+            "tix": "0.04"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=658693&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DVillainous%2BWealth",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DVillainous%2BWealth",
+            "edhrec": "https://edhrec.com/route/?cc=Villainous+Wealth"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F545587%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Outlaws-of-Thunder-Junction/Villainous-Wealth?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/124961?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 13422,
+        "ALSA": 3.78,
+        "# Picked": 3936,
+        "ATA": 4.3,
+        "# GP": 17339,
+        "% GP": 75.8,
+        "GP WR": 52.1,
+        "# OH": 2730,
+        "OH WR": 48.0,
+        "# GD": 4783,
+        "GD WR": 57.7,
+        "# GIH": 7513,
+        "GIH WR": 54.2,
+        "# GNS": 9581,
+        "GNS WR": 50.1,
+        "IWD": 4.1
+    }
+}

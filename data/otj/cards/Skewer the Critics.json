@@ -1,0 +1,147 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "43ca8f80-e9ed-483f-a8a7-ad6149811df9",
+        "oracle_id": "c43b616e-ef87-4c12-810b-a1a3260168fa",
+        "multiverse_ids": [
+            643131
+        ],
+        "mtgo_id": 120775,
+        "tcgplayer_id": 531006,
+        "cardmarket_id": 748472,
+        "name": "Skewer the Critics",
+        "lang": "en",
+        "released_at": "2024-01-12",
+        "uri": "https://api.scryfall.com/cards/43ca8f80-e9ed-483f-a8a7-ad6149811df9",
+        "scryfall_uri": "https://scryfall.com/card/rvr/124/skewer-the-critics?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/4/3/43ca8f80-e9ed-483f-a8a7-ad6149811df9.jpg?1702429529",
+            "normal": "https://cards.scryfall.io/normal/front/4/3/43ca8f80-e9ed-483f-a8a7-ad6149811df9.jpg?1702429529",
+            "large": "https://cards.scryfall.io/large/front/4/3/43ca8f80-e9ed-483f-a8a7-ad6149811df9.jpg?1702429529",
+            "png": "https://cards.scryfall.io/png/front/4/3/43ca8f80-e9ed-483f-a8a7-ad6149811df9.png?1702429529",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/4/3/43ca8f80-e9ed-483f-a8a7-ad6149811df9.jpg?1702429529",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/4/3/43ca8f80-e9ed-483f-a8a7-ad6149811df9.jpg?1702429529"
+        },
+        "mana_cost": "{2}{R}",
+        "cmc": 3.0,
+        "type_line": "Sorcery",
+        "oracle_text": "Spectacle {R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)\nSkewer the Critics deals 3 damage to any target.",
+        "colors": [
+            "R"
+        ],
+        "color_identity": [
+            "R"
+        ],
+        "keywords": [
+            "Spectacle"
+        ],
+        "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "not_legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": true,
+        "variation": false,
+        "set_id": "fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+        "set": "rvr",
+        "set_name": "Ravnica Remastered",
+        "set_type": "masters",
+        "set_uri": "https://api.scryfall.com/sets/fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arvr&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/rvr?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/43ca8f80-e9ed-483f-a8a7-ad6149811df9/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac43b616e-ef87-4c12-810b-a1a3260168fa&unique=prints",
+        "collector_number": "124",
+        "digital": false,
+        "rarity": "common",
+        "watermark": "rakdos",
+        "flavor_text": "Going to a Rakdos show is dangerous. Trying to leave early can be fatal.",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Heonhwa Choe",
+        "artist_ids": [
+            "ce415f9e-8a20-4d64-bcba-2b1b7e94012e"
+        ],
+        "illustration_id": "2a544020-5c51-4717-b3d8-c29a1a2c2317",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 8667,
+        "penny_rank": 502,
+        "prices": {
+            "usd": "0.16",
+            "usd_foil": "0.27",
+            "usd_etched": null,
+            "eur": "0.10",
+            "eur_foil": "0.50",
+            "tix": "0.04"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=643131&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DSkewer%2Bthe%2BCritics",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DSkewer%2Bthe%2BCritics",
+            "edhrec": "https://edhrec.com/route/?cc=Skewer+the+Critics"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F531006%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Ravnica-Remastered/Skewer-the-Critics?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/120775?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1,
+    "17lands": {
+        "# Seen": 57075,
+        "ALSA": 3.82,
+        "# Picked": 9996,
+        "ATA": 5.08,
+        "# GP": 49337,
+        "% GP": 84.1,
+        "GP WR": 52.5,
+        "# OH": 8157,
+        "OH WR": 51.9,
+        "# GD": 11951,
+        "GD WR": 54.1,
+        "# GIH": 20108,
+        "GIH WR": 53.2,
+        "# GNS": 29153,
+        "GNS WR": 52.0,
+        "IWD": 1.2
+    }
+}
