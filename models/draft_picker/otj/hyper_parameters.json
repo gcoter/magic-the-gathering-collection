@@ -1,0 +1,1 @@
+{"input_dim": 45, "transformer_encoder_n_layers": 10, "transformer_encoder_layer_dim": 128, "transformer_encoder_layer_n_heads": 8}
