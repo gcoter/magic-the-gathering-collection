@@ -155,10 +155,16 @@ class DraftTrainer:
         loss_history = pd.DataFrame(loss_history)
         validation_metrics_history = pd.DataFrame(validation_metrics_history)
         Path(output_folder).mkdir(parents=True, exist_ok=True)
+        self.__save_preprocessor(output_folder)
         self.__save_model(model, output_folder)
         self.__save_hyper_parameters(output_folder)
         self.__save_loss_history(loss_history, output_folder)
         self.__save_metrics(validation_metrics_history, output_folder)
+
+    def __save_preprocessor(self, output_folder: str):
+        save_path = os.path.join(output_folder, "preprocessor.json")
+        print(f"Save preprocessor to '{save_path}'")
+        self.card_preprocessor.to_json(path=save_path)
 
     def __save_model(self, model, output_folder: str):
         save_path = os.path.join(output_folder, "model.pt")

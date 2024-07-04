@@ -1,4 +1,5 @@
 import re
+import json
 
 import numpy as np
 
@@ -134,3 +135,11 @@ class CardPreprocessor:
         return np.array([
             games_in_hand_win_rate
         ])
+
+    def to_json(self, path):
+        json_dict = {
+            "card_type_vocabulary": self.card_type_vocabulary,
+            "keyword_vocabulary": self.keyword_vocabulary
+        }
+        with open(path, "w") as f:
+            json.dump(json_dict, f)
