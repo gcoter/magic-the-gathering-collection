@@ -125,5 +125,23 @@
             "cardhoarder": "https://www.cardhoarder.com/cards/126303?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
         }
     },
-    "count": 1
+    "count": 1,
+    "17lands": {
+        "# Seen": 199761,
+        "ALSA": 5.74,
+        "# Picked": 30377,
+        "ATA": 8.15,
+        "# GP": 123774,
+        "% GP": 67.8,
+        "GP WR": 55.3,
+        "# OH": 21431,
+        "OH WR": 53.9,
+        "# GD": 25164,
+        "GD WR": 53.9,
+        "# GIH": 46595,
+        "GIH WR": 53.9,
+        "# GNS": 76427,
+        "GNS WR": 56.0,
+        "IWD": -2.1
+    }
 }
