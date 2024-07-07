@@ -1,0 +1,96 @@
+{
+    "cards": [
+        {
+            "name": "Lion Umbra",
+            "count": 1
+        },
+        {
+            "name": "Gift of the Viper",
+            "count": 1
+        },
+        {
+            "name": "Temperamental Oozewagg",
+            "count": 1
+        },
+        {
+            "name": "Breaker of Creation",
+            "count": 1
+        },
+        {
+            "name": "Warped Tusker",
+            "count": 1
+        },
+        {
+            "name": "Voidpouncer",
+            "count": 1
+        },
+        {
+            "name": "Territory Culler",
+            "count": 1
+        },
+        {
+            "name": "Sarpadian Simulacrum",
+            "count": 1
+        },
+        {
+            "name": "Drownyard Lurker",
+            "count": 2
+        },
+        {
+            "name": "Infernal Captor",
+            "count": 1
+        },
+        {
+            "name": "Writhing Chrysalis",
+            "count": 1
+        },
+        {
+            "name": "Wastescape Battlemage",
+            "count": 1
+        },
+        {
+            "name": "Fowl Strike",
+            "count": 1
+        },
+        {
+            "name": "Basking Broodscale",
+            "count": 1
+        },
+        {
+            "name": "Colossal Dreadmask",
+            "count": 1
+        },
+        {
+            "name": "Hydra Trainer",
+            "count": 2
+        },
+        {
+            "name": "Path of Annihilation",
+            "count": 1
+        },
+        {
+            "name": "Nyxborn Hydra",
+            "count": 1
+        },
+        {
+            "name": "Deceptive Landscape",
+            "count": 1
+        },
+        {
+            "name": "Eldrazi Repurposer",
+            "count": 1
+        },
+        {
+            "name": "Shattered Landscape",
+            "count": 1
+        },
+        {
+            "name": "Fanged Flames",
+            "count": 1
+        },
+        {
+            "name": "Nightshade Dryad",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "scryfall": {
+        "object": "card",
+        "id": "98164430-64c1-465f-b786-45753c965f44",
+        "oracle_id": "1244902e-1a4e-4d3c-9a55-9be4602e3d2d",
+        "multiverse_ids": [
+            662300
+        ],
+        "mtgo_id": 126313,
+        "arena_id": 90998,
+        "tcgplayer_id": 552826,
+        "cardmarket_id": 772140,
+        "name": "Colossal Dreadmask",
+        "lang": "en",
+        "released_at": "2024-06-14",
+        "uri": "https://api.scryfall.com/cards/98164430-64c1-465f-b786-45753c965f44",
+        "scryfall_uri": "https://scryfall.com/card/mh3/148/colossal-dreadmask?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/9/8/98164430-64c1-465f-b786-45753c965f44.jpg?1717012415",
+            "normal": "https://cards.scryfall.io/normal/front/9/8/98164430-64c1-465f-b786-45753c965f44.jpg?1717012415",
+            "large": "https://cards.scryfall.io/large/front/9/8/98164430-64c1-465f-b786-45753c965f44.jpg?1717012415",
+            "png": "https://cards.scryfall.io/png/front/9/8/98164430-64c1-465f-b786-45753c965f44.png?1717012415",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/9/8/98164430-64c1-465f-b786-45753c965f44.jpg?1717012415",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/9/8/98164430-64c1-465f-b786-45753c965f44.jpg?1717012415"
+        },
+        "mana_cost": "{4}{G}{G}",
+        "cmc": 6.0,
+        "type_line": "Artifact \u2014 Equipment",
+        "oracle_text": "Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)\nEquipped creature gets +6/+6 and has trample.\nEquip {3}{G}{G}",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "keywords": [
+            "Equip",
+            "Living weapon"
+        ],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "98164430-64c1-465f-b786-45753c965f44",
+                "component": "combo_piece",
+                "name": "Colossal Dreadmask",
+                "type_line": "Artifact \u2014 Equipment",
+                "uri": "https://api.scryfall.com/cards/98164430-64c1-465f-b786-45753c965f44"
+            },
+            {
+                "object": "related_card",
+                "id": "5ec719dc-6b07-4b1d-a79c-84ebced33422",
+                "component": "token",
+                "name": "Phyrexian Germ",
+                "type_line": "Token Creature \u2014 Phyrexian Germ",
+                "uri": "https://api.scryfall.com/cards/5ec719dc-6b07-4b1d-a79c-84ebced33422"
+            }
+        ],
+        "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "not_legal",
+            "explorer": "not_legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "not_legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+        "set": "mh3",
+        "set_name": "Modern Horizons 3",
+        "set_type": "draft_innovation",
+        "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/98164430-64c1-465f-b786-45753c965f44/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1244902e-1a4e-4d3c-9a55-9be4602e3d2d&unique=prints",
+        "collector_number": "148",
+        "digital": false,
+        "rarity": "common",
+        "flavor_text": "No legs to quake, no lungs to bellow, but if you see its teeth, it's still too late.",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Caio Monteiro",
+        "artist_ids": [
+            "d5053eb6-af72-47a0-b6e8-023cc3b9aefb"
+        ],
+        "illustration_id": "2291e351-faa3-4fde-be65-504c3beb4144",
+        "border_color": "black",
+        "frame": "2015",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 20713,
+        "preview": {
+            "source": "Dino Dez",
+            "source_uri": "https://twitter.com/DezDino26037/status/1795215456170574039/photo/1",
+            "previewed_at": "2024-05-27"
+        },
+        "prices": {
+            "usd": "0.06",
+            "usd_foil": "0.06",
+            "usd_etched": null,
+            "eur": "0.09",
+            "eur_foil": "0.19",
+            "tix": "0.03"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662300&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DColossal%2BDreadmask",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DColossal%2BDreadmask",
+            "edhrec": "https://edhrec.com/route/?cc=Colossal+Dreadmask"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F552826%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Modern-Horizons-3/Colossal-Dreadmask?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/126313?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    "count": 1
+}
